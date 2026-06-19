@@ -2,7 +2,7 @@
 layout = [1, 3, 4]
 show_hidden = false
 sort_by = "alphabetical"
-sort_sdir_first = true
+sort_dir_first = true
 sort_sensitive = false
 scrolloff = 5
 
@@ -14,17 +14,12 @@ cache_dir = "/tmp/yazi"
 
 [opener]
 rules = [
-  { mime = "text/*", use = "nvim" },
-  { mime = "image/*", use = "feh" },
-  { mime = "video/*", use = "mpv" },
-  { mime = "audio/*", use = "mpv" },
-  { fallback = true, use = "xdg-open" },
+  { mime = "text/*", run = 'kitty -e nvim "$@"', block = true },
+  { mime = "image/*", run = 'feh "$@"', desktop = true },
+  { mime = "video/*", run = 'mpv "$@"', desktop = true },
+  { mime = "audio/*", run = 'mpv "$@"', desktop = true },
+  { fallback = true, run = 'xdg-open "$@"' },
 ]
-
-[openers]
-nvim = { run = 'kitty -e nvim "$@"', block = true }
-feh = { run = 'feh "$@"', desktop = true }
-mpv = { run = 'mpv "$@"', desktop = true }
 
 [trash]
 bin = "/tmp/yazi-trash"
