@@ -75,6 +75,18 @@ for dir in i3 kitty nvim dunst polybar rofi; do
   echo "    linked $dst -> $src"
 done
 
+echo ""
+echo "[*] Installing Feather icon font..."
+FONT_DIR="$HOME/.local/share/fonts"
+mkdir -p "$FONT_DIR"
+if [ -f "$REPO_DIR/fonts/feather.ttf" ]; then
+  cp "$REPO_DIR/fonts/feather.ttf" "$FONT_DIR/"
+  fc-cache -fv "$FONT_DIR" &>/dev/null
+  echo "    installed feather font"
+else
+  echo "    [!] feather.ttf not found in repo"
+fi
+
 # --- Wallpaper ---
 echo ""
 echo "[*] Setting up wallpaper..."
