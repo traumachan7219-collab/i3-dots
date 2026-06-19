@@ -10,7 +10,7 @@ packages=(
   xss-lock i3lock-color thunar dex python pipewire-pulse
   ttf-fira-code ttf-jetbrains-mono-nerd ttf-iosevka-nerd
   ttf-dejavu-nerd ttf-nerd-fonts-symbols noto-fonts-emoji papirus-icon-theme
-  pacman-contrib yazi
+  pacman-contrib
 )
 
 echo ":: i3 Dotfiles Installer"
@@ -49,7 +49,7 @@ fi
 echo ""
 echo "[*] Backing up existing configs to $BACKUP_DIR"
 mkdir -p "$BACKUP_DIR"
-for dir in i3 kitty nvim dunst yazi rofi; do
+for dir in i3 kitty nvim dunst rofi; do
   if [ -e "$HOME/.config/$dir" ]; then
     cp -r "$HOME/.config/$dir" "$BACKUP_DIR/$dir"
     echo "    backed up ~/.config/$dir"
@@ -63,7 +63,7 @@ fi
 # --- Symlink repo configs ---
 echo ""
 echo "[*] Installing configs..."
-for dir in i3 kitty nvim dunst yazi polybar rofi; do
+for dir in i3 kitty nvim dunst polybar rofi; do
   src="$REPO_DIR/.config/$dir"
   dst="$HOME/.config/$dir"
   if [ ! -e "$src" ]; then

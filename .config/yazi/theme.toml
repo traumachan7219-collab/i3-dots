@@ -1,0 +1,91 @@
+[manager]
+cwd = "#d81b60"
+hovered = { fg = "#ffb3d1", bg = "#d81b60" }
+preview_hovered = { fg = "#ffb3d1", bg = "#2a2a2a" }
+find_key = { fg = "#d81b60", bg = "#1F1F1F", bold = true }
+mark = { fg = "#1F1F1F", bg = "#00ffff" }
+mark_multi = { fg = "#1F1F1F", bg = "#ffb300" }
+odd = { fg = "#e4e4e4" }
+even = { fg = "#e4e4e4" }
+selected = { fg = "#ffb3d1" }
+
+[status]
+separator_open = ""
+separator_close = ""
+separator_style = { fg = "#d81b60" }
+mode_normal = { fg = "#1F1F1F", bg = "#d81b60", bold = true }
+mode_select = { fg = "#1F1F1F", bg = "#00ffff", bold = true }
+mode_unset = { fg = "#1F1F1F", bg = "#575766", bold = true }
+progress_label = { fg = "#e4e4e4", bold = true }
+progress_normal = { fg = "#d81b60" }
+progress_error = { fg = "#f50057" }
+
+[input]
+border = { fg = "#d81b60" }
+title = {}
+value = { fg = "#ffb3d1" }
+selected = { fg = "#1F1F1F", bg = "#d81b60" }
+
+[select]
+border = { fg = "#d81b60" }
+active = { fg = "#ffb3d1", bg = "#d81b60" }
+inactive = { fg = "#e4e4e4" }
+
+[which]
+mask = { bg = "#1a1a24" }
+cand = { fg = "#00ffff" }
+rest = { fg = "#e4e4e4" }
+desc = { fg = "#d81b60" }
+
+[help]
+on = { fg = "#d81b60" }
+run = { fg = "#ffb3d1" }
+desc = { fg = "#e4e4e4" }
+hovered = { fg = "#1F1F1F", bg = "#d81b60" }
+footer = {}
+header = {}
+
+[filetype]
+rules = [
+  { mime = "image/*", fg = "#00ffff" },
+  { mime = "video/*", fg = "#2979ff" },
+  { mime = "audio/*", fg = "#ff4081" },
+  { mime = "application/zip", fg = "#ffb300" },
+  { mime = "application/gzip", fg = "#ffb300" },
+  { mime = "application/x-tar", fg = "#ffb300" },
+  { mime = "application/x-bzip2", fg = "#ffb300" },
+  { mime = "application/x-xz", fg = "#ffb300" },
+  { mime = "application/x-7z-compressed", fg = "#ffb300" },
+  { mime = "application/rar", fg = "#ffb300" },
+  { mime = "text/*", fg = "#e4e4e4" },
+  { name = "*.json", fg = "#87af87" },
+  { name = "*.toml", fg = "#ffb300" },
+  { name = "*.yaml", fg = "#2979ff" },
+  { name = "*.yml", fg = "#2979ff" },
+  { name = "*.md", fg = "#00e5ff" },
+  { name = "*.lua", fg = "#2979ff" },
+  { name = "*.py", fg = "#ffb300" },
+  { name = "*.rs", fg = "#d81b60" },
+  { name = "*.sh", fg = "#87af87" },
+  { name = "Makefile*", fg = "#f50057", bold = true },
+  { name = "LICENSE*", fg = "#575766" },
+  { name = "README*", fg = "#00ffff" },
+  { name = "*.png", fg = "#00ffff" },
+  { name = "*.jpg", fg = "#00ffff" },
+  { name = "*.jpeg", fg = "#00ffff" },
+  { name = "*.gif", fg = "#00ffff" },
+  { name = "*.webp", fg = "#00ffff" },
+  { name = "*.svg", fg = "#00ffff" },
+  { name = "*.mp4", fg = "#2979ff" },
+  { name = "*.mkv", fg = "#2979ff" },
+  { name = "*.webm", fg = "#2979ff" },
+  { name = "*.mp3", fg = "#ff4081" },
+  { name = "*.flac", fg = "#ff4081" },
+  { name = "*.wav", fg = "#ff4081" },
+  { name = "*.opus", fg = "#ff4081" },
+  { name = "*.zip", fg = "#ffb300" },
+  { name = "*.tar*", fg = "#ffb300" },
+  { name = "*.7z", fg = "#ffb300" },
+  { name = "*.rar", fg = "#ffb300" },
+  { name = "*.gz", fg = "#ffb300" },
+]
