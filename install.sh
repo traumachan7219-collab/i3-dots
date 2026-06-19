@@ -49,17 +49,21 @@ fi
 echo ""
 echo "[*] Backing up existing configs to $BACKUP_DIR"
 mkdir -p "$BACKUP_DIR"
-for dir in i3 kitty nvim dunst "polybar/docky" rofi; do
+for dir in i3 kitty nvim dunst rofi; do
   if [ -e "$HOME/.config/$dir" ]; then
     cp -r "$HOME/.config/$dir" "$BACKUP_DIR/$dir"
     echo "    backed up ~/.config/$dir"
   fi
 done
+if [ -e "$HOME/.config/polybar" ]; then
+  cp -r "$HOME/.config/polybar" "$BACKUP_DIR/"
+  echo "    backed up ~/.config/polybar"
+fi
 
 # --- Symlink repo configs ---
 echo ""
 echo "[*] Installing configs..."
-for dir in i3 kitty nvim dunst "polybar/docky" rofi; do
+for dir in i3 kitty nvim dunst polybar rofi; do
   src="$REPO_DIR/.config/$dir"
   dst="$HOME/.config/$dir"
   if [ ! -e "$src" ]; then
@@ -67,19 +71,9 @@ for dir in i3 kitty nvim dunst "polybar/docky" rofi; do
     continue
   fi
   rm -rf "$dst"
-  mkdir -p "$(dirname "$dst")"
   ln -sf "$src" "$dst"
   echo "    linked $dst -> $src"
 done
-
-# Symlink main polybar config dir
-if [ -L "$HOME/.config/polybar" ]; then
-  rm "$HOME/.config/polybar"
-fi
-if [ ! -e "$HOME/.config/polybar" ]; then
-  ln -sf "$REPO_DIR/.config/polybar" "$HOME/.config/polybar"
-  echo "    linked ~/.config/polybar -> $REPO_DIR/.config/polybar"
-fi
 
 # --- Wallpaper ---
 echo ""
