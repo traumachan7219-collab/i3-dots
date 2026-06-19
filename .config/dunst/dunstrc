@@ -1,0 +1,26 @@
+[global]
+    width = 300
+    height = 150
+    offset = 20x20
+    origin = top-right
+    
+    frame_width = 2
+    frame_color = "#d81b60"
+    font = Fira Code Retina 10
+    corner_radius = 4
+
+[urgency_low]
+    background = "#1a1a24"
+    foreground = "#ffffff"
+    timeout = 5
+
+[urgency_normal]
+    background = "#1a1a24"
+    foreground = "#ffffff"
+    timeout = 7
+
+[urgency_critical]
+    background = "#1a1a24"
+    foreground = "#ffffff"
+    frame_color = "#ff4081"
+    timeout = 0
