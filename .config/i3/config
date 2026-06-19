@@ -254,4 +254,4 @@ bindsym $mod+period exec "rofi -show emoji -theme ~/.config/rofi/emoji.rasi"
  
 #bar
 exec_always --no-startup-id killall -q polybar
-exec_always --no-startup-id /home/cool/.config/polybar/docky/launch.sh
+exec_always --no-startup-id ~/.config/polybar/docky/launch.sh

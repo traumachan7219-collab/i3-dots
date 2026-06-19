@@ -9,7 +9,7 @@ packages=(
   playerctl brightnessctl networkmanager nm-connection-editor
   xss-lock i3lock-color thunar dex python pipewire-pulse
   ttf-fira-code ttf-jetbrains-mono-nerd ttf-iosevka-nerd
-  ttf-dejavu-nerd noto-fonts-emoji papirus-icon-theme
+  ttf-dejavu-nerd ttf-nerd-fonts-symbols noto-fonts-emoji papirus-icon-theme
   pacman-contrib
 )
 
