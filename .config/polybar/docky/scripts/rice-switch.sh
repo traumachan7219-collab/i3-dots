@@ -144,7 +144,17 @@ EOF
     echo "  dunst ✓"
   fi
 
-  # ---- 7. Yazi theme ----
+  # ---- 7. Neovim ----
+  NVIM="$HOME/.config/nvim/init.lua"
+  if [[ -f "$NVIM" ]]; then
+    sed -i "s/^local pink\b.*/local pink      = \"$AC\"/" "$NVIM"
+    sed -i "s/^local sap\b.*/local sap       = \"$KF\"/" "$NVIM"
+    sed -i "s/^local teal\b.*/local teal      = \"$KF\"/" "$NVIM"
+    sed -i "s/^local rosewater\b.*/local rosewater = \"$AC\"/" "$NVIM"
+    echo "  nvim ✓"
+  fi
+
+  # ---- 8. Yazi theme ----
   YAZI="$HOME/.config/yazi/theme.toml"
   if [[ -f "$YAZI" ]]; then
     sed -i "s/cwd = .*/cwd = \"$AC\"/g" "$YAZI"
@@ -157,7 +167,7 @@ EOF
     echo "  yazi ✓"
   fi
 
-  # ---- 8. Fastfetch ----
+  # ---- 9. Fastfetch ----
   FASTFETCH="$HOME/.config/fastfetch/config.jsonc"
   if [[ -f "$FASTFETCH" ]]; then
     R=$((16#${AC:1:2}))
@@ -170,8 +180,8 @@ EOF
     echo "  fastfetch ✓"
   fi
 
-  # ---- 9. Reload ----
-  killall -USR1 dunst 2>/dev/null || true
+  # ---- 10. Reload ----
+  dunstctl reload 2>/dev/null || true
   polybar-msg cmd restart 2>/dev/null || true
   i3-msg reload 2>/dev/null || true
 
