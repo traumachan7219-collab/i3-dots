@@ -75,7 +75,7 @@ bindsym $mod+Shift+f exec thunar
 # A more modern dmenu replacement is rofi:
  bindsym $mod+d exec "rofi -no-config -modi drun,run -show drun -theme ~/.config/polybar/docky/scripts/rofi/launcher.rasi"
 # theme picker
-bindsym $mod+t exec kitty rice-menu
+bindsym $mod+t exec kitty /home/cool/.config/polybar/docky/scripts/rice-menu
 # There also is i3-dmenu-desktop which only displays applications shipping a
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
@@ -208,10 +208,10 @@ for_window [class=".*"] border pixel 2
 # Border colors: client.<class> <border> <background> <text> <indicator> <child_border>
 # Neon theme (matching polybar)
 #                       <border>    <bg>        <text>      <indicator> <child_border>
-client.focused          #bf5af2     #000000     #FFFFFF     #bf5af2     #bf5af2
-client.focused_inactive #bf5af2     #000000     #8F8F8F     #000000     #000000
+client.focused          #1F1F1F     #000000     #FFFFFF     #1F1F1F     #1F1F1F
+client.focused_inactive #1F1F1F     #000000     #8F8F8F     #000000     #000000
 client.unfocused        #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
-client.urgent           #bf5af2     #000000     #FFFFFF     #E53935     #E53935
+client.urgent           #1F1F1F     #000000     #FFFFFF     #E53935     #E53935
 
 
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -uo pipefail
 
-RICE="$HOME/.config/polybar/docky/scripts/rice-switch.sh"
+RICE="/home/cool/.config/polybar/docky/scripts/rice-switch.sh"
 
 themes=(
   "pink"
@@ -25,18 +25,16 @@ colors=(
   "#000000"
 )
 
-entries=()
 for i in "${!themes[@]}"; do
   c="${colors[$i]}"
   r=$((16#${c:1:2}))
   g=$((16#${c:3:2}))
   b=$((16#${c:5:2}))
-  entries+=("$(printf '\033[38;2;%d;%d;%dm■\033[0m %s' "$r" "$g" "$b" "${themes[$i]}")")
-done
+  printf '\033[38;2;%d;%d;%dm■\033[0m %s\n' "$r" "$g" "$b" "${themes[$i]}"
+done | /usr/bin/fzf --ansi --prompt="Theme > " --height=12 --reverse > /tmp/rice_choice || true
 
-selected=$(printf '%s\n' "${entries[@]}" | fzf --ansi --prompt="Theme > " --height=12 --reverse)
-
+selected=$(cat /tmp/rice_choice 2>/dev/null)
 [[ -z "$selected" ]] && exit 0
 
-theme=$(printf '%s' "$selected" | sed 's/.*\x1b\[0m //')
-bash "$RICE" "$theme"
+theme="${selected##* }"
+exec /usr/bin/env bash "$RICE" "$theme"
