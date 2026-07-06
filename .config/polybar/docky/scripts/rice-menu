@@ -27,14 +27,16 @@ colors=(
 
 entries=()
 for i in "${!themes[@]}"; do
-  t="${themes[$i]}"
   c="${colors[$i]}"
-  entries+=("<span color='$c'>■</span> $t")
+  r=$((16#${c:1:2}))
+  g=$((16#${c:3:2}))
+  b=$((16#${c:5:2}))
+  entries+=("\e[38;2;${r};${g};${b}m■\e[0m ${themes[$i]}")
 done
 
-selected=$(printf '%s\n' "${entries[@]}" | rofi -dmenu -p "Theme" -markup-rows -i)
+selected=$(printf '%s\n' "${entries[@]}" | fzf --ansi --prompt="Theme > " --height=12 --reverse)
 
 [[ -z "$selected" ]] && exit 0
 
-theme=$(echo "$selected" | sed 's/<[^>]*>//g; s/■//g' | xargs)
+theme=$(echo "$selected" | sed 's/.*\x1b\[0m //' | xargs)
 bash "$RICE" "$theme"

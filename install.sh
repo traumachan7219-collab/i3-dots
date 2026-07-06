@@ -10,7 +10,7 @@ packages=(
   xss-lock i3lock-color thunar dex python pipewire-pulse
   ttf-fira-code ttf-jetbrains-mono-nerd ttf-iosevka-nerd
   ttf-dejavu-nerd ttf-nerd-fonts-symbols noto-fonts-emoji papirus-icon-theme
-  pacman-contrib yazi fastfetch
+  pacman-contrib yazi fastfetch fzf
 )
 
 echo ":: i3 Dotfiles Installer"
