@@ -17,7 +17,8 @@ exec --no-startup-id xsetroot -cursor_name left_ptr
 exec --no-startup-id dunst
 exec --no-startup-id flameshot
 exec --no-startup-id picom -b
-exec_always --no-startup-id killall feh; feh --bg-fill ~/Pictures/wallpaper/default.png
+exec_always --no-startup-id killall feh; feh --bg-fill ~/Pictures/wallpaper/nothing.jpg
+exec_always --no-startup-id i3flow
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 font pango:Fira Code Retina 11
@@ -73,6 +74,8 @@ bindsym $mod+Shift+f exec thunar
 #bindsym $mod+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
  bindsym $mod+d exec "rofi -no-config -modi drun,run -show drun -theme ~/.config/polybar/docky/scripts/rofi/launcher.rasi"
+# theme picker
+bindsym $mod+t exec rice-menu
 # There also is i3-dmenu-desktop which only displays applications shipping a
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
@@ -205,10 +208,10 @@ for_window [class=".*"] border pixel 2
 # Border colors: client.<class> <border> <background> <text> <indicator> <child_border>
 # Neon theme (matching polybar)
 #                       <border>    <bg>        <text>      <indicator> <child_border>
-client.focused          #d81b60     #1F1F1F     #FFFFFF     #d81b60     #d81b60
-client.focused_inactive #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
+client.focused          #bf5af2     #000000     #FFFFFF     #bf5af2     #bf5af2
+client.focused_inactive #bf5af2     #000000     #8F8F8F     #000000     #000000
 client.unfocused        #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
-client.urgent           #E53935     #1F1F1F     #FFFFFF     #E53935     #E53935
+client.urgent           #bf5af2     #000000     #FFFFFF     #E53935     #E53935
 
 
 
@@ -254,4 +257,4 @@ bindsym $mod+period exec "rofi -show emoji -theme ~/.config/rofi/emoji.rasi"
  
 #bar
 exec_always --no-startup-id killall -q polybar
-exec_always --no-startup-id ~/.config/polybar/docky/launch.sh
+exec_always --no-startup-id /home/cool/.config/polybar/docky/launch.sh

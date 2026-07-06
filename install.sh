@@ -87,6 +87,19 @@ else
   echo "    [!] feather.ttf not found in repo"
 fi
 
+# --- Script symlinks ---
+echo ""
+echo "[*] Installing script symlinks..."
+mkdir -p "$HOME/.local/bin"
+for script in rice-switch.sh rice-menu; do
+  src="$REPO_DIR/.config/polybar/docky/scripts/$script"
+  dst="$HOME/.local/bin/${script%.sh}"
+  if [ -f "$src" ]; then
+    ln -sf "$src" "$dst"
+    echo "    linked $dst -> $src"
+  fi
+done
+
 # --- Wallpaper ---
 echo ""
 echo "[*] Setting up wallpaper..."

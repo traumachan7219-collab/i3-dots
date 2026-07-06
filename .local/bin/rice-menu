@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+RICE="$HOME/.config/polybar/docky/scripts/rice-switch.sh"
+
+themes=(
+  "pink"
+  "cyan"
+  "orange"
+  "red"
+  "blue"
+  "green"
+  "purple"
+  "black"
+)
+
+colors=(
+  "#d81b60"
+  "#00acc1"
+  "#ff8c00"
+  "#dc143c"
+  "#1e88e5"
+  "#43a047"
+  "#bf5af2"
+  "#000000"
+)
+
+entries=()
+for i in "${!themes[@]}"; do
+  t="${themes[$i]}"
+  c="${colors[$i]}"
+  entries+=("<span color='$c'>■</span> $t")
+done
+
+selected=$(printf '%s\n' "${entries[@]}" | rofi -dmenu -p "Theme" -markup-rows -i)
+
+[[ -z "$selected" ]] && exit 0
+
+theme=$(echo "$selected" | sed 's/<[^>]*>//g; s/■//g' | xargs)
+bash "$RICE" "$theme"
