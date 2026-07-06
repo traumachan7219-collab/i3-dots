@@ -49,6 +49,12 @@ FG[green]="#FFFFFF"
 KITTY_FG[green]="#a5d6a7"
 I3_BORDER[green]="#43a047"
 
+ACCENT[purple]="#bf5af2"
+MODULE_FG[purple]="#FFFFFF"
+FG[purple]="#FFFFFF"
+KITTY_FG[purple]="#d68cff"
+I3_BORDER[purple]="#bf5af2"
+
 ACCENT[black]="#000000"
 MODULE_FG[black]="#FFFFFF"
 FG[black]="#FFFFFF"
@@ -57,12 +63,12 @@ I3_BORDER[black]="#1F1F1F"
 
 # ---- Help ----
 if [[ -z "$theme" ]]; then
-  echo "Usage: $0 [pink|cyan|orange|red|blue|green|black]"
+  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black]"
   exit 1
 fi
 
 if [[ -z "${ACCENT[$theme]:-}" ]]; then
-  echo "Unknown theme: $theme. Options: pink cyan orange red blue green black"
+  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black"
   exit 1
 fi
 
