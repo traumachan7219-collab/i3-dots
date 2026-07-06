@@ -157,7 +157,20 @@ EOF
     echo "  yazi ✓"
   fi
 
-  # ---- 8. Reload ----
+  # ---- 8. Fastfetch ----
+  FASTFETCH="$HOME/.config/fastfetch/config.jsonc"
+  if [[ -f "$FASTFETCH" ]]; then
+    R=$((16#${AC:1:2}))
+    G=$((16#${AC:3:2}))
+    B=$((16#${AC:5:2}))
+    sed -E -i \
+      -e "s/(2;)[0-9]+;[0-9]+;[0-9]+/\1${R};${G};${B}/g" \
+      -e "s/[Rr];[Gg];[Bb]/${R};${G};${B}/g" \
+      "$FASTFETCH"
+    echo "  fastfetch ✓"
+  fi
+
+  # ---- 9. Reload ----
   killall -USR1 dunst 2>/dev/null || true
   polybar-msg cmd restart 2>/dev/null || true
   i3-msg reload 2>/dev/null || true
