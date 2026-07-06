@@ -6,7 +6,7 @@ set -euo pipefail
 # Usage: ./rice-switch.sh [pink|cyan|orange|crimson|blue|green|black]
 # ============================================================
 
-BG="#1F1F1F"
+BG="#000000"
 
 theme="${1:-}"
 
