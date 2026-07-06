@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ============================================================
 # rice-switch.sh — swap theme across all apps
-# Usage: ./rice-switch.sh [pink|cyan|orange|crimson|blue|green|black]
+# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|black]
 # ============================================================
 
 BG="#000000"
@@ -37,12 +37,6 @@ FG[orange]="#FFFFFF"
 KITTY_FG[orange]="#ffb74d"
 I3_BORDER[orange]="#ff8c00"
 
-ACCENT[crimson]="#dc143c"
-MODULE_FG[crimson]="#FFFFFF"
-FG[crimson]="#FFFFFF"
-KITTY_FG[crimson]="#ef5350"
-I3_BORDER[crimson]="#dc143c"
-
 ACCENT[blue]="#1e88e5"
 MODULE_FG[blue]="#FFFFFF"
 FG[blue]="#FFFFFF"
@@ -63,12 +57,12 @@ I3_BORDER[black]="#1F1F1F"
 
 # ---- Help ----
 if [[ -z "$theme" ]]; then
-  echo "Usage: $0 [pink|cyan|orange|red|crimson|blue|green|black]"
+  echo "Usage: $0 [pink|cyan|orange|red|blue|green|black]"
   exit 1
 fi
 
 if [[ -z "${ACCENT[$theme]:-}" ]]; then
-  echo "Unknown theme: $theme. Options: pink cyan orange red crimson blue green black"
+  echo "Unknown theme: $theme. Options: pink cyan orange red blue green black"
   exit 1
 fi
 
