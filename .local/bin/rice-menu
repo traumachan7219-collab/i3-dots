@@ -31,12 +31,12 @@ for i in "${!themes[@]}"; do
   r=$((16#${c:1:2}))
   g=$((16#${c:3:2}))
   b=$((16#${c:5:2}))
-  entries+=("\e[38;2;${r};${g};${b}m■\e[0m ${themes[$i]}")
+  entries+=("$(printf '\033[38;2;%d;%d;%dm■\033[0m %s' "$r" "$g" "$b" "${themes[$i]}")")
 done
 
 selected=$(printf '%s\n' "${entries[@]}" | fzf --ansi --prompt="Theme > " --height=12 --reverse)
 
 [[ -z "$selected" ]] && exit 0
 
-theme=$(echo "$selected" | sed 's/.*\x1b\[0m //' | xargs)
+theme=$(printf '%s' "$selected" | sed 's/.*\x1b\[0m //')
 bash "$RICE" "$theme"
