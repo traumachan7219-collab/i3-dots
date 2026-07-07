@@ -12,6 +12,7 @@ themes=(
   "green"
   "purple"
   "black"
+  "manga"
 )
 
 colors=(
@@ -23,6 +24,7 @@ colors=(
   "#43a047"
   "#bf5af2"
   "#000000"
+  "#F5F0E0"
 )
 
 for i in "${!themes[@]}"; do
