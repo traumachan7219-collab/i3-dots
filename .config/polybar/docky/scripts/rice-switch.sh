@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ============================================================
 # rice-switch.sh — swap theme across all apps
-# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page]
+# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page|manga-pastel]
 # ============================================================
 
 BG="#000000"
@@ -63,28 +63,36 @@ FG[black]="#FFFFFF"
 KITTY_FG[black]="#e4e4e4"
 I3_BORDER[black]="#1F1F1F"
 
-ACCENT[manga]="#F5F0E0"
-MODULE_FG[manga]="#F5F0E0"
+ACCENT[manga]="#fd4e4e"
+MODULE_FG[manga]="#FFFFFF"
 FG[manga]="#FFFFFF"
-KITTY_FG[manga]="#E8DCC8"
-I3_BORDER[manga]="#F5F0E0"
+FG_ALT[manga]="#8F8F8F"
+KITTY_FG[manga]="#ff9e9e"
+I3_BORDER[manga]="#fd4e4e"
 
 ACCENT[manga-page]="#1A1A1A"
 MODULE_FG[manga-page]="#1A1A1A"
 FG[manga-page]="#1A1A1A"
-KITTY_FG[manga-page]="#2A2A2A"
+FG_ALT[manga-page]="#5A5A5A"
+KITTY_FG[manga-page]="#3A3A3A"
 I3_BORDER[manga-page]="#1A1A1A"
-BG_THEME[manga-page]="#F5F0E0"
-FG_ALT[manga-page]="#4A4A4A"
+BG_THEME[manga-page]="#FDF6E3"
+
+ACCENT[manga-pastel]="#7EC8E3"
+MODULE_FG[manga-pastel]="#FFFFFF"
+FG[manga-pastel]="#FFFFFF"
+FG_ALT[manga-pastel]="#8F8F8F"
+KITTY_FG[manga-pastel]="#B8E2F0"
+I3_BORDER[manga-pastel]="#7EC8E3"
 
 # ---- Help ----
 if [[ -z "$theme" ]]; then
-  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page]"
+  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page|manga-pastel]"
   exit 1
 fi
 
 if [[ -z "${ACCENT[$theme]:-}" ]]; then
-  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black manga manga-page"
+  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black manga manga-page manga-pastel"
   exit 1
 fi
 

@@ -14,6 +14,7 @@ themes=(
   "black"
   "manga"
   "manga-page"
+  "manga-pastel"
 )
 
 colors=(
@@ -25,8 +26,9 @@ colors=(
   "#43a047"
   "#bf5af2"
   "#000000"
-  "#F5F0E0"
+  "#fd4e4e"
   "#1A1A1A"
+  "#7EC8E3"
 )
 
 for i in "${!themes[@]}"; do
