@@ -3,14 +3,14 @@ set -euo pipefail
 
 # ============================================================
 # rice-switch.sh — swap theme across all apps
-# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|purple|black|manga]
+# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page]
 # ============================================================
 
 BG="#000000"
 
 theme="${1:-}"
 
-declare -A ACCENT MODULE_FG FG KITTY_FG I3_BORDER
+declare -A ACCENT MODULE_FG FG KITTY_FG I3_BORDER BG_THEME
 
 # ---- Define themes ----
 ACCENT[pink]="#d81b60"
@@ -67,14 +67,21 @@ FG[manga]="#FFFFFF"
 KITTY_FG[manga]="#E8DCC8"
 I3_BORDER[manga]="#F5F0E0"
 
+ACCENT[manga-page]="#1A1A1A"
+MODULE_FG[manga-page]="#1A1A1A"
+FG[manga-page]="#1A1A1A"
+KITTY_FG[manga-page]="#2A2A2A"
+I3_BORDER[manga-page]="#1A1A1A"
+BG_THEME[manga-page]="#F5F0E0"
+
 # ---- Help ----
 if [[ -z "$theme" ]]; then
-  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black|manga]"
+  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page]"
   exit 1
 fi
 
 if [[ -z "${ACCENT[$theme]:-}" ]]; then
-  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black manga"
+  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black manga manga-page"
   exit 1
 fi
 
@@ -83,6 +90,7 @@ MF="${MODULE_FG[$theme]}"
 KF="${KITTY_FG[$theme]}"
 IB="${I3_BORDER[$theme]}"
 FG="${FG[$theme]}"
+BG="${BG_THEME[$theme]:-$BG}"
 
 echo "Switching to $theme ($AC)..."$'\n'
 
@@ -112,7 +120,7 @@ apply_all() {
   bg:   ${BG}FF;
   bga:  ${AC}33;
   bar:  ${MF}FF;
-  fg:   #FFFFFFFF;
+  fg:   ${FG}FF;
   ac:   ${AC}FF;
 }
 EOF
@@ -123,7 +131,7 @@ EOF
   # ---- 4. i3 config ----
   I3CFG="$HOME/.config/i3/config"
   if [[ -f "$I3CFG" ]]; then
-    sed -i "/client\.focused[ ]\+#/c\client.focused          #${IB:1}     ${BG}     #FFFFFF     #${IB:1}     #${IB:1}" "$I3CFG"
+    sed -i "/client\.focused[ ]\+#/c\client.focused          #${IB:1}     ${BG}     ${FG}     #${IB:1}     #${IB:1}" "$I3CFG"
     sed -i "/client\.focused_inactive[ ]\+#/c\client.focused_inactive #${IB:1}     ${BG}     #8F8F8F     ${BG}     ${BG}" "$I3CFG"
     sed -i "/client\.urgent[ ]\+#/c\client.urgent           #${IB:1}     ${BG}     #FFFFFF     #E53935     #E53935" "$I3CFG"
     echo "  i3 config ✓"
@@ -146,7 +154,7 @@ EOF
   if [[ -f "$DUNST" ]]; then
     sed -i "s/frame_color = .*/frame_color = \"$AC\"/g" "$DUNST"
     sed -i "s/background = .*/background = \"${BG}\"/g" "$DUNST"
-    sed -i "s/foreground = .*/foreground = \"#FFFFFF\"/g" "$DUNST"
+    sed -i "s/foreground = .*/foreground = \"$FG\"/g" "$DUNST"
     echo "  dunst ✓"
   fi
 

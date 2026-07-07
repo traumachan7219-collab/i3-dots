@@ -13,6 +13,7 @@ themes=(
   "purple"
   "black"
   "manga"
+  "manga-page"
 )
 
 colors=(
@@ -25,6 +26,7 @@ colors=(
   "#bf5af2"
   "#000000"
   "#F5F0E0"
+  "#1A1A1A"
 )
 
 for i in "${!themes[@]}"; do
