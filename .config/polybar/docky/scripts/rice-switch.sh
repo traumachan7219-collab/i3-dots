@@ -10,18 +10,20 @@ BG="#000000"
 
 theme="${1:-}"
 
-declare -A ACCENT MODULE_FG FG KITTY_FG I3_BORDER BG_THEME
+declare -A ACCENT MODULE_FG FG KITTY_FG I3_BORDER BG_THEME FG_ALT
 
 # ---- Define themes ----
 ACCENT[pink]="#d81b60"
 MODULE_FG[pink]="#FFFFFF"
 FG[pink]="#FFFFFF"
+FG_ALT[pink]="#8F8F8F"
 KITTY_FG[pink]="#ffb3d1"
 I3_BORDER[pink]="#d81b60"
 
 ACCENT[cyan]="#00acc1"
 MODULE_FG[cyan]="#1F1F1F"
 FG[cyan]="#FFFFFF"
+FG_ALT[cyan]="#8F8F8F"
 KITTY_FG[cyan]="#3BE2FF"
 I3_BORDER[cyan]="#00acc1"
 
@@ -73,6 +75,7 @@ FG[manga-page]="#1A1A1A"
 KITTY_FG[manga-page]="#2A2A2A"
 I3_BORDER[manga-page]="#1A1A1A"
 BG_THEME[manga-page]="#F5F0E0"
+FG_ALT[manga-page]="#4A4A4A"
 
 # ---- Help ----
 if [[ -z "$theme" ]]; then
@@ -91,6 +94,7 @@ KF="${KITTY_FG[$theme]}"
 IB="${I3_BORDER[$theme]}"
 FG="${FG[$theme]}"
 BG="${BG_THEME[$theme]:-$BG}"
+FG_ALT="${FG_ALT[$theme]:-#8F8F8F}"
 
 echo "Switching to $theme ($AC)..."$'\n'
 
@@ -100,7 +104,7 @@ apply_all() {
   if [[ -f "$PFILE" ]]; then
     sed -i "s/background = #.*/background = $BG/g" "$PFILE"
     sed -i "s/foreground = #.*/foreground = $FG/g" "$PFILE"
-    sed -i "s/foreground-alt = #.*/foreground-alt = #8F8F8F/g" "$PFILE"
+    sed -i "s/foreground-alt = #.*/foreground-alt = $FG_ALT/g" "$PFILE"
     sed -i "s/module-fg = #.*/module-fg = $MF/g" "$PFILE"
     sed -i "s/primary = #.*/primary = $AC/g" "$PFILE"
     sed -i "s/secondary = #.*/secondary = $AC/g" "$PFILE"
@@ -132,8 +136,8 @@ EOF
   I3CFG="$HOME/.config/i3/config"
   if [[ -f "$I3CFG" ]]; then
     sed -i "/client\.focused[ ]\+#/c\client.focused          #${IB:1}     ${BG}     ${FG}     #${IB:1}     #${IB:1}" "$I3CFG"
-    sed -i "/client\.focused_inactive[ ]\+#/c\client.focused_inactive #${IB:1}     ${BG}     #8F8F8F     ${BG}     ${BG}" "$I3CFG"
-    sed -i "/client\.urgent[ ]\+#/c\client.urgent           #${IB:1}     ${BG}     #FFFFFF     #E53935     #E53935" "$I3CFG"
+    sed -i "/client\.focused_inactive[ ]\+#/c\client.focused_inactive #${IB:1}     ${BG}     ${MF}     ${BG}     ${BG}" "$I3CFG"
+    sed -i "/client\.urgent[ ]\+#/c\client.urgent           #${IB:1}     ${BG}     ${FG}     #E53935     #E53935" "$I3CFG"
     echo "  i3 config ✓"
   fi
 
@@ -172,10 +176,10 @@ EOF
   YAZI="$HOME/.config/yazi/theme.toml"
   if [[ -f "$YAZI" ]]; then
     sed -i "s/cwd = .*/cwd = \"$AC\"/g" "$YAZI"
-    sed -i "s/hovered = { fg = .*/hovered = { fg = \"$KF\", bg = \"$AC\" }/g" "$YAZI"
+    sed -i "s/hovered = { fg = .*/hovered = { fg = \"${BG}\", bg = \"$AC\" }/g" "$YAZI"
     sed -i "s/mode_normal = .*/mode_normal = { fg = \"${BG}\", bg = \"$AC\", bold = true }/g" "$YAZI"
     sed -i "s/border = { fg = .* }/border = { fg = \"$AC\" }/g" "$YAZI"
-    sed -i "s/active = { fg = .*/active = { fg = \"$KF\", bg = \"$AC\" }/g" "$YAZI"
+    sed -i "s/active = { fg = .*/active = { fg = \"${BG}\", bg = \"$AC\" }/g" "$YAZI"
     sed -i "s/on = { fg = .* }/on = { fg = \"$AC\" }/g" "$YAZI"
     sed -i "s/hovered = { fg = .* }/hovered = { fg = \"${BG}\", bg = \"$AC\" }/g" "$YAZI"
     echo "  yazi ✓"

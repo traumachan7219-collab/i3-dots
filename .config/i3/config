@@ -17,7 +17,7 @@ exec --no-startup-id xsetroot -cursor_name left_ptr
 exec --no-startup-id dunst
 exec --no-startup-id flameshot
 exec --no-startup-id picom -b
-exec_always --no-startup-id killall feh; feh --bg-fill ~/Pictures/wallpaper/nothing.jpg
+exec_always --no-startup-id killall feh; feh --bg-fill ~/Pictures/wallpaper/anime/ichigo.jpeg
 exec_always --no-startup-id i3flow
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -208,10 +208,10 @@ for_window [class=".*"] border pixel 2
 # Border colors: client.<class> <border> <background> <text> <indicator> <child_border>
 # Neon theme (matching polybar)
 #                       <border>    <bg>        <text>      <indicator> <child_border>
-client.focused          #1F1F1F     #000000     #FFFFFF     #1F1F1F     #1F1F1F
-client.focused_inactive #1F1F1F     #000000     #8F8F8F     #000000     #000000
+client.focused          #1A1A1A     #F5F0E0     #1A1A1A     #1A1A1A     #1A1A1A
+client.focused_inactive #1A1A1A     #F5F0E0     #1A1A1A     #F5F0E0     #F5F0E0
 client.unfocused        #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
-client.urgent           #1F1F1F     #000000     #FFFFFF     #E53935     #E53935
+client.urgent           #1A1A1A     #F5F0E0     #1A1A1A     #E53935     #E53935
 
 
 
