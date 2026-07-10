@@ -10,12 +10,12 @@ button {
 }
 
 button:hover {
-  border: 1px solid #1e88e5;
+  border: 1px solid #d81b60;
   background-color: #8F8F8F22;
 }
 
 button.highlighted-button {
-  border: 2px solid #1e88e5;
+  border: 2px solid #d81b60;
 }
 
 entry {
@@ -27,7 +27,7 @@ entry {
 }
 
 entry:focus {
-  border: 1px solid #1e88e5;
+  border: 1px solid #d81b60;
 }
 
 combobox button {
@@ -37,7 +37,7 @@ combobox button {
 }
 
 combobox button:hover {
-  border: 1px solid #1e88e5;
+  border: 1px solid #d81b60;
 }
 
 combobox window,
@@ -69,7 +69,7 @@ scrollbar slider {
 }
 
 scrollbar slider:hover {
-  background-color: #1e88e5;
+  background-color: #d81b60;
 }
 
 checkbutton {
