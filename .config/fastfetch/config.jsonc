@@ -4,15 +4,15 @@
         "type": "builtin",
         "source": "arch",
         "color": {
-            "1": "\u001b[38;2;R;G;Bm",
-            "2": "\u001b[38;2;R;G;Bm",
-            "3": "\u001b[38;2;R;G;Bm",
-            "4": "\u001b[38;2;R;G;Bm",
-            "5": "\u001b[38;2;R;G;Bm",
-            "6": "\u001b[38;2;R;G;Bm",
-            "7": "\u001b[38;2;R;G;Bm",
-            "8": "\u001b[38;2;R;G;Bm",
-            "9": "\u001b[38;2;R;G;Bm"
+            "1": "\u001b[38;2;30;136;229m",
+            "2": "\u001b[38;2;30;136;229m",
+            "3": "\u001b[38;2;30;136;229m",
+            "4": "\u001b[38;2;30;136;229m",
+            "5": "\u001b[38;2;30;136;229m",
+            "6": "\u001b[38;2;30;136;229m",
+            "7": "\u001b[38;2;30;136;229m",
+            "8": "\u001b[38;2;30;136;229m",
+            "9": "\u001b[38;2;30;136;229m"
         },
         "padding": {
             "top": 0,
@@ -23,13 +23,13 @@
    "display": {
         "separator": "   ",
         "color": {
-            "keys": "\u001b[38;2;R;G;Bm"
+            "keys": "\u001b[38;2;30;136;229m"
         }
     },
     "modules": [
         {
             "type": "custom",
-            "format": " \u001b[38;2;R;G;Bm\u001b[48;2;R;G;Bm\u001b[37m\u001b[1m\u2692 SYSTEM\u001b[0m\u001b[38;2;R;G;Bm\u001b[0m"
+            "format": " \u001b[38;2;30;136;229m\u001b[48;2;30;136;229m\u001b[37m\u001b[1m\u2692 SYSTEM\u001b[0m\u001b[38;2;30;136;229m\u001b[0m"
         },
         { "type": "os", "key": "  OS" },
         { "type": "kernel", "key": "  Kernel" },
@@ -39,7 +39,7 @@
 
         {
             "type": "custom",
-            "format": " \u001b[38;2;R;G;Bm\u001b[48;2;R;G;Bm\u001b[37m\u001b[1m SOFTWARE\u001b[0m\u001b[38;2;R;G;Bm\u001b[0m"
+            "format": " \u001b[38;2;30;136;229m\u001b[48;2;30;136;229m\u001b[37m\u001b[1m SOFTWARE\u001b[0m\u001b[38;2;30;136;229m\u001b[0m"
         },
         { "type": "shell", "key": "  Shell" },
         { "type": "terminal", "key": "  Terminal" },
@@ -47,7 +47,7 @@
 
         {
             "type": "custom",
-            "format": " \u001b[38;2;R;G;Bm\u001b[48;2;R;G;Bm\u001b[37m\u001b[1m󰌢 HARDWARE\u001b[0m\u001b[38;2;R;G;Bm\u001b[0m"
+            "format": " \u001b[38;2;30;136;229m\u001b[48;2;30;136;229m\u001b[37m\u001b[1m󰌢 HARDWARE\u001b[0m\u001b[38;2;30;136;229m\u001b[0m"
         },
         { "type": "host", "key": " 󰌢 Host" },
         { "type": "cpu", "key": "  CPU", "format": "{name} ({cores}) @ {freq-max}" },

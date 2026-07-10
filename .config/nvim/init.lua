@@ -23,7 +23,7 @@ vim.opt.hlsearch = false       -- Clear highlight after search is done
 -- ==========================================================================
 -- --- Catppuccin Mocha Pink ---
 -- ==========================================================================
-local pink      = "#f5c2e7"
+local pink      = "#1e88e5"
 local mauve     = "#cba6f7"
 local base      = "#1e1e2e"
 local surface0  = "#313244"
@@ -34,19 +34,21 @@ local blue      = "#89b4fa"
 local green     = "#a6e3a1"
 local red       = "#f38ba8"
 local yellow    = "#f9e2af"
-local rosewater = "#f5e0dc"
+local rosewater = "#1e88e5"
+local teal      = "#82b1ff"
+local sap       = "#82b1ff"
 
 -- Apply UI colors directly without needing heavy plugins
 vim.api.nvim_set_hl(0, "Normal", { bg = "NONE", fg = text })
-vim.api.nvim_set_hl(0, "LineNr", { fg = overlay0 })
-vim.api.nvim_set_hl(0, "CursorLineNr", { fg = pink, bold = true })
-vim.api.nvim_set_hl(0, "Visual", { bg = surface0 })
-vim.api.nvim_set_hl(0, "Search", { bg = pink, fg = base })
+vim.api.nvim_set_hl(0, "LineNr", { fg = sap })
+vim.api.nvim_set_hl(0, "CursorLineNr", { fg = teal, bold = true })
+vim.api.nvim_set_hl(0, "Visual", { bg = rosewater })
+vim.api.nvim_set_hl(0, "Search", { bg = teal, fg = base })
 
 -- Syntax Highlights
-vim.api.nvim_set_hl(0, "Comment", { fg = overlay0, italic = true })
-vim.api.nvim_set_hl(0, "Keyword", { fg = pink, bold = true })
-vim.api.nvim_set_hl(0, "Function", { fg = mauve })
+vim.api.nvim_set_hl(0, "Comment", { fg = sap, italic = true })
+vim.api.nvim_set_hl(0, "Keyword", { fg = teal, bold = true })
+vim.api.nvim_set_hl(0, "Function", { fg = blue })
 vim.api.nvim_set_hl(0, "String", { fg = green })
 
 -- --- Keymaps (Quality of Life) ---
@@ -58,3 +60,21 @@ vim.keymap.set("n", "<leader>q", ":q<CR>", { desc = "Quit" })
 
 -- Clear search highlights easily with Esc
 vim.keymap.set("n", "<Esc>", ":noh<CR>", { silent = true })
+
+-- ==========================================================================
+-- --- Plugin Manager (lazy.nvim) ---
+-- ==========================================================================
+local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
+if not vim.loop.fs_stat(lazypath) then
+  vim.fn.system({
+    "git",
+    "clone",
+    "--filter=blob:none",
+    "https://github.com/folke/lazy.nvim.git",
+    "--branch=stable",
+    lazypath,
+  })
+end
+vim.opt.rtp:prepend(lazypath)
+
+require("lazy").setup("plugins")

@@ -10,7 +10,8 @@ packages=(
   xss-lock i3lock-color thunar dex python pipewire-pulse
   ttf-fira-code ttf-jetbrains-mono-nerd ttf-iosevka-nerd
   ttf-dejavu-nerd ttf-nerd-fonts-symbols noto-fonts-emoji papirus-icon-theme
-  pacman-contrib yazi fastfetch fzf
+  pacman-contrib yazi fastfetch fzf python-pip python-gobject python-pillow
+  python-screeninfo python-platformdirs python-imageio
 )
 
 echo ":: i3 Dotfiles Installer"
@@ -49,7 +50,7 @@ fi
 echo ""
 echo "[*] Backing up existing configs to $BACKUP_DIR"
 mkdir -p "$BACKUP_DIR"
-for dir in i3 kitty nvim dunst yazi fastfetch rofi; do
+for dir in i3 kitty nvim dunst yazi fastfetch rofi waypaper; do
   if [ -e "$HOME/.config/$dir" ]; then
     cp -r "$HOME/.config/$dir" "$BACKUP_DIR/$dir"
     echo "    backed up ~/.config/$dir"
@@ -63,7 +64,7 @@ fi
 # --- Symlink repo configs ---
 echo ""
 echo "[*] Installing configs..."
-for dir in i3 kitty nvim dunst yazi fastfetch polybar rofi; do
+for dir in i3 kitty nvim dunst yazi fastfetch polybar rofi waypaper; do
   src="$REPO_DIR/.config/$dir"
   dst="$HOME/.config/$dir"
   if [ ! -e "$src" ]; then
@@ -87,11 +88,20 @@ else
   echo "    [!] feather.ttf not found in repo"
 fi
 
+# --- Waypaper ---
+echo ""
+echo "[*] Installing waypaper (wallpaper picker GUI)..."
+if command -v waypaper &>/dev/null; then
+  echo "    waypaper already installed"
+else
+  pip install --break-system-packages "$REPO_DIR/waypaper" 2>&1 | sed 's/^/    /' || echo "    [!] pip install failed — install manually"
+fi
+
 # --- Script symlinks ---
 echo ""
 echo "[*] Installing script symlinks..."
 mkdir -p "$HOME/.local/bin"
-for script in rice-switch.sh rice-menu; do
+for script in rice-switch.sh rice-menu wallpaper-picker; do
   src="$REPO_DIR/.config/polybar/docky/scripts/$script"
   dst="$HOME/.local/bin/${script%.sh}"
   if [ -f "$src" ]; then

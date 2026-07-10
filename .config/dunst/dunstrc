@@ -1,26 +1,28 @@
 [global]
-    width = 300
-    height = 150
-    offset = 20x20
-    origin = top-right
-    
+    width = 600
+    height = 600
+    offset = 20x30
+    origin = bottom-right
+    background_opacity = 0.54
+    dynamic_background_opacity = yes
+
     frame_width = 2
-    frame_color = "#d81b60"
+    frame_color = "#1e88e5"
     font = Fira Code Retina 10
     corner_radius = 4
 
 [urgency_low]
-    background = "#1a1a24"
-    foreground = "#ffffff"
+    background = "#000000"
+    foreground = "#FFFFFF"
     timeout = 5
 
 [urgency_normal]
-    background = "#1a1a24"
-    foreground = "#ffffff"
+    background = "#000000"
+    foreground = "#FFFFFF"
     timeout = 7
 
 [urgency_critical]
-    background = "#1a1a24"
-    foreground = "#ffffff"
-    frame_color = "#ff4081"
+    background = "#000000"
+    foreground = "#FFFFFF"
+    frame_color = "#1e88e5"
     timeout = 0

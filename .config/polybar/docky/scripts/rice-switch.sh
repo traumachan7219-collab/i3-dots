@@ -193,7 +193,103 @@ EOF
     echo "  yazi ✓"
   fi
 
-  # ---- 9. Fastfetch ----
+  # ---- 9. Waypaper CSS ----
+  WP_CSS="$HOME/.config/waypaper/style.css"
+  if [[ -f "$WP_CSS" ]]; then
+    cat > "$WP_CSS" <<- EOF
+window {
+  background-color: ${BG};
+}
+
+button {
+  background-color: ${BG};
+  border: 1px solid ${FG_ALT};
+  border-radius: 4px;
+  padding: 2px;
+}
+
+button:hover {
+  border: 1px solid ${AC};
+  background-color: ${FG_ALT}22;
+}
+
+button.highlighted-button {
+  border: 2px solid ${AC};
+}
+
+entry {
+  background-color: ${BG};
+  color: ${FG};
+  border: 1px solid ${FG_ALT};
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+entry:focus {
+  border: 1px solid ${AC};
+}
+
+combobox button {
+  background-color: ${BG};
+  color: ${FG};
+  border: 1px solid ${FG_ALT};
+}
+
+combobox button:hover {
+  border: 1px solid ${AC};
+}
+
+combobox window,
+combobox menu {
+  background-color: ${BG};
+  color: ${FG};
+}
+
+combobox menuitem:hover {
+  background-color: ${FG_ALT}33;
+}
+
+label {
+  color: ${FG};
+}
+
+scrolledwindow {
+  background-color: ${BG};
+}
+
+scrollbar {
+  background-color: ${BG};
+}
+
+scrollbar slider {
+  background-color: ${FG_ALT};
+  border-radius: 4px;
+  min-width: 8px;
+}
+
+scrollbar slider:hover {
+  background-color: ${AC};
+}
+
+checkbutton {
+  color: ${FG};
+}
+
+checkbutton:hover {
+  background-color: ${FG_ALT}22;
+}
+
+.daemon-panel label {
+  color: ${FG_ALT};
+  font-size: 11px;
+}
+EOF
+    echo "  waypaper css ✓"
+    # Reload waypaper CSS if running
+    pkill -SIGUSR1 waypaper 2>/dev/null || true
+  fi
+
+  # ---- 11. Fastfetch ----
   FASTFETCH="$HOME/.config/fastfetch/config.jsonc"
   if [[ -f "$FASTFETCH" ]]; then
     R=$((16#${AC:1:2}))
@@ -206,7 +302,7 @@ EOF
     echo "  fastfetch ✓"
   fi
 
-  # ---- 10. Reload ----
+  # ---- 12. Reload ----
   dunstctl reload 2>/dev/null || true
   polybar-msg cmd restart 2>/dev/null || true
   i3-msg reload 2>/dev/null || true
