@@ -102,7 +102,7 @@ echo ""
 echo "[*] Installing script symlinks..."
 mkdir -p "$HOME/.local/bin"
 for script in rice-switch.sh rice-menu wallpaper-picker; do
-  src="$REPO_DIR/.config/polybar/docky/scripts/$script"
+  src="$REPO_DIR/.config/rice/$script"
   dst="$HOME/.local/bin/${script%.sh}"
   if [ -f "$src" ]; then
     ln -sf "$src" "$dst"

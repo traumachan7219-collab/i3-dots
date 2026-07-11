@@ -120,7 +120,19 @@ apply_all() {
     echo "  polybar colors.ini ✓"
   fi
 
-  # ---- 2-3. Rofi ----
+  # ---- 2. Polybar prototype colors.ini ----
+  PPFILE="$HOME/.config/polybar/OurBar/colors.ini"
+  if [[ -f "$PPFILE" ]]; then
+    sed -i "s/foreground = #.*/foreground = $FG/g" "$PPFILE"
+    sed -i "s/foreground-alt = #.*/foreground-alt = $FG_ALT/g" "$PPFILE"
+    sed -i "s/module-fg = #.*/module-fg = $MF/g" "$PPFILE"
+    sed -i "s/primary = #.*/primary = $AC/g" "$PPFILE"
+    sed -i "s/secondary = #.*/secondary = $AC/g" "$PPFILE"
+    sed -i "s/alternate = #.*/alternate = $AC/g" "$PPFILE"
+    echo "  polybar OurBar colors.ini ✓"
+  fi
+
+  # ---- 3-4. Rofi ----
   for rfile in "$HOME/.config/polybar/docky/scripts/rofi/colors.rasi" \
                "$HOME/.config/rofi/colors.rasi"; do
     if [[ -f "$rfile" ]]; then
@@ -133,12 +145,40 @@ apply_all() {
   bga:  ${AC}33;
   bar:  ${MF}FF;
   fg:   ${FG}FF;
+  fgalt:  ${FG_ALT}FF;
   ac:   ${AC}FF;
 }
 EOF
-      echo "  rofi ✓"
+      echo "  rofi colors ✓"
     fi
   done
+
+  # ---- 2b. Rofi Collection (rice.rasi) ----
+  RICEFILE="$HOME/i3-dots/rofi-collection/colorscheme/rice.rasi"
+  if [[ -f "$RICEFILE" ]]; then
+    cat > "$RICEFILE" <<- EOF
+* {
+  bg0: ${BG}CC;
+  bg1: #1F1F1F;
+  fg0: ${FG};
+  fg1: ${FG_ALT};
+
+  red: ${AC};
+  red-trans: ${AC}33;
+  green: ${AC};
+  green-trans: ${AC}33;
+  yellow: ${AC};
+  yellow-trans: ${AC}33;
+  blue: ${AC};
+  blue-trans: ${AC}33;
+  purple: ${AC};
+  purple-trans: ${AC}33;
+  aqua: ${AC};
+  aqua-trans: ${AC}33;
+}
+EOF
+    echo "  rofi collection rice.rasi ✓"
+  fi
 
   # ---- 4. i3 config ----
   I3CFG="$HOME/.config/i3/config"

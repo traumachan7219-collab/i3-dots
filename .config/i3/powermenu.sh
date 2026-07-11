@@ -16,11 +16,11 @@ yes=$'\UEE2C  Yes'
 no=$'\UEE12  No'
 
 rofi_cmd() {
-    rofi -dmenu \
+    rofi -no-config -dmenu \
         -p "$prompt" \
         -mesg "$mesg" \
         -markup-rows \
-        -theme ~/.config/rofi/powermenu.rasi
+        -theme ~/i3-dots/rofi-collection/theme.rasi
 }
 
 run_rofi() {
@@ -28,13 +28,13 @@ run_rofi() {
 }
 
 confirm_cmd() {
-    rofi -theme-str 'window {location: center; anchor: center; width: 300px;}' \
+    rofi -no-config -theme-str 'window {location: center; anchor: center; width: 300px;}' \
         -theme-str 'mainbox {children: [ "message", "listview" ];}' \
         -theme-str 'listview {columns: 2; lines: 1; spacing: 10px;}' \
         -theme-str 'element-text {horizontal-align: 0.5;}' \
         -theme-str 'textbox {horizontal-align: 0.5;}' \
         -dmenu -p 'Confirmation' -mesg 'Are you Sure?' \
-        -theme ~/.config/rofi/powermenu.rasi
+        -theme ~/i3-dots/rofi-collection/theme.rasi
 }
 
 confirm_exit() {

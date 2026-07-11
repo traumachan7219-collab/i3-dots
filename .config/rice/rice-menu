@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -uo pipefail
 
-RICE="/home/cool/.config/polybar/docky/scripts/rice-switch.sh"
+RICE="/home/cool/.config/rice/rice-switch.sh"
 
 themes=(
   "pink"
