@@ -1,0 +1,5 @@
+@import "../config/general"
+@import "../config/transparency"
+@import "../colorscheme/rice"
+
+@import "hidrot"

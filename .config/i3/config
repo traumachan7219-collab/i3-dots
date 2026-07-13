@@ -73,7 +73,7 @@ bindsym $mod+Shift+f exec thunar
 # start dmenu (a program launcher)
 #bindsym $mod+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
- bindsym $mod+d exec "rofi -no-config -modi drun,run,window -show drun -theme ~/i3-dots/rofi-collection/theme.rasi"
+ bindsym $mod+d exec "rofi -show drun"
 # theme picker
 bindsym $mod+t exec kitty /home/cool/.config/rice/rice-menu
 # wallpaper picker
@@ -210,10 +210,10 @@ for_window [class=".*"] border pixel 2
 # Border colors: client.<class> <border> <background> <text> <indicator> <child_border>
 # Neon theme (matching polybar)
 #                       <border>    <bg>        <text>      <indicator> <child_border>
-client.focused          #43a047     #000000     #FFFFFF     #43a047     #43a047
-client.focused_inactive #43a047     #000000     #FFFFFF     #000000     #000000
+client.focused          #00acc1     #000000     #FFFFFF     #00acc1     #00acc1
+client.focused_inactive #00acc1     #000000     #1F1F1F     #000000     #000000
 client.unfocused        #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
-client.urgent           #43a047     #000000     #FFFFFF     #E53935     #E53935
+client.urgent           #00acc1     #000000     #FFFFFF     #E53935     #E53935
 
 
 
