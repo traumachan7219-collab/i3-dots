@@ -4,16 +4,16 @@
   fg0: #FFFFFF;
   fg1: #8F8F8F;
 
-  red: #00acc1;
-  red-trans: #00acc133;
-  green: #00acc1;
-  green-trans: #00acc133;
-  yellow: #00acc1;
-  yellow-trans: #00acc133;
-  blue: #00acc1;
-  blue-trans: #00acc133;
-  purple: #00acc1;
-  purple-trans: #00acc133;
-  aqua: #00acc1;
-  aqua-trans: #00acc133;
+  red: #43a047;
+  red-trans: #43a04733;
+  green: #43a047;
+  green-trans: #43a04733;
+  yellow: #43a047;
+  yellow-trans: #43a04733;
+  blue: #43a047;
+  blue-trans: #43a04733;
+  purple: #43a047;
+  purple-trans: #43a04733;
+  aqua: #43a047;
+  aqua-trans: #43a04733;
 }

@@ -7,7 +7,7 @@
     dynamic_background_opacity = yes
 
     frame_width = 2
-    frame_color = "#00acc1"
+    frame_color = "#43a047"
     font = Fira Code Retina 10
     corner_radius = 4
 
@@ -24,5 +24,5 @@
 [urgency_critical]
     background = "#000000"
     foreground = "#FFFFFF"
-    frame_color = "#00acc1"
+    frame_color = "#43a047"
     timeout = 0

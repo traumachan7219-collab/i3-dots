@@ -1,8 +1,8 @@
-![Screenshot](preview.png)
+![Screenshot](rice.png)
 
 # i3 Dotfiles
 
-Personal i3wm setup with Polybar (docky theme), Rofi, Kitty, Neovim, Yazi, and Dunst.
+Personal i3wm setup with Polybar , Rofi, Kitty, Neovim, Yazi, and Dunst.
 
 ## Install
 
@@ -15,17 +15,17 @@ cd i3-dots
 ## What's included
 
 - i3 window manager config
-- Polybar bar (docky theme) with cycling quotes
+- Polybar bar  with cycling quotes
 - Rofi launcher, powermenu, emoji picker, network menu
 - Kitty terminal
-- Neovim config (catppuccin pink theme)
+- Neovim config 
 - Yazi file manager (matching theme)
 - Dunst notifications
 - Default wallpaper
-- Feather icon font
+- Theme changer (mod+t)
+- waypaperr (mod+shift+w)
 
 ## Notes
 
-- Edit `~/.config/polybar/docky/modules.ini` to fix audio sink & network interface
-- Edit `~/.config/i3/config` to change wallpaper path
+- install.sh only works on arch-based distros but you can always copy files
 - Reload i3 with `Mod+Shift+R` after install
