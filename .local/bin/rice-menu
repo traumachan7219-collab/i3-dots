@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -uo pipefail
 
-RICE="/home/cool/.config/polybar/docky/scripts/rice-switch.sh"
+RICE="/home/cool/.config/rice/rice-switch.sh"
 
 themes=(
   "pink"
@@ -12,6 +12,15 @@ themes=(
   "green"
   "purple"
   "black"
+  "gray"
+  "yellow"
+  "teal"
+  "lavender"
+  "mint"
+  "nord"
+  "dracula"
+  "catppuccin"
+  "gruvbox"
   "manga"
   "manga-page"
   "manga-pastel"
@@ -26,6 +35,15 @@ colors=(
   "#43a047"
   "#bf5af2"
   "#000000"
+  "#9E9E9E"
+  "#fdd835"
+  "#00897b"
+  "#9575cd"
+  "#66bb6a"
+  "#88c0d0"
+  "#FF5555"
+  "#f5c2e7"
+  "#d65d0e"
   "#fd4e4e"
   "#1A1A1A"
   "#7EC8E3"
@@ -37,7 +55,7 @@ for i in "${!themes[@]}"; do
   g=$((16#${c:3:2}))
   b=$((16#${c:5:2}))
   printf '\033[38;2;%d;%d;%dm■\033[0m %s\n' "$r" "$g" "$b" "${themes[$i]}"
-done | /usr/bin/fzf --ansi --prompt="Theme > " --height=12 --reverse > /tmp/rice_choice || true
+done | /usr/bin/fzf --ansi --prompt="Theme > " --height=20 --reverse > /tmp/rice_choice || true
 
 selected=$(cat /tmp/rice_choice 2>/dev/null)
 [[ -z "$selected" ]] && exit 0

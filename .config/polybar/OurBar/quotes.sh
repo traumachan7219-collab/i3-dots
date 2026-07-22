@@ -112,8 +112,11 @@ SOURCES=(
   "Julius Caesar"
 )
 
-CACHE="$HOME/.cache/polybar-quote"
+CACHE_QUOTE="$HOME/.cache/polybar-quote-text"
+CACHE_SOURCE="$HOME/.cache/polybar-quote"
 
 RANDOM_INDEX=$(( RANDOM % ${#QUOTES[@]} ))
-echo "${QUOTES[$RANDOM_INDEX]}"
-echo "${SOURCES[$RANDOM_INDEX]}" > "$CACHE"
+
+# Save both to cache instead of echoing the quote to stdout
+echo "${QUOTES[$RANDOM_INDEX]}" > "$CACHE_QUOTE"
+echo "${SOURCES[$RANDOM_INDEX]}" > "$CACHE_SOURCE"

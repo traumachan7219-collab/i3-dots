@@ -59,28 +59,21 @@ tiling_drag modifier titlebar
 # start a terminal
 bindsym $mod+Return exec kitty
 
-#anime
-bindsym $mod+Shift+s exec /home/cool/Applications/seanime
 # kill focused window
 bindsym $mod+Shift+q kill
 
-#start firefox
-bindsym $mod+b exec helium-browser
+#start browser
+bindsym $mod+b exec zen-browser
 
 # open files
 bindsym $mod+Shift+f exec thunar
 
-# start dmenu (a program launcher)
-#bindsym $mod+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
  bindsym $mod+d exec "rofi -show drun"
 # theme picker
 bindsym $mod+t exec kitty /home/cool/.config/rice/rice-menu
 # wallpaper picker
 bindsym $mod+Shift+w exec /home/cool/.config/rice/wallpaper-picker
-# There also is i3-dmenu-desktop which only displays applications shipping a
-# .desktop file. It is a wrapper around dmenu, so you need that installed.
-# bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
 
 # change focus
 bindsym $mod+j focus left
@@ -210,10 +203,10 @@ for_window [class=".*"] border pixel 2
 # Border colors: client.<class> <border> <background> <text> <indicator> <child_border>
 # Neon theme (matching polybar)
 #                       <border>    <bg>        <text>      <indicator> <child_border>
-client.focused          #43a047     #000000     #FFFFFF     #43a047     #43a047
-client.focused_inactive #43a047     #000000     #FFFFFF     #000000     #000000
+client.focused          #f5c2e7     #1e1e2e     #cdd6f4     #f5c2e7     #f5c2e7
+client.focused_inactive #f5c2e7     #1e1e2e     #1e1e2e     #1e1e2e     #1e1e2e
 client.unfocused        #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
-client.urgent           #43a047     #000000     #FFFFFF     #E53935     #E53935
+client.urgent           #f5c2e7     #1e1e2e     #cdd6f4     #E53935     #E53935
 
 
 
@@ -238,7 +231,7 @@ bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 10%-
 
 
 # Assign applications to specific workspaces
-assign [class="Helium"] $ws2
+assign [class="Zen-browser"] $ws2
 assign [class="discord"] $ws4
 assign [class="Spotify"] $ws5
 assign [class="seanime"] $ws3
