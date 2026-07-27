@@ -203,10 +203,10 @@ for_window [class=".*"] border pixel 2
 # Border colors: client.<class> <border> <background> <text> <indicator> <child_border>
 # Neon theme (matching polybar)
 #                       <border>    <bg>        <text>      <indicator> <child_border>
-client.focused          #f5c2e7     #1e1e2e     #cdd6f4     #f5c2e7     #f5c2e7
-client.focused_inactive #f5c2e7     #1e1e2e     #1e1e2e     #1e1e2e     #1e1e2e
+client.focused          #7aa2f7     #24283b     #c0caf5     #7aa2f7     #7aa2f7
+client.focused_inactive #7aa2f7     #24283b     #24283b     #24283b     #24283b
 client.unfocused        #8F8F8F     #1F1F1F     #8F8F8F     #1F1F1F     #1F1F1F
-client.urgent           #f5c2e7     #1e1e2e     #cdd6f4     #E53935     #E53935
+client.urgent           #7aa2f7     #24283b     #c0caf5     #E53935     #E53935
 
 
 

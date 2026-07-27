@@ -3,10 +3,10 @@ set -euo pipefail
 
 # ============================================================
 # rice-switch.sh — swap theme across all apps
-# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|purple|black|gray|yellow|teal|lavender|mint|nord|dracula|catppuccin|gruvbox|manga|manga-page|manga-pastel]
+# Usage: ./rice-switch.sh [pink|cyan|orange|red|blue|green|purple|black|gray|yellow|teal|lavender|mint|nord|dracula|catppuccin|gruvbox|tokyonight|manga|manga-page|manga-pastel]
 # ============================================================
 
-BG="#000000"
+BG="#1a1b26"
 
 theme="${1:-}"
 
@@ -180,6 +180,21 @@ GREEN[gruvbox]="#8ec07c"
 RED[gruvbox]="#fb4934"
 YELLOW[gruvbox]="#fabd2f"
 MAUVE[gruvbox]="#d3869b"
+
+ACCENT[tokyonight]="#7aa2f7"
+MODULE_FG[tokyonight]="#24283b"
+FG[tokyonight]="#c0caf5"
+FG_ALT[tokyonight]="#565f89"
+KITTY_FG[tokyonight]="#c0caf5"
+I3_BORDER[tokyonight]="#7aa2f7"
+BG_THEME[tokyonight]="#24283b"
+BASE[tokyonight]="#1a1b26"
+SURFACE0[tokyonight]="#414868"
+BLUE[tokyonight]="#7aa2f7"
+GREEN[tokyonight]="#9ece6a"
+RED[tokyonight]="#f7768e"
+YELLOW[tokyonight]="#e0af68"
+MAUVE[tokyonight]="#bb9af7"
 
 # ---- ANSI terminal colors (color0-color15) ----
 declare -A C0 C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12 C13 C14 C15
@@ -384,14 +399,24 @@ C5[gruvbox]="#d3869b"; C13[gruvbox]="#d3869b"
 C6[gruvbox]="#8ec07c"; C14[gruvbox]="#8ec07c"
 C7[gruvbox]="#ebdbb2"; C15[gruvbox]="#fbf1c7"
 
+# tokyonight
+C0[tokyonight]="#24283b"; C8[tokyonight]="#414868"
+C1[tokyonight]="#f7768e"; C9[tokyonight]="#ff7a93"
+C2[tokyonight]="#9ece6a"; C10[tokyonight]="#b9f27c"
+C3[tokyonight]="#e0af68"; C11[tokyonight]="#ff9e64"
+C4[tokyonight]="#7aa2f7"; C12[tokyonight]="#7da6ff"
+C5[tokyonight]="#bb9af7"; C13[tokyonight]="#c0a0ff"
+C6[tokyonight]="#7dcfff"; C14[tokyonight]="#89ddff"
+C7[tokyonight]="#a9b1d6"; C15[tokyonight]="#c0caf5"
+
 # ---- Help ----
 if [[ -z "$theme" ]]; then
-  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black|manga|manga-page|manga-pastel]"
+  echo "Usage: $0 [pink|cyan|orange|red|blue|green|purple|black|gray|yellow|teal|lavender|mint|nord|dracula|catppuccin|gruvbox|tokyonight|manga|manga-page|manga-pastel]"
   exit 1
 fi
 
 if [[ -z "${ACCENT[$theme]:-}" ]]; then
-  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black gray yellow teal lavender mint nord dracula catppuccin gruvbox manga manga-page manga-pastel"
+  echo "Unknown theme: $theme. Options: pink cyan orange red blue green purple black gray yellow teal lavender mint nord dracula catppuccin gruvbox tokyonight manga manga-page manga-pastel"
   exit 1
 fi
 
@@ -428,6 +453,7 @@ apply_all() {
     sed -i "s/primary = #.*/primary = $AC/g" "$PPFILE"
     sed -i "s/secondary = #.*/secondary = $AC/g" "$PPFILE"
     sed -i "s/alternate = #.*/alternate = $AC/g" "$PPFILE"
+    sed -i "s/background = #.*/background = $BG/g" "$PPFILE"
     echo "  polybar prototype colors.ini ✓"
   fi
 

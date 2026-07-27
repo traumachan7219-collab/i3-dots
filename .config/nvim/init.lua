@@ -23,20 +23,20 @@ vim.opt.hlsearch = false       -- Clear highlight after search is done
 -- ==========================================================================
 -- --- Catppuccin Mocha Pink ---
 -- ==========================================================================
-local pink      = "#f5c2e7"
-local mauve     = "#cba6f7"
-local base      = "#1e1e2e"
-local surface0  = "#313244"
+local pink      = "#7aa2f7"
+local mauve     = "#bb9af7"
+local base      = "#1a1b26"
+local surface0  = "#414868"
 local text      = "#cdd6f4"
 local subtext0  = "#a6adc8"
 local overlay0  = "#6c7086"
-local blue      = "#89b4fa"
-local green     = "#a6e3a1"
-local red       = "#f38ba8"
-local yellow    = "#f9e2af"
-local rosewater = "#f5c2e7"
-local teal      = "#cdd6f4"
-local sap       = "#cdd6f4"
+local blue      = "#7aa2f7"
+local green     = "#9ece6a"
+local red       = "#f7768e"
+local yellow    = "#e0af68"
+local rosewater = "#7aa2f7"
+local teal      = "#c0caf5"
+local sap       = "#c0caf5"
 
 -- Apply UI colors directly without needing heavy plugins
 vim.api.nvim_set_hl(0, "Normal", { bg = "NONE", fg = text })
