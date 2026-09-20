@@ -1,0 +1,10 @@
+{
+  "ShowDeathCounter": true,
+  "ShowHitCounter": true,
+  "AboveMasks": false,
+  "BesideGeoCount": false,
+  "UnderGeoCount": false,
+  "BesideEssenceCount": false,
+  "UnderEssenceCount": false,
+  "OnLeftEdge": true
+}

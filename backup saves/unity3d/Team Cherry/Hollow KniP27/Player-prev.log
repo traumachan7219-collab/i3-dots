@@ -1,0 +1,766 @@
+Mono path[0] = 'C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Managed'
+Mono config path = 'C:/New folder/content/Hollow Knight/Instance1/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   
+    VRAM:     4031 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.227 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The class named 'ConfigManager' is abstract. The script class can't be abstract!
+
+UnloadTime: 1.652100 ms
+Graphics tier changed to High
+
+GOG signing in...
+
+Selected online subsystem GOGGalaxyOnlineSubsystem
+
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+
+Restored language code 'EN'
+
+GameVersionData must be instantiated using the ScriptableObject.CreateInstance method instead of new GameVersionData.
+
+
+Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3825.
+Total: 2.201500 ms (FindLiveObjects: 0.287400 ms CreateObjectMapping: 0.148400 ms MarkObjects: 1.533300 ms  DeleteObjects: 0.231600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.940200 ms
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/InControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/InControlNative.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/InControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libInControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libInControlNative.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libInControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/InControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/InControlNative.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/InControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libInControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libInControlNative.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libInControlNative
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/XInputInterface32.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libXInputInterface32
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libXInputInterface32.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libXInputInterface32
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Creating Mod Logger
+
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/data-00000211FC439120.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/data-00000211FC2DA450.dll
+Performing automatic level start.
+
+Game controller set to None.
+
+GOG authorization failed: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 45208.
+Total: 226.504500 ms (FindLiveObjects: 3.312700 ms CreateObjectMapping: 2.003900 ms MarkObjects: 220.705500 ms  DeleteObjects: 0.481500 ms)
+
+GameObject contains a component type that is not recognized
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 1.940000 ms
+Performing automatic level start.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GameManager.SetupHeroRefs () [0x00016] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at GameManager.orig_SetupSceneRefs (System.Boolean refreshTilemapInfo) [0x0006c] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at GameManager.SetupSceneRefs (System.Boolean refreshTilemapInfo) [0x00000] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at GameManager.LevelActivated (UnityEngine.SceneManagement.Scene sceneFrom, UnityEngine.SceneManagement.Scene sceneTo) [0x0003c] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2[UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.Scene].invoke_void_T0_T1(UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.Scene)
+  at UnityEngine.SceneManagement.SceneManager.Internal_ActiveSceneChanged (UnityEngine.SceneManagement.Scene previousActiveScene, UnityEngine.SceneManagement.Scene newActiveScene) [0x0000e] in <047294ce45cf4b9a9441e48d2b8435e4>:0 
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+
+Unloading 159 unused Assets to reduce memory usage. Loaded Objects now: 44414.
+Total: 221.843500 ms (FindLiveObjects: 3.875300 ms CreateObjectMapping: 2.012900 ms MarkObjects: 213.925300 ms  DeleteObjects: 2.029300 ms)
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.442800 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to None.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/data-0000020FE65DF440.dll
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Coroutine couldn't be started because the the game object 'OptionsMenuScreen' is inactive!
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 51381.
+Total: 246.566600 ms (FindLiveObjects: 5.004300 ms CreateObjectMapping: 1.992700 ms MarkObjects: 239.388000 ms  DeleteObjects: 0.181000 ms)
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Making UI menu lean.
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour.IsObjectMonoBehaviour(UnityEngine.Object)
+  at UnityEngine.MonoBehaviour.StartCoroutine (System.Collections.IEnumerator routine) [0x00014] in <047294ce45cf4b9a9441e48d2b8435e4>:0 
+  at (wrapper dynamic-method) UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68.DMD<UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68::MoveNext>(UnityEngine.UI.SaveSlotButton/<AnimateToSlotState>d__68)
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <047294ce45cf4b9a9441e48d2b8435e4>:0 
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Animator.ResetTriggerString(UnityEngine.Animator,string)
+  at UnityEngine.Animator.ResetTrigger (System.String name) [0x00001] in <d9588575c4ff4e818531b9dd12300bcd>:0 
+  at (wrapper dynamic-method) UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68.DMD<UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68::MoveNext>(UnityEngine.UI.SaveSlotButton/<AnimateToSlotState>d__68)
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <047294ce45cf4b9a9441e48d2b8435e4>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+CoroutineQueue:Enqueue(IEnumerator)
+UnityEngine.UI.SaveSlotButton:HideSaveSlot()
+<HideSaveProfileMenu>d__216:DMD<UIManager+<HideSaveProfileMenu>d__216::MoveNext>(<HideSaveProfileMenu>d__216)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 302 unused Assets to reduce memory usage. Loaded Objects now: 69145.
+Total: 479.575400 ms (FindLiveObjects: 5.502800 ms CreateObjectMapping: 5.330700 ms MarkObjects: 466.721600 ms  DeleteObjects: 2.019600 ms)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Can't remove MeshFilter because tk2dSprite (Script) depends on it
+
+Can't remove MeshRenderer because tk2dSprite (Script) depends on it
+
+Can't destroy Transform component of 'Clash Tink'. If you want to destroy the game object, please call 'Destroy' on the game object instead. Destroying the transform component is not allowed.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/XInputInterface32.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libXInputInterface32
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libXInputInterface32.dll
+Fallback handler could not load library C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data/Mono/libXInputInterface32
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 29.662600 ms
+Deferring level start (marked as manual).
+
+
+Unloading 1819 unused Assets to reduce memory usage. Loaded Objects now: 61404.
+Total: 435.540500 ms (FindLiveObjects: 5.987900 ms CreateObjectMapping: 4.903500 ms MarkObjects: 417.367700 ms  DeleteObjects: 7.280700 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.408400 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Coroutine couldn't be started because the the game object 'OptionsMenuScreen' is inactive!
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Performing automatic level start.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+
+Unloading 381 unused Assets to reduce memory usage. Loaded Objects now: 55317.
+Total: 326.713700 ms (FindLiveObjects: 6.225600 ms CreateObjectMapping: 3.716900 ms MarkObjects: 314.788500 ms  DeleteObjects: 1.982000 ms)
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Couldn't find a Hero, make sure one exists in the scene.
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2c58 -> priority: 1 
+  Thread -> id: 2424 -> priority: 1 

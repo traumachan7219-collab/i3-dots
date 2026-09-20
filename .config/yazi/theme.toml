@@ -1,7 +1,7 @@
 [manager]
-cwd = "#7aa2f7"
-hovered = { fg = "#24283b", bg = "#7aa2f7" }
-preview_hovered = { fg = "#24283b", bg = "#7aa2f7" }
+cwd = "#f5c2e7"
+hovered = { fg = "#1e1e2e", bg = "#f5c2e7" }
+preview_hovered = { fg = "#1e1e2e", bg = "#f5c2e7" }
 find_key = { fg = "#d81b60", bg = "#1F1F1F", bold = true }
 mark = { fg = "#1F1F1F", bg = "#00ffff" }
 mark_multi = { fg = "#1F1F1F", bg = "#ffb300" }
@@ -13,7 +13,7 @@ selected = { fg = "#ffb3d1" }
 separator_open = ""
 separator_close = ""
 separator_style = { fg = "#d81b60" }
-mode_normal = { fg = "#24283b", bg = "#7aa2f7", bold = true }
+mode_normal = { fg = "#1e1e2e", bg = "#f5c2e7", bold = true }
 mode_select = { fg = "#1F1F1F", bg = "#00ffff", bold = true }
 mode_unset = { fg = "#1F1F1F", bg = "#575766", bold = true }
 progress_label = { fg = "#e4e4e4", bold = true }
@@ -21,15 +21,15 @@ progress_normal = { fg = "#d81b60" }
 progress_error = { fg = "#f50057" }
 
 [input]
-border = { fg = "#7aa2f7" }
+border = { fg = "#f5c2e7" }
 title = {}
 value = { fg = "#ffb3d1" }
 selected = { fg = "#1F1F1F", bg = "#d81b60" }
 
 [select]
-border = { fg = "#7aa2f7" }
-active = { fg = "#24283b", bg = "#7aa2f7" }
-inactive = { fg = "#24283b", bg = "#7aa2f7" }
+border = { fg = "#f5c2e7" }
+active = { fg = "#1e1e2e", bg = "#f5c2e7" }
+inactive = { fg = "#1e1e2e", bg = "#f5c2e7" }
 
 [which]
 mask = { bg = "#1a1a24" }
@@ -38,10 +38,10 @@ rest = { fg = "#e4e4e4" }
 desc = { fg = "#d81b60" }
 
 [help]
-on = { fg = "#7aa2f7" }
+on = { fg = "#f5c2e7" }
 run = { fg = "#ffb3d1" }
 desc = { fg = "#e4e4e4" }
-hovered = { fg = "#24283b", bg = "#7aa2f7" }
+hovered = { fg = "#1e1e2e", bg = "#f5c2e7" }
 footer = {}
 header = {}
 

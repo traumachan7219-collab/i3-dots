@@ -1,86 +1,86 @@
 window {
-  background-color: #24283b;
+  background-color: #1e1e2e;
 }
 
 button {
-  background-color: #24283b;
-  border: 1px solid #565f89;
+  background-color: #1e1e2e;
+  border: 1px solid #6c7086;
   border-radius: 4px;
   padding: 2px;
 }
 
 button:hover {
-  border: 1px solid #7aa2f7;
-  background-color: #565f8922;
+  border: 1px solid #f5c2e7;
+  background-color: #6c708622;
 }
 
 button.highlighted-button {
-  border: 2px solid #7aa2f7;
+  border: 2px solid #f5c2e7;
 }
 
 entry {
-  background-color: #24283b;
-  color: #c0caf5;
-  border: 1px solid #565f89;
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  border: 1px solid #6c7086;
   border-radius: 4px;
   padding: 4px 8px;
 }
 
 entry:focus {
-  border: 1px solid #7aa2f7;
+  border: 1px solid #f5c2e7;
 }
 
 combobox button {
-  background-color: #24283b;
-  color: #c0caf5;
-  border: 1px solid #565f89;
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  border: 1px solid #6c7086;
 }
 
 combobox button:hover {
-  border: 1px solid #7aa2f7;
+  border: 1px solid #f5c2e7;
 }
 
 combobox window,
 combobox menu {
-  background-color: #24283b;
-  color: #c0caf5;
+  background-color: #1e1e2e;
+  color: #cdd6f4;
 }
 
 combobox menuitem:hover {
-  background-color: #565f8933;
+  background-color: #6c708633;
 }
 
 label {
-  color: #c0caf5;
+  color: #cdd6f4;
 }
 
 scrolledwindow {
-  background-color: #24283b;
+  background-color: #1e1e2e;
 }
 
 scrollbar {
-  background-color: #24283b;
+  background-color: #1e1e2e;
 }
 
 scrollbar slider {
-  background-color: #565f89;
+  background-color: #6c7086;
   border-radius: 4px;
   min-width: 8px;
 }
 
 scrollbar slider:hover {
-  background-color: #7aa2f7;
+  background-color: #f5c2e7;
 }
 
 checkbutton {
-  color: #c0caf5;
+  color: #cdd6f4;
 }
 
 checkbutton:hover {
-  background-color: #565f8922;
+  background-color: #6c708622;
 }
 
 .daemon-panel label {
-  color: #565f89;
+  color: #6c7086;
   font-size: 11px;
 }

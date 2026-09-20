@@ -1,0 +1,207 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "Town",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_30",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_47",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_ShamanTemple",
+          "RespawnMarkerName": "BoneBench"
+        },
+        {
+          "SceneName": "Fungus1_01b",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_31",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_16_alt",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Slug_Shrine",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_37",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_26",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_13",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_31",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_29",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Mines_29",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "RestingGrounds_09",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Mines_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "RestingGrounds_12",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins2_08",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Waterways_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Abyss_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Abyss_22",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_nailmaster",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Deepnest_30",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Deepnest_14",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Tram",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Deepnest_Spider_Town",
+          "RespawnMarkerName": "RestBench Return"
+        },
+        {
+          "SceneName": "Deepnest_East_06",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Deepnest_East_13",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Colosseum_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus3_archive",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Final_Boss_Atrium",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_24",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus3_50",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus3_40",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Hive_01",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_04",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "White_Palace_01",
+          "RespawnMarkerName": "WhiteBench"
+        },
+        {
+          "SceneName": "White_Palace_03_hub",
+          "RespawnMarkerName": "WhiteBench"
+        },
+        {
+          "SceneName": "White_Palace_06",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "GG_Atrium",
+          "RespawnMarkerName": "RestBench"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "CustomKnight": {
+      "DefaultSkin": "KnightClown_Skin_v1.1"
+    },
+    "DebugMod": {},
+    "ItemChangerMod": {
+      "value": null
+    },
+    "MenuChanger": {
+      "resumeKey": null
+    },
+    "Randomizer 4": {
+      "GenerationSettings": null,
+      "ProfileID": -1,
+      "TrackerData": null,
+      "TrackerDataWithoutSequenceBreaks": null
+    },
+    "DeathCounter": {
+      "Deaths": 68,
+      "TotalDamage": 2050
+    }
+  }
+}

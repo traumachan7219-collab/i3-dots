@@ -1,0 +1,141 @@
+Mono path[0] = 'C:/games/Hollow-Knight-Silksong-SteamRIP.com/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = 'C:/games/Hollow-Knight-Silksong-SteamRIP.com/Hollow Knight Silksong/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.50f1-uum-100966-branch1 (16f07294548e)
+[Subsystems] Discovering subsystems at path C:/games/Hollow-Knight-Silksong-SteamRIP.com/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     4031 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.290 seconds
+- Finished resetting the current domain, in  0.004 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.230700 ms
+Steam initializing
+Steam failed to initialize
+Selected online subsystem SteamOnlineSubsystem
+Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
+UnloadTime: 3.379800 ms
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6116.
+Total: 10.042300 ms (FindLiveObjects: 0.540800 ms CreateObjectMapping: 0.647500 ms MarkObjects: 8.775700 ms  DeleteObjects: 0.072300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13348.
+Total: 13.960000 ms (FindLiveObjects: 0.801000 ms CreateObjectMapping: 1.092600 ms MarkObjects: 11.996800 ms  DeleteObjects: 0.069200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+UnloadTime: 10.632500 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66658.
+Total: 66.923000 ms (FindLiveObjects: 5.675700 ms CreateObjectMapping: 6.073800 ms MarkObjects: 54.726600 ms  DeleteObjects: 0.446500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 3 Unused Serialized files (Serialized files now loaded: 597)
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 131399.
+Total: 144.681500 ms (FindLiveObjects: 13.357300 ms CreateObjectMapping: 11.667400 ms MarkObjects: 118.559100 ms  DeleteObjects: 1.097200 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
+UnloadTime: 31.004100 ms
+Unloading 9208 unused Assets to reduce memory usage. Loaded Objects now: 127918.
+Total: 184.255700 ms (FindLiveObjects: 14.253000 ms CreateObjectMapping: 10.668300 ms MarkObjects: 117.697400 ms  DeleteObjects: 41.636400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 7517 unused Assets to reduce memory usage. Loaded Objects now: 26729.
+Total: 92.722600 ms (FindLiveObjects: 3.239300 ms CreateObjectMapping: 4.336900 ms MarkObjects: 68.574300 ms  DeleteObjects: 16.571400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.142200 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 1282 unused Assets to reduce memory usage. Loaded Objects now: 71995.
+Total: 113.889500 ms (FindLiveObjects: 6.295800 ms CreateObjectMapping: 7.222400 ms MarkObjects: 95.460900 ms  DeleteObjects: 4.909800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 71979.
+Total: 114.867600 ms (FindLiveObjects: 6.241200 ms CreateObjectMapping: 7.591200 ms MarkObjects: 100.777700 ms  DeleteObjects: 0.257000 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 588)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 131005.
+Total: 140.245100 ms (FindLiveObjects: 11.944200 ms CreateObjectMapping: 11.677700 ms MarkObjects: 115.484300 ms  DeleteObjects: 1.138400 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+UnloadTime: 29.135900 ms
+Unloading 5848 unused Assets to reduce memory usage. Loaded Objects now: 123343.
+Total: 184.471800 ms (FindLiveObjects: 12.898700 ms CreateObjectMapping: 10.125000 ms MarkObjects: 143.739700 ms  DeleteObjects: 17.708100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 7585 unused Assets to reduce memory usage. Loaded Objects now: 26106.
+Total: 81.860100 ms (FindLiveObjects: 3.607000 ms CreateObjectMapping: 4.404700 ms MarkObjects: 57.870000 ms  DeleteObjects: 15.977800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.472100 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 474 unused Assets to reduce memory usage. Loaded Objects now: 72186.
+Total: 103.915800 ms (FindLiveObjects: 6.443900 ms CreateObjectMapping: 7.028700 ms MarkObjects: 89.075000 ms  DeleteObjects: 1.367800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72170.
+Total: 105.710500 ms (FindLiveObjects: 5.900000 ms CreateObjectMapping: 7.071300 ms MarkObjects: 92.466500 ms  DeleteObjects: 0.272200 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 588)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 131196.
+Total: 138.175200 ms (FindLiveObjects: 11.826800 ms CreateObjectMapping: 10.002800 ms MarkObjects: 115.193500 ms  DeleteObjects: 1.151800 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.

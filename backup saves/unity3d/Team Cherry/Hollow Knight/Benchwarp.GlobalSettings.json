@@ -1,0 +1,23 @@
+{
+  "ShowMenu": true,
+  "WarpOnly": true,
+  "UnlockAllBenches": false,
+  "ShowScene": false,
+  "MaxSceneNames": 1,
+  "SwapNames": false,
+  "EnableDeploy": true,
+  "DeployInUnsafeRooms": false,
+  "AlwaysToggleAll": false,
+  "ModifyVanillaBenchStyles": false,
+  "nearStyle": "Beast",
+  "farStyle": "Ornate",
+  "DeployCooldown": false,
+  "Noninteractive": false,
+  "NoMidAirDeploy": false,
+  "NoPreload": false,
+  "DoorWarp": false,
+  "EnableHotkeys": false,
+  "LegacyHotkeys": false,
+  "OverrideLocalization": false,
+  "HotkeyOverrides": {}
+}

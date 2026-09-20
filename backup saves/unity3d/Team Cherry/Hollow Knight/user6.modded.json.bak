@@ -1,0 +1,99 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "Town",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_30",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_47",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_ShamanTemple",
+          "RespawnMarkerName": "BoneBench"
+        },
+        {
+          "SceneName": "Fungus1_31",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_16_alt",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_37",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_26",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_04",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "RestingGrounds_09",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Mines_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins2_08",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_24",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus3_50",
+          "RespawnMarkerName": "RestBench"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "DeathCounter": {
+      "Deaths": 17,
+      "TotalDamage": 297
+    },
+    "Enemy Randomizer": {
+      "enemyRandomizerSeed": 1435363354
+    },
+    "ItemChangerMod": {
+      "value": null
+    },
+    "MenuChanger": {
+      "resumeKey": null
+    },
+    "Randomizer 4": {
+      "GenerationSettings": null,
+      "ProfileID": -1,
+      "TrackerData": null,
+      "TrackerDataWithoutSequenceBreaks": null
+    },
+    "DebugMod": {}
+  }
+}

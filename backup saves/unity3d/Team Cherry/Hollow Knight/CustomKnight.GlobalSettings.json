@@ -1,0 +1,31 @@
+{
+  "saveSkins": {
+    "0": "KnightClown_Skin_v1.1",
+    "1": "KnightClown_Skin_v1.1",
+    "2": "Default",
+    "3": "Default"
+  },
+  "Keybinds": {
+    "OpenSkinList": "Delete",
+    "ReloadSkins": "None"
+  },
+  "Version": "3.5.0.0-486610",
+  "Preloads": true,
+  "DefaultSkin": "KnightClown_Skin_v1.1",
+  "NameLength": 15,
+  "MaxSkinCache": 10,
+  "SwapperEnabled": true,
+  "EnablePauseMenu": true,
+  "EnableSaveHuds": true,
+  "EnableParticleSwap": true,
+  "DisableDirectorySwaps": false,
+  "GenerateDefaultSkin": false,
+  "FavoriteSkins": [],
+  "RecentSkins": [
+    "KnightClown_Skin_v1.1",
+    "sun",
+    "Default",
+    "Lapis Lightning by Biscuit",
+    "Global"
+  ]
+}

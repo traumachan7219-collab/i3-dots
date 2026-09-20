@@ -1,0 +1,282 @@
+Starting tracker log for new randomizer file.
+
+ITEM OBTAINED --- {330_Geo} at {Start} with id {496}
+LOCATION CLEARED --- {Start}
+ITEM OBTAINED --- {Vessel_Fragment} at {Geo_Rock-King's_Pass_Left} with id {435}
+LOCATION CLEARED --- {Geo_Rock-King's_Pass_Left}
+ITEM OBTAINED --- {Whispering_Root-Deepnest} at {Geo_Rock-King's_Pass_Below_Fury} with id {587}
+LOCATION CLEARED --- {Geo_Rock-King's_Pass_Below_Fury}
+ITEM OBTAINED --- {Wayward_Compass} at {Lore_Tablet-King's_Pass_Focus} with id {443}
+LOCATION CLEARED --- {Lore_Tablet-King's_Pass_Focus}
+ITEM OBTAINED --- {Lore_Tablet-Spore_Shroom} at {Geo_Rock-King's_Pass_Hidden} with id {258}
+LOCATION CLEARED --- {Geo_Rock-King's_Pass_Hidden}
+ITEM OBTAINED --- {Charm_Notch} at {Lifeblood_Cocoon-King's_Pass} with id {207}
+LOCATION CLEARED --- {Lifeblood_Cocoon-King's_Pass}
+ITEM OBTAINED --- {Geo_Rock-GreenPath02} at {Geo_Rock-King's_Pass_Above_Fury} with id {58}
+LOCATION CLEARED --- {Geo_Rock-King's_Pass_Above_Fury}
+ITEM OBTAINED --- {Lore_Tablet-Howling_Cliffs} at {Lore_Tablet-King's_Pass_Fury} with id {98}
+LOCATION CLEARED --- {Lore_Tablet-King's_Pass_Fury}
+ITEM OBTAINED --- {Grub} at {Fury_of_the_Fallen} with id {591}
+LOCATION CLEARED --- {Fury_of_the_Fallen}
+ITEM OBTAINED --- {Geo_Chest-Crystal_Peak} at {Geo_Rock-King's_Pass_Collapse} with id {389}
+LOCATION CLEARED --- {Geo_Rock-King's_Pass_Collapse}
+ITEM OBTAINED --- {Charm_Notch} at {Lore_Tablet-King's_Pass_Exit} with id {553}
+LOCATION CLEARED --- {Lore_Tablet-King's_Pass_Exit}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Geo_Rock-Mine} at {Iselda} with id {233}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Iselda} with id {260}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Geo_Rock-GreenPath01} at {Iselda} with id {296}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Geo_Rock-GreenPath01} at {Iselda} with id {493}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Geo_Rock-Deepnest} at {Iselda} with id {597}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Grub} at {Geo_Rock-Crossroads_Well} with id {111}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Well}
+LOCATION PREVIEWED --- {Crossroads_Map}
+ITEM OBTAINED --- {Shopkeeper's_Key} at {Crossroads_Map} with id {537}
+LOCATION CLEARED --- {Crossroads_Map}
+ITEM OBTAINED --- {Crystal_Heart} at {Geo_Rock-Crossroads_Before_Acid_Grub} with id {585}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Before_Acid_Grub}
+ITEM OBTAINED --- {Defender's_Crest} at {Grub-Crossroads_Acid} with id {114}
+LOCATION CLEARED --- {Grub-Crossroads_Acid}
+ITEM OBTAINED --- {Rancid_Egg} at {Geo_Rock-Crossroads_Goam_Damage_Boost} with id {182}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Goam_Damage_Boost}
+LOCATION PREVIEWED --- {Crossroads_Stag}
+ITEM OBTAINED --- {Geo_Rock-GreenPath01} at {Crossroads_Stag} with id {458}
+LOCATION CLEARED --- {Crossroads_Stag}
+ITEM OBTAINED --- {Hallownest_Seal} at {Dirtmouth_Stag} with id {171}
+LOCATION CLEARED --- {Dirtmouth_Stag}
+ITEM OBTAINED --- {Vessel_Fragment} at {Grub-Crossroads_Stag} with id {251}
+LOCATION CLEARED --- {Grub-Crossroads_Stag}
+ITEM OBTAINED --- {Vessel_Fragment} at {City_Crest} with id {535}
+LOCATION CLEARED --- {City_Crest}
+ITEM OBTAINED --- {Grub} at {Geo_Chest-False_Knight} with id {237}
+LOCATION CLEARED --- {Geo_Chest-False_Knight}
+ITEM OBTAINED --- {Lore_Tablet-Ancient_Basin} at {Vengeful_Spirit} with id {387}
+LOCATION CLEARED --- {Vengeful_Spirit}
+ITEM OBTAINED --- {Arcane_Egg} at {Geo_Rock-Crossroads_Before_Fungal_Dupe_1} with id {313}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Before_Fungal_Dupe_1}
+ITEM OBTAINED --- {Lore_Tablet-Pleasure_House} at {Geo_Rock-Crossroads_Before_Fungal_Dupe_2} with id {583}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Before_Fungal_Dupe_2}
+ITEM OBTAINED --- {Geo_Rock-Fung01} at {Geo_Rock-Crossroads_Before_Fungal} with id {408}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Before_Fungal}
+ITEM OBTAINED --- {Lifeblood_Cocoon_Small} at {Geo_Rock-Crossroads_Before_Shops} with id {401}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Before_Shops}
+ITEM OBTAINED --- {Lifeblood_Core} at {Soul_Totem-Crossroads_Shops} with id {611}
+LOCATION CLEARED --- {Soul_Totem-Crossroads_Shops}
+ITEM OBTAINED --- {Soul_Totem-B} at {Boss_Geo-Gruz_Mother} with id {334}
+LOCATION CLEARED --- {Boss_Geo-Gruz_Mother}
+LOCATION PREVIEWED --- {Salubra}
+ITEM OBTAINED --- {Kingdom's_Edge_Map} at {Geo_Rock-Crossroads_Above_Lever} with id {465}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Above_Lever}
+ITEM OBTAINED --- {Pale_Ore} at {Geo_Rock-Crossroads_Center_Grub} with id {571}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Center_Grub}
+ITEM OBTAINED --- {Hallownest_Seal} at {Grub-Crossroads_Center} with id {499}
+LOCATION CLEARED --- {Grub-Crossroads_Center}
+LOCATION PREVIEWED --- {Grubfather}
+ITEM OBTAINED --- {Geo_Rock-GreenPath01} at {Grubfather} with id {265}
+ITEM OBTAINED --- {Dashmaster} at {Grubfather} with id {48}
+ITEM OBTAINED --- {Queen's_Gardens_Stag} at {Soul_Totem-Ancestral_Mound} with id {162}
+LOCATION CLEARED --- {Soul_Totem-Ancestral_Mound}
+LOCATION PREVIEWED --- {Whispering_Root-Ancestral_Mound}
+LOCATION PREVIEWED --- {Whispering_Root-Ancestral_Mound}
+LOCATION PREVIEWED --- {Whispering_Root-Ancestral_Mound}
+LOCATION PREVIEWED --- {Whispering_Root-Ancestral_Mound}
+ITEM OBTAINED --- {Grub} at {Geo_Rock-Ancestral_Mound_Dupe} with id {184}
+LOCATION CLEARED --- {Geo_Rock-Ancestral_Mound_Dupe}
+ITEM OBTAINED --- {Soul_Totem-C} at {Geo_Rock-Ancestral_Mound} with id {632}
+LOCATION CLEARED --- {Geo_Rock-Ancestral_Mound}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Lifeblood_Cocoon-Ancestral_Mound} with id {89}
+LOCATION CLEARED --- {Lifeblood_Cocoon-Ancestral_Mound}
+ITEM OBTAINED --- {Lore_Tablet-Mantis_Village} at {Grub-Crossroads_Guarded} with id {2}
+LOCATION CLEARED --- {Grub-Crossroads_Guarded}
+ITEM OBTAINED --- {Geo_Rock-Hive} at {Soul_Totem-Crossroads_Myla} with id {192}
+LOCATION CLEARED --- {Soul_Totem-Crossroads_Myla}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Crossroads_Stag} at {Sly} with id {420}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Grub} at {Geo_Rock-Crossroads_Above_Tram} with id {417}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Above_Tram}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Grub-Crossroads_Spike} with id {594}
+LOCATION CLEARED --- {Grub-Crossroads_Spike}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Geo_Rock-Crossroads_Tram} with id {218}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Tram}
+LOCATION PREVIEWED --- {Queen's_Gardens_Stag}
+ITEM OBTAINED --- {Geo_Rock-Deepnest} at {Geo_Rock-Queen's_Gardens_Below_Stag} with id {517}
+LOCATION CLEARED --- {Geo_Rock-Queen's_Gardens_Below_Stag}
+ITEM OBTAINED --- {Geo_Rock-Hive} at {Grub-Queen's_Gardens_Stag} with id {355}
+LOCATION CLEARED --- {Grub-Queen's_Gardens_Stag}
+LOCATION PREVIEWED --- {Queen's_Gardens_Stag}
+LOCATION PREVIEWED --- {Salubra}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Geo_Rock-Crossroads_Before_Glowing_Womb} with id {382}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Before_Glowing_Womb}
+ITEM OBTAINED --- {Boss_Essence-Soul_Tyrant} at {Lore_Tablet-Pilgrim's_Way_1} with id {196}
+LOCATION CLEARED --- {Lore_Tablet-Pilgrim's_Way_1}
+ITEM OBTAINED --- {Mantis_Claw} at {Soul_Totem-Crossroads_Mawlek_Upper} with id {343}
+LOCATION CLEARED --- {Soul_Totem-Crossroads_Mawlek_Upper}
+ITEM OBTAINED --- {Rancid_Egg} at {Soul_Totem-Crossroads_Mawlek_Lower} with id {273}
+LOCATION CLEARED --- {Soul_Totem-Crossroads_Mawlek_Lower}
+ITEM OBTAINED --- {Rancid_Egg} at {Geo_Rock-Crossroads_Above_Mawlek} with id {610}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Above_Mawlek}
+ITEM OBTAINED* --- {Mask_Shard} at {Mask_Shard-Brooding_Mawlek} with id {137}
+LOCATION CLEARED --- {Mask_Shard-Brooding_Mawlek}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Glowing_Womb} with id {160}
+LOCATION CLEARED --- {Glowing_Womb}
+ITEM OBTAINED --- {Rancid_Egg} at {Hallownest_Seal-Crossroads_Well} with id {259}
+LOCATION CLEARED --- {Hallownest_Seal-Crossroads_Well}
+ITEM OBTAINED --- {Grub} at {Rancid_Egg-Blue_Lake} with id {302}
+LOCATION CLEARED --- {Rancid_Egg-Blue_Lake}
+ITEM OBTAINED --- {Geo_Rock-Outskirts420} at {Dream_Nail} with id {229}
+LOCATION CLEARED --- {Dream_Nail}
+ITEM OBTAINED --- {Soul_Totem-Palace} at {Seer} with id {292}
+LOCATION PREVIEWED --- {Seer}
+ITEM OBTAINED --- {100_Geo-Crystal_Heart} at {Seer} with id {599}
+LOCATION PREVIEWED --- {Whispering_Root-Resting_Grounds}
+LOCATION PREVIEWED --- {Whispering_Root-Resting_Grounds}
+ITEM OBTAINED --- {Crystal_Peak_Map} at {Dreamshield} with id {279}
+LOCATION CLEARED --- {Dreamshield}
+ITEM OBTAINED --- {Geo_Rock-Deepnest} at {Soul_Totem-Resting_Grounds} with id {38}
+LOCATION CLEARED --- {Soul_Totem-Resting_Grounds}
+LOCATION PREVIEWED --- {Resting_Grounds_Map}
+ITEM OBTAINED --- {Hallownest_Seal} at {Resting_Grounds_Stag} with id {370}
+LOCATION CLEARED --- {Resting_Grounds_Stag}
+LOCATION PREVIEWED --- {Grubfather}
+ITEM OBTAINED --- {Greenpath_Map} at {Grubfather} with id {396}
+LOCATION PREVIEWED --- {Grubfather}
+LOCATION PREVIEWED --- {Grubfather}
+LOCATION PREVIEWED --- {Iselda}
+ITEM OBTAINED --- {Boss_Essence-Grey_Prince_Zote} at {Iselda} with id {532}
+LOCATION PREVIEWED --- {Iselda}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Grub} at {Sly} with id {449}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Geo_Rock-Deepnest} at {Sly_(Key)} with id {460}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Sly} with id {45}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Geo_Rock-GreenPath01} at {Sly_(Key)} with id {27}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Sly_(Key)} with id {138}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+ITEM OBTAINED --- {Geo_Rock-Deepnest} at {Sly_(Key)} with id {345}
+LOCATION PREVIEWED --- {Sly}
+LOCATION PREVIEWED --- {Sly_(Key)}
+LOCATION PREVIEWED --- {Cyclone_Slash}
+LOCATION PREVIEWED --- {Howling_Cliffs_Map}
+ITEM OBTAINED --- {Monarch_Wings} at {Howling_Cliffs_Map} with id {329}
+LOCATION CLEARED --- {Howling_Cliffs_Map}
+ITEM OBTAINED --- {Soul_Totem-C} at {Geo_Rock-Cliffs_Main_3} with id {141}
+LOCATION CLEARED --- {Geo_Rock-Cliffs_Main_3}
+ITEM OBTAINED --- {Deep_Focus} at {Lore_Tablet-Howling_Cliffs} with id {152}
+LOCATION CLEARED --- {Lore_Tablet-Howling_Cliffs}
+ITEM OBTAINED --- {Charm_Notch} at {Geo_Rock-Cliffs_Main_4} with id {542}
+LOCATION CLEARED --- {Geo_Rock-Cliffs_Main_4}
+ITEM OBTAINED --- {Geo_Rock-Default} at {King's_Idol-Cliffs} with id {556}
+LOCATION CLEARED --- {King's_Idol-Cliffs}
+ITEM OBTAINED --- {Grimmkin_Flame} at {Geo_Rock-Crossroads_Aspid_Arena_Dupe_2} with id {275}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Aspid_Arena_Dupe_2}
+ITEM OBTAINED --- {Grub} at {Geo_Rock-Crossroads_Aspid_Arena_Dupe_1} with id {183}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Aspid_Arena_Dupe_1}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Geo_Rock-Crossroads_Aspid_Arena} with id {391}
+LOCATION CLEARED --- {Geo_Rock-Crossroads_Aspid_Arena}
+LOCATION PREVIEWED --- {Leg_Eater}
+ITEM OBTAINED --- {Geo_Rock-City} at {Leg_Eater} with id {61}
+LOCATION PREVIEWED --- {Leg_Eater}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Leg_Eater} with id {307}
+LOCATION PREVIEWED --- {Leg_Eater}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Leg_Eater} with id {481}
+LOCATION PREVIEWED --- {Leg_Eater}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Leg_Eater} with id {622}
+LOCATION PREVIEWED --- {Leg_Eater}
+ITEM OBTAINED --- {Geo_Rock-GreenPath02} at {Geo_Rock-Fungal_Above_Cloth} with id {464}
+LOCATION CLEARED --- {Geo_Rock-Fungal_Above_Cloth}
+ITEM OBTAINED --- {King's_Station_Stag} at {Geo_Rock-Fungal_After_Cloth} with id {227}
+LOCATION CLEARED --- {Geo_Rock-Fungal_After_Cloth}
+ITEM OBTAINED --- {Mask_Shard} at {Lore_Tablet-Pilgrim's_Way_2} with id {288}
+LOCATION CLEARED --- {Lore_Tablet-Pilgrim's_Way_2}
+ITEM OBTAINED --- {Soul_Totem-B} at {Grub-Fungal_Bouncy} with id {83}
+LOCATION CLEARED --- {Grub-Fungal_Bouncy}
+ITEM OBTAINED --- {Rancid_Egg} at {Geo_Rock-Fungal_After_Bouncy_Grub_Dupe} with id {206}
+LOCATION CLEARED --- {Geo_Rock-Fungal_After_Bouncy_Grub_Dupe}
+ITEM OBTAINED --- {Simple_Key} at {Geo_Rock-Fungal_After_Bouncy_Grub} with id {294}
+LOCATION CLEARED --- {Geo_Rock-Fungal_After_Bouncy_Grub}
+ITEM OBTAINED --- {Quick_Slash} at {Wanderer's_Journal-Above_Mantis_Village} with id {219}
+LOCATION CLEARED --- {Wanderer's_Journal-Above_Mantis_Village}
+LOCATION PREVIEWED --- {Whispering_Root-Mantis_Village}
+ITEM OBTAINED --- {Geo_Rock-City} at {Geo_Rock-Mantis_Village_Above_Claw} with id {515}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Village_Above_Claw}
+ITEM OBTAINED --- {Lore_Tablet-Kingdom's_Edge} at {Mantis_Claw} with id {69}
+LOCATION CLEARED --- {Mantis_Claw}
+ITEM OBTAINED --- {Hallownest_Seal} at {Geo_Rock-Mantis_Village_Above_Claw_Dupe} with id {531}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Village_Above_Claw_Dupe}
+ITEM OBTAINED --- {Rancid_Egg} at {Geo_Rock-Mantis_Village_Below_Lore} with id {430}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Village_Below_Lore}
+ITEM OBTAINED --- {King's_Idol} at {Lore_Tablet-Mantis_Village} with id {504}
+LOCATION CLEARED --- {Lore_Tablet-Mantis_Village}
+ITEM OBTAINED --- {Wanderer's_Journal} at {Geo_Rock-Mantis_Village_Above_Lever} with id {347}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Village_Above_Lever}
+ITEM OBTAINED --- {Geo_Rock-GreenPath01} at {Geo_Rock-Mantis_Outskirts_Guarded_Dupe} with id {543}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Outskirts_Guarded_Dupe}
+ITEM OBTAINED --- {Mask_Shard} at {Geo_Rock-Mantis_Outskirts_Guarded} with id {394}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Outskirts_Guarded}
+ITEM OBTAINED --- {Mark_of_Pride} at {Geo_Rock-Mantis_Outskirts_Alcove} with id {22}
+LOCATION CLEARED --- {Geo_Rock-Mantis_Outskirts_Alcove}
+ITEM OBTAINED --- {Wanderer's_Journal} at {Dashmaster} with id {212}
+LOCATION CLEARED --- {Dashmaster}
+ITEM OBTAINED --- {Dream_Wielder} at {Geo_Rock-Above_Mantis_Lords_2} with id {303}
+LOCATION CLEARED --- {Geo_Rock-Above_Mantis_Lords_2}
+ITEM OBTAINED --- {Geo_Rock-Outskirts} at {Lifeblood_Cocoon-Mantis_Village} with id {11}
+LOCATION CLEARED --- {Lifeblood_Cocoon-Mantis_Village}
+ITEM OBTAINED --- {King's_Idol} at {Hallownest_Seal-Mantis_Lords} with id {149}
+LOCATION CLEARED --- {Hallownest_Seal-Mantis_Lords}
+ITEM OBTAINED --- {Mask_Shard} at {Geo_Chest-Mantis_Lords} with id {627}
+LOCATION CLEARED --- {Geo_Chest-Mantis_Lords}
+ITEM OBTAINED --- {Whispering_Root-City} at {Mark_of_Pride} with id {506}
+LOCATION CLEARED --- {Mark_of_Pride}
+ITEM OBTAINED --- {Dream_Wielder} at {Geo_Rock-Above_Mantis_Lords_2} with id {303}
+LOCATION CLEARED --- {Geo_Rock-Above_Mantis_Lords_2}
+ITEM OBTAINED --- {Whispering_Root-City} at {Mark_of_Pride} with id {506}
+LOCATION CLEARED --- {Mark_of_Pride}
+ITEM OBTAINED --- {King's_Idol} at {Hallownest_Seal-Mantis_Lords} with id {149}
+LOCATION CLEARED --- {Hallownest_Seal-Mantis_Lords}
+ITEM OBTAINED --- {Mask_Shard} at {Geo_Chest-Mantis_Lords} with id {627}
+LOCATION CLEARED --- {Geo_Chest-Mantis_Lords}
+ITEM OBTAINED --- {Lore_Tablet-Mantis_Outskirts} at {Soul_Totem-Fungal_Core} with id {557}
+LOCATION CLEARED --- {Soul_Totem-Fungal_Core}
+ITEM OBTAINED --- {Geo_Rock-City} at {Rancid_Egg-Fungal_Core} with id {418}
+LOCATION CLEARED --- {Rancid_Egg-Fungal_Core}
+LOCATION PREVIEWED --- {Deepnest_Map-Right}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Geo_Rock-Deepnest_Lower_Cornifer} with id {181}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_Lower_Cornifer}
+LOCATION PREVIEWED --- {Deepnest_Map-Right}
+ITEM OBTAINED --- {Lifeblood_Cocoon_Small} at {Geo_Rock-Deepnest_By_Mantis_Lords_1} with id {456}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_By_Mantis_Lords_1}
+ITEM OBTAINED --- {Quick_Focus} at {Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1} with id {563}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1}
+ITEM OBTAINED --- {Rancid_Egg} at {Geo_Rock-Deepnest_Garpede_1} with id {479}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_Garpede_1}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Geo_Rock-Deepnest_Garpede_2} with id {291}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_Garpede_2}
+ITEM OBTAINED --- {Geo_Rock-Default} at {Soul_Totem-Deepnest_Vessel} with id {19}
+LOCATION CLEARED --- {Soul_Totem-Deepnest_Vessel}
+ITEM OBTAINED --- {Geo_Rock-Deepnest} at {Vessel_Fragment-Deepnest} with id {127}
+LOCATION CLEARED --- {Vessel_Fragment-Deepnest}
+ITEM OBTAINED --- {Journal_Entry-Void_Tendrils} at {Grub-Deepnest_Nosk} with id {41}
+LOCATION CLEARED --- {Grub-Deepnest_Nosk}
+ITEM OBTAINED --- {Geo_Rock-Mine} at {Geo_Rock-Deepnest_Nosk_1} with id {369}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_Nosk_1}
+ITEM OBTAINED --- {Lore_Tablet-Sanctum_Past_Soul_Master} at {Geo_Rock-Deepnest_Nosk_2} with id {315}
+LOCATION CLEARED --- {Geo_Rock-Deepnest_Nosk_2}
+ITEM OBTAINED* --- {Geo_Rock-Deepnest} at {Pale_Ore-Nosk} with id {133}
+LOCATION CLEARED --- {Pale_Ore-Nosk}

@@ -1,0 +1,9 @@
+{
+  "FreezeDuration": 0.5,
+  "SpeedMultiplier": 3.0,
+  "ShowHitboxes": true,
+  "FreezeMode": true,
+  "HazardRespawn": false,
+  "SkipIndex": 0,
+  "SkipTime": 1.8
+}

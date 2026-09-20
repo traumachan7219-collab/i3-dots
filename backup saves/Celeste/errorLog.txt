@@ -1,0 +1,44 @@
+Celeste Error Log
+==========================================
+
+Ver 1.4.0.0
+7/28/2026 8:38:51 PM
+System.DllNotFoundException: libfmodstudio.so.10
+  at (wrapper managed-to-native) FMOD.Studio.System.FMOD_Studio_System_Create(intptr&,uint)
+  at FMOD.Studio.System.create (FMOD.Studio.System& studiosystem) [0x00005] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.Audio.Init () [0x00010] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.GameLoader.LoadThread () [0x0000c] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.RunThread.RunThreadWithLogging (System.Action method) [0x00000] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+
+
+Ver 1.4.0.0
+7/28/2026 8:38:29 PM
+System.DllNotFoundException: libfmodstudio.so.10
+  at (wrapper managed-to-native) FMOD.Studio.System.FMOD_Studio_System_Create(intptr&,uint)
+  at FMOD.Studio.System.create (FMOD.Studio.System& studiosystem) [0x00005] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.Audio.Init () [0x00010] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.GameLoader.LoadThread () [0x0000c] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.RunThread.RunThreadWithLogging (System.Action method) [0x00000] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+
+
+Ver 1.4.0.0
+7/28/2026 8:37:40 PM
+System.DllNotFoundException: libfmodstudio.so.10
+  at (wrapper managed-to-native) FMOD.Studio.System.FMOD_Studio_System_Create(intptr&,uint)
+  at FMOD.Studio.System.create (FMOD.Studio.System& studiosystem) [0x00005] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.Audio.Init () [0x00010] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.GameLoader.LoadThread () [0x0000c] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.RunThread.RunThreadWithLogging (System.Action method) [0x00000] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+
+
+Ver 1.4.0.0
+7/28/2026 8:34:21 PM
+System.DllNotFoundException: libfmodstudio.so.10
+  at (wrapper managed-to-native) FMOD.Studio.System.FMOD_Studio_System_Create(intptr&,uint)
+  at FMOD.Studio.System.create (FMOD.Studio.System& studiosystem) [0x00005] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.Audio.Init () [0x00010] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.GameLoader.LoadThread () [0x0000c] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+  at Celeste.RunThread.RunThreadWithLogging (System.Action method) [0x00000] in <d7b2abb405ec4c97954549f0a02e4a41>:0 
+
+
+

@@ -1,0 +1,1738 @@
+{
+  "seed": -1,
+  "loadedLogics": [
+    "Randomization Modes",
+    "Enemy Size Changer",
+    "Enemy Enabler",
+    "Replacement Logic"
+  ],
+  "UseCustomSeed": true,
+  "logicSettings": [
+    {
+      "name": "Enemy Enabler",
+      "options": [
+        {
+          "name": "__HAS_BEEN_LOADED_BEFORE__",
+          "value": true
+        },
+        {
+          "name": "Enable All",
+          "value": false
+        },
+        {
+          "name": "Disable All",
+          "value": false
+        },
+        {
+          "name": "Absolute Radiance",
+          "value": false
+        },
+        {
+          "name": "Abyss Crawler",
+          "value": true
+        },
+        {
+          "name": "Abyss Tendrils",
+          "value": true
+        },
+        {
+          "name": "Acid Flyer",
+          "value": true
+        },
+        {
+          "name": "Acid Walker",
+          "value": true
+        },
+        {
+          "name": "Angry Buzzer",
+          "value": true
+        },
+        {
+          "name": "Baby Centipede",
+          "value": true
+        },
+        {
+          "name": "Bee Dropper",
+          "value": true
+        },
+        {
+          "name": "Bee Hatchling Ambient",
+          "value": true
+        },
+        {
+          "name": "Bee Stinger",
+          "value": true
+        },
+        {
+          "name": "Big Bee",
+          "value": true
+        },
+        {
+          "name": "Big Centipede",
+          "value": true
+        },
+        {
+          "name": "Black Knight",
+          "value": true
+        },
+        {
+          "name": "Blobble",
+          "value": true
+        },
+        {
+          "name": "Blocker",
+          "value": true
+        },
+        {
+          "name": "Blow Fly",
+          "value": true
+        },
+        {
+          "name": "Bursting Bouncer",
+          "value": true
+        },
+        {
+          "name": "Bursting Zombie",
+          "value": true
+        },
+        {
+          "name": "Buzzer",
+          "value": true
+        },
+        {
+          "name": "Ceiling Dropper",
+          "value": true
+        },
+        {
+          "name": "Centipede Hatcher",
+          "value": true
+        },
+        {
+          "name": "Climber",
+          "value": true
+        },
+        {
+          "name": "Colosseum Grass Hopper",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Armoured_Mosquito",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Armoured_Roller",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Flying_Sentry",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Miner",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Shield_Zombie",
+          "value": true
+        },
+        {
+          "name": "Corpse Garden Zombie",
+          "value": true
+        },
+        {
+          "name": "Crawler",
+          "value": true
+        },
+        {
+          "name": "Crystal Crawler",
+          "value": true
+        },
+        {
+          "name": "Crystal Flyer",
+          "value": true
+        },
+        {
+          "name": "Crystallised Lazer Bug",
+          "value": true
+        },
+        {
+          "name": "Dream Mage Lord",
+          "value": true
+        },
+        {
+          "name": "Dream Mage Lord Phase2",
+          "value": true
+        },
+        {
+          "name": "Dung Defender",
+          "value": true
+        },
+        {
+          "name": "Egg Sac",
+          "value": true
+        },
+        {
+          "name": "Electric Mage",
+          "value": true
+        },
+        {
+          "name": "Enemy",
+          "value": true
+        },
+        {
+          "name": "False Knight Dream",
+          "value": true
+        },
+        {
+          "name": "False Knight New",
+          "value": true
+        },
+        {
+          "name": "Fat Fluke",
+          "value": true
+        },
+        {
+          "name": "Fat Fly",
+          "value": true
+        },
+        {
+          "name": "Flamebearer Large",
+          "value": true
+        },
+        {
+          "name": "Flamebearer Med",
+          "value": true
+        },
+        {
+          "name": "Flamebearer Small",
+          "value": true
+        },
+        {
+          "name": "Flip Hopper",
+          "value": true
+        },
+        {
+          "name": "Fluke Fly",
+          "value": true
+        },
+        {
+          "name": "Fluke Mother",
+          "value": true
+        },
+        {
+          "name": "fluke_baby_01",
+          "value": true
+        },
+        {
+          "name": "fluke_baby_02",
+          "value": true
+        },
+        {
+          "name": "fluke_baby_03",
+          "value": true
+        },
+        {
+          "name": "Flukeman",
+          "value": true
+        },
+        {
+          "name": "Fly",
+          "value": true
+        },
+        {
+          "name": "Fung Crawler",
+          "value": true
+        },
+        {
+          "name": "Fungoon Baby",
+          "value": true
+        },
+        {
+          "name": "Fungus Flyer",
+          "value": true
+        },
+        {
+          "name": "Garden Zombie",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Galien",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Hu",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Markoth",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Marmu",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior No Eyes",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Slug",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Xero",
+          "value": true
+        },
+        {
+          "name": "Giant Buzzer",
+          "value": true
+        },
+        {
+          "name": "Giant Buzzer Col",
+          "value": true
+        },
+        {
+          "name": "Giant Fly",
+          "value": true
+        },
+        {
+          "name": "Giant Hopper",
+          "value": true
+        },
+        {
+          "name": "Gorgeous Husk",
+          "value": true
+        },
+        {
+          "name": "Grass Hopper",
+          "value": true
+        },
+        {
+          "name": "Grave Zombie",
+          "value": true
+        },
+        {
+          "name": "Great Shield Zombie",
+          "value": true
+        },
+        {
+          "name": "Grey Prince",
+          "value": true
+        },
+        {
+          "name": "Grimm Boss",
+          "value": true
+        },
+        {
+          "name": "Hatcher",
+          "value": true
+        },
+        {
+          "name": "Health Scuttler",
+          "value": true
+        },
+        {
+          "name": "Hive Knight",
+          "value": true
+        },
+        {
+          "name": "HK Prime",
+          "value": true
+        },
+        {
+          "name": "Hollow Knight Boss",
+          "value": true
+        },
+        {
+          "name": "Hopper",
+          "value": true
+        },
+        {
+          "name": "Hornet Boss 1",
+          "value": true
+        },
+        {
+          "name": "Hornet Boss 2",
+          "value": true
+        },
+        {
+          "name": "Hornet Nosk",
+          "value": true
+        },
+        {
+          "name": "Infected Knight",
+          "value": true
+        },
+        {
+          "name": "Inflater",
+          "value": true
+        },
+        {
+          "name": "Jar Collector",
+          "value": true
+        },
+        {
+          "name": "Jelly Egg Bomb",
+          "value": true
+        },
+        {
+          "name": "Jellyfish",
+          "value": true
+        },
+        {
+          "name": "Jellyfish Baby",
+          "value": true
+        },
+        {
+          "name": "Lancer",
+          "value": true
+        },
+        {
+          "name": "Laser Turret",
+          "value": true
+        },
+        {
+          "name": "Laser Turret Frames",
+          "value": true
+        },
+        {
+          "name": "Lazy Flyer Enemy",
+          "value": true
+        },
+        {
+          "name": "Lesser Mawlek",
+          "value": true
+        },
+        {
+          "name": "Lil Jellyfish",
+          "value": true
+        },
+        {
+          "name": "Lobster",
+          "value": true
+        },
+        {
+          "name": "Lost Kin",
+          "value": true
+        },
+        {
+          "name": "Mace Head Bug",
+          "value": false
+        },
+        {
+          "name": "Mage",
+          "value": false
+        },
+        {
+          "name": "Mage Balloon",
+          "value": false
+        },
+        {
+          "name": "Mage Blob",
+          "value": false
+        },
+        {
+          "name": "Mage Knight",
+          "value": true
+        },
+        {
+          "name": "Mage Lord",
+          "value": true
+        },
+        {
+          "name": "Mage Lord Phase2",
+          "value": true
+        },
+        {
+          "name": "Mantis",
+          "value": true
+        },
+        {
+          "name": "Mantis Flyer Child",
+          "value": true
+        },
+        {
+          "name": "Mantis Heavy",
+          "value": true
+        },
+        {
+          "name": "Mantis Heavy Flyer",
+          "value": true
+        },
+        {
+          "name": "Mantis Heavy Spawn",
+          "value": true
+        },
+        {
+          "name": "Mantis Traitor Lord",
+          "value": true
+        },
+        {
+          "name": "Mato",
+          "value": true
+        },
+        {
+          "name": "Mawlek Body",
+          "value": true
+        },
+        {
+          "name": "Mawlek Turret",
+          "value": true
+        },
+        {
+          "name": "Mega Fat Bee",
+          "value": true
+        },
+        {
+          "name": "Mega Jellyfish",
+          "value": true
+        },
+        {
+          "name": "Mega Moss Charger",
+          "value": true
+        },
+        {
+          "name": "Mega Zombie Beam Miner",
+          "value": true
+        },
+        {
+          "name": "Mender Bug",
+          "value": true
+        },
+        {
+          "name": "Mimic Spider",
+          "value": true
+        },
+        {
+          "name": "Mines Crawler",
+          "value": true
+        },
+        {
+          "name": "Mosquito",
+          "value": true
+        },
+        {
+          "name": "Moss Charger",
+          "value": true
+        },
+        {
+          "name": "Moss Flyer",
+          "value": true
+        },
+        {
+          "name": "Moss Knight",
+          "value": true
+        },
+        {
+          "name": "Moss Knight Fat",
+          "value": true
+        },
+        {
+          "name": "Moss Walker",
+          "value": true
+        },
+        {
+          "name": "Mossman_Runner",
+          "value": true
+        },
+        {
+          "name": "Mossman_Shaker",
+          "value": true
+        },
+        {
+          "name": "Mushroom Baby",
+          "value": true
+        },
+        {
+          "name": "Mushroom Brawler",
+          "value": true
+        },
+        {
+          "name": "Mushroom Roller",
+          "value": true
+        },
+        {
+          "name": "Mushroom Turret",
+          "value": true
+        },
+        {
+          "name": "Nightmare Grimm Boss",
+          "value": true
+        },
+        {
+          "name": "Ordeal Zoteling",
+          "value": true
+        },
+        {
+          "name": "Oro",
+          "value": true
+        },
+        {
+          "name": "Pale Lurker",
+          "value": true
+        },
+        {
+          "name": "Parasite Balloon",
+          "value": true
+        },
+        {
+          "name": "Pigeon",
+          "value": true
+        },
+        {
+          "name": "Plant Trap",
+          "value": true
+        },
+        {
+          "name": "Plant Turret",
+          "value": true
+        },
+        {
+          "name": "Prayer Slug",
+          "value": true
+        },
+        {
+          "name": "Radiance",
+          "value": false
+        },
+        {
+          "name": "Roller",
+          "value": true
+        },
+        {
+          "name": "Royal Gaurd",
+          "value": true
+        },
+        {
+          "name": "Royal Zombie",
+          "value": true
+        },
+        {
+          "name": "Royal Zombie Coward",
+          "value": true
+        },
+        {
+          "name": "Royal Zombie Fat",
+          "value": true
+        },
+        {
+          "name": "Ruins Flying Sentry",
+          "value": true
+        },
+        {
+          "name": "Ruins Flying Sentry Javelin",
+          "value": true
+        },
+        {
+          "name": "Ruins Sentry",
+          "value": true
+        },
+        {
+          "name": "Ruins Sentry Fat",
+          "value": true
+        },
+        {
+          "name": "Shade Sibling",
+          "value": true
+        },
+        {
+          "name": "Sheo Boss",
+          "value": true
+        },
+        {
+          "name": "Slash Spider",
+          "value": true
+        },
+        {
+          "name": "Sly Boss",
+          "value": true
+        },
+        {
+          "name": "Spider Flyer",
+          "value": true
+        },
+        {
+          "name": "Spider Mini",
+          "value": true
+        },
+        {
+          "name": "Spitter",
+          "value": true
+        },
+        {
+          "name": "Spitter R",
+          "value": true
+        },
+        {
+          "name": "Spitting Zombie",
+          "value": true
+        },
+        {
+          "name": "stomper_fast",
+          "value": true
+        },
+        {
+          "name": "stomper_offset",
+          "value": true
+        },
+        {
+          "name": "Super Spitter",
+          "value": true
+        },
+        {
+          "name": "Tiny Spider",
+          "value": true
+        },
+        {
+          "name": "White Defender",
+          "value": true
+        },
+        {
+          "name": "White Palace Fly",
+          "value": true
+        },
+        {
+          "name": "Worm",
+          "value": true
+        },
+        {
+          "name": "Zap Cloud",
+          "value": false
+        },
+        {
+          "name": "Zombie Barger",
+          "value": true
+        },
+        {
+          "name": "Zombie Beam Miner",
+          "value": true
+        },
+        {
+          "name": "Zombie Beam Miner Rematch",
+          "value": true
+        },
+        {
+          "name": "Zombie Fungus A",
+          "value": true
+        },
+        {
+          "name": "Zombie Fungus B",
+          "value": true
+        },
+        {
+          "name": "Zombie Guard",
+          "value": true
+        },
+        {
+          "name": "Zombie Hive",
+          "value": true
+        },
+        {
+          "name": "Zombie Hornhead",
+          "value": true
+        },
+        {
+          "name": "Zombie Hornhead Sp",
+          "value": true
+        },
+        {
+          "name": "Zombie Leaper",
+          "value": true
+        },
+        {
+          "name": "Zombie Miner",
+          "value": true
+        },
+        {
+          "name": "Zombie Myla",
+          "value": true
+        },
+        {
+          "name": "Zombie Runner",
+          "value": true
+        },
+        {
+          "name": "Zombie Runner Sp",
+          "value": true
+        },
+        {
+          "name": "Zombie Shield",
+          "value": true
+        },
+        {
+          "name": "Zombie Spider 1",
+          "value": true
+        },
+        {
+          "name": "Zombie Spider 2",
+          "value": true
+        },
+        {
+          "name": "Zote Balloon",
+          "value": true
+        },
+        {
+          "name": "Zote Balloon Ordeal",
+          "value": true
+        },
+        {
+          "name": "Zote Boss",
+          "value": true
+        },
+        {
+          "name": "Zote Crew Fat",
+          "value": true
+        },
+        {
+          "name": "Zote Crew Normal",
+          "value": true
+        },
+        {
+          "name": "Zote Crew Tall",
+          "value": true
+        },
+        {
+          "name": "Zote Fluke",
+          "value": true
+        },
+        {
+          "name": "Zote Salubra",
+          "value": true
+        },
+        {
+          "name": "Zote Thwomp",
+          "value": true
+        },
+        {
+          "name": "Zote Turret",
+          "value": true
+        },
+        {
+          "name": "Zoteling",
+          "value": true
+        }
+      ]
+    },
+    {
+      "name": "Zote Mode",
+      "options": [
+        {
+          "name": "__HAS_BEEN_LOADED_BEFORE__",
+          "value": true
+        },
+        {
+          "name": "Allow Custom Zotes",
+          "value": false
+        }
+      ]
+    },
+    {
+      "name": "Replacement Logic",
+      "options": [
+        {
+          "name": "__HAS_BEEN_LOADED_BEFORE__",
+          "value": true
+        },
+        {
+          "name": "Randomize Enemies",
+          "value": true
+        },
+        {
+          "name": "Randomize Hazards",
+          "value": false
+        },
+        {
+          "name": "Randomize Effects",
+          "value": false
+        },
+        {
+          "name": "Use basic replacement matching?",
+          "value": false
+        },
+        {
+          "name": "Allow bad replacements?",
+          "value": false
+        }
+      ]
+    },
+    {
+      "name": "Enemy Filter",
+      "options": [
+        {
+          "name": "__HAS_BEEN_LOADED_BEFORE__",
+          "value": true
+        },
+        {
+          "name": "Enable All",
+          "value": false
+        },
+        {
+          "name": "Disable All",
+          "value": false
+        },
+        {
+          "name": "Absolute Radiance",
+          "value": true
+        },
+        {
+          "name": "Abyss Crawler",
+          "value": true
+        },
+        {
+          "name": "Abyss Tendrils",
+          "value": true
+        },
+        {
+          "name": "Acid Flyer",
+          "value": true
+        },
+        {
+          "name": "Acid Walker",
+          "value": true
+        },
+        {
+          "name": "Angry Buzzer",
+          "value": true
+        },
+        {
+          "name": "Baby Centipede",
+          "value": true
+        },
+        {
+          "name": "Bee Dropper",
+          "value": true
+        },
+        {
+          "name": "Bee Hatchling Ambient",
+          "value": true
+        },
+        {
+          "name": "Bee Stinger",
+          "value": true
+        },
+        {
+          "name": "Big Bee",
+          "value": true
+        },
+        {
+          "name": "Big Centipede",
+          "value": true
+        },
+        {
+          "name": "Black Knight",
+          "value": true
+        },
+        {
+          "name": "Blobble",
+          "value": true
+        },
+        {
+          "name": "Blocker",
+          "value": true
+        },
+        {
+          "name": "Blow Fly",
+          "value": true
+        },
+        {
+          "name": "Bursting Bouncer",
+          "value": true
+        },
+        {
+          "name": "Bursting Zombie",
+          "value": true
+        },
+        {
+          "name": "Buzzer",
+          "value": true
+        },
+        {
+          "name": "Ceiling Dropper",
+          "value": true
+        },
+        {
+          "name": "Centipede Hatcher",
+          "value": true
+        },
+        {
+          "name": "Climber",
+          "value": true
+        },
+        {
+          "name": "Colosseum Grass Hopper",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Armoured_Mosquito",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Armoured_Roller",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Flying_Sentry",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Miner",
+          "value": true
+        },
+        {
+          "name": "Colosseum_Shield_Zombie",
+          "value": true
+        },
+        {
+          "name": "Corpse Garden Zombie",
+          "value": true
+        },
+        {
+          "name": "Crawler",
+          "value": true
+        },
+        {
+          "name": "Crystal Crawler",
+          "value": true
+        },
+        {
+          "name": "Crystal Flyer",
+          "value": true
+        },
+        {
+          "name": "Crystallised Lazer Bug",
+          "value": true
+        },
+        {
+          "name": "Dream Mage Lord",
+          "value": true
+        },
+        {
+          "name": "Dream Mage Lord Phase2",
+          "value": true
+        },
+        {
+          "name": "Dung Defender",
+          "value": true
+        },
+        {
+          "name": "Egg Sac",
+          "value": true
+        },
+        {
+          "name": "Electric Mage",
+          "value": true
+        },
+        {
+          "name": "Enemy",
+          "value": true
+        },
+        {
+          "name": "False Knight Dream",
+          "value": true
+        },
+        {
+          "name": "False Knight New",
+          "value": true
+        },
+        {
+          "name": "Fat Fluke",
+          "value": true
+        },
+        {
+          "name": "Fat Fly",
+          "value": true
+        },
+        {
+          "name": "Flamebearer Large",
+          "value": true
+        },
+        {
+          "name": "Flamebearer Med",
+          "value": true
+        },
+        {
+          "name": "Flamebearer Small",
+          "value": true
+        },
+        {
+          "name": "Flip Hopper",
+          "value": true
+        },
+        {
+          "name": "Fluke Fly",
+          "value": true
+        },
+        {
+          "name": "Fluke Mother",
+          "value": true
+        },
+        {
+          "name": "fluke_baby_01",
+          "value": true
+        },
+        {
+          "name": "fluke_baby_02",
+          "value": true
+        },
+        {
+          "name": "fluke_baby_03",
+          "value": true
+        },
+        {
+          "name": "Flukeman",
+          "value": true
+        },
+        {
+          "name": "Fly",
+          "value": true
+        },
+        {
+          "name": "Fung Crawler",
+          "value": true
+        },
+        {
+          "name": "Fungoon Baby",
+          "value": true
+        },
+        {
+          "name": "Fungus Flyer",
+          "value": true
+        },
+        {
+          "name": "Garden Zombie",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Galien",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Hu",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Markoth",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Marmu",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior No Eyes",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Slug",
+          "value": true
+        },
+        {
+          "name": "Ghost Warrior Xero",
+          "value": true
+        },
+        {
+          "name": "Giant Buzzer",
+          "value": true
+        },
+        {
+          "name": "Giant Buzzer Col",
+          "value": true
+        },
+        {
+          "name": "Giant Fly",
+          "value": true
+        },
+        {
+          "name": "Giant Hopper",
+          "value": true
+        },
+        {
+          "name": "Gorgeous Husk",
+          "value": true
+        },
+        {
+          "name": "Grass Hopper",
+          "value": true
+        },
+        {
+          "name": "Grave Zombie",
+          "value": true
+        },
+        {
+          "name": "Great Shield Zombie",
+          "value": true
+        },
+        {
+          "name": "Grey Prince",
+          "value": true
+        },
+        {
+          "name": "Grimm Boss",
+          "value": true
+        },
+        {
+          "name": "Hatcher",
+          "value": true
+        },
+        {
+          "name": "Health Scuttler",
+          "value": true
+        },
+        {
+          "name": "Hive Knight",
+          "value": true
+        },
+        {
+          "name": "HK Prime",
+          "value": true
+        },
+        {
+          "name": "Hollow Knight Boss",
+          "value": true
+        },
+        {
+          "name": "Hopper",
+          "value": true
+        },
+        {
+          "name": "Hornet Boss 1",
+          "value": true
+        },
+        {
+          "name": "Hornet Boss 2",
+          "value": true
+        },
+        {
+          "name": "Hornet Nosk",
+          "value": true
+        },
+        {
+          "name": "Infected Knight",
+          "value": true
+        },
+        {
+          "name": "Inflater",
+          "value": true
+        },
+        {
+          "name": "Jar Collector",
+          "value": true
+        },
+        {
+          "name": "Jelly Egg Bomb",
+          "value": true
+        },
+        {
+          "name": "Jellyfish",
+          "value": true
+        },
+        {
+          "name": "Jellyfish Baby",
+          "value": true
+        },
+        {
+          "name": "Lancer",
+          "value": true
+        },
+        {
+          "name": "Laser Turret",
+          "value": true
+        },
+        {
+          "name": "Laser Turret Frames",
+          "value": true
+        },
+        {
+          "name": "Lazy Flyer Enemy",
+          "value": true
+        },
+        {
+          "name": "Lesser Mawlek",
+          "value": true
+        },
+        {
+          "name": "Lil Jellyfish",
+          "value": true
+        },
+        {
+          "name": "Lobster",
+          "value": true
+        },
+        {
+          "name": "Lost Kin",
+          "value": true
+        },
+        {
+          "name": "Mace Head Bug",
+          "value": true
+        },
+        {
+          "name": "Mage",
+          "value": true
+        },
+        {
+          "name": "Mage Balloon",
+          "value": true
+        },
+        {
+          "name": "Mage Blob",
+          "value": true
+        },
+        {
+          "name": "Mage Knight",
+          "value": true
+        },
+        {
+          "name": "Mage Lord",
+          "value": true
+        },
+        {
+          "name": "Mage Lord Phase2",
+          "value": true
+        },
+        {
+          "name": "Mantis",
+          "value": true
+        },
+        {
+          "name": "Mantis Flyer Child",
+          "value": true
+        },
+        {
+          "name": "Mantis Heavy",
+          "value": true
+        },
+        {
+          "name": "Mantis Heavy Flyer",
+          "value": true
+        },
+        {
+          "name": "Mantis Heavy Spawn",
+          "value": true
+        },
+        {
+          "name": "Mantis Traitor Lord",
+          "value": true
+        },
+        {
+          "name": "Mato",
+          "value": true
+        },
+        {
+          "name": "Mawlek Body",
+          "value": true
+        },
+        {
+          "name": "Mawlek Turret",
+          "value": true
+        },
+        {
+          "name": "Mega Fat Bee",
+          "value": true
+        },
+        {
+          "name": "Mega Jellyfish",
+          "value": true
+        },
+        {
+          "name": "Mega Moss Charger",
+          "value": true
+        },
+        {
+          "name": "Mega Zombie Beam Miner",
+          "value": true
+        },
+        {
+          "name": "Mender Bug",
+          "value": true
+        },
+        {
+          "name": "Mimic Spider",
+          "value": true
+        },
+        {
+          "name": "Mines Crawler",
+          "value": true
+        },
+        {
+          "name": "Mosquito",
+          "value": true
+        },
+        {
+          "name": "Moss Charger",
+          "value": true
+        },
+        {
+          "name": "Moss Flyer",
+          "value": true
+        },
+        {
+          "name": "Moss Knight",
+          "value": true
+        },
+        {
+          "name": "Moss Knight Fat",
+          "value": true
+        },
+        {
+          "name": "Moss Walker",
+          "value": true
+        },
+        {
+          "name": "Mossman_Runner",
+          "value": true
+        },
+        {
+          "name": "Mossman_Shaker",
+          "value": true
+        },
+        {
+          "name": "Mushroom Baby",
+          "value": true
+        },
+        {
+          "name": "Mushroom Brawler",
+          "value": true
+        },
+        {
+          "name": "Mushroom Roller",
+          "value": true
+        },
+        {
+          "name": "Mushroom Turret",
+          "value": true
+        },
+        {
+          "name": "Nightmare Grimm Boss",
+          "value": true
+        },
+        {
+          "name": "Ordeal Zoteling",
+          "value": true
+        },
+        {
+          "name": "Oro",
+          "value": true
+        },
+        {
+          "name": "Pale Lurker",
+          "value": true
+        },
+        {
+          "name": "Parasite Balloon",
+          "value": true
+        },
+        {
+          "name": "Pigeon",
+          "value": true
+        },
+        {
+          "name": "Plant Trap",
+          "value": true
+        },
+        {
+          "name": "Plant Turret",
+          "value": true
+        },
+        {
+          "name": "Prayer Slug",
+          "value": true
+        },
+        {
+          "name": "Radiance",
+          "value": true
+        },
+        {
+          "name": "Roller",
+          "value": true
+        },
+        {
+          "name": "Royal Gaurd",
+          "value": true
+        },
+        {
+          "name": "Royal Zombie",
+          "value": true
+        },
+        {
+          "name": "Royal Zombie Coward",
+          "value": true
+        },
+        {
+          "name": "Royal Zombie Fat",
+          "value": true
+        },
+        {
+          "name": "Ruins Flying Sentry",
+          "value": true
+        },
+        {
+          "name": "Ruins Flying Sentry Javelin",
+          "value": true
+        },
+        {
+          "name": "Ruins Sentry",
+          "value": true
+        },
+        {
+          "name": "Ruins Sentry Fat",
+          "value": true
+        },
+        {
+          "name": "Shade Sibling",
+          "value": true
+        },
+        {
+          "name": "Sheo Boss",
+          "value": true
+        },
+        {
+          "name": "Slash Spider",
+          "value": true
+        },
+        {
+          "name": "Sly Boss",
+          "value": true
+        },
+        {
+          "name": "Spider Flyer",
+          "value": true
+        },
+        {
+          "name": "Spider Mini",
+          "value": true
+        },
+        {
+          "name": "Spitter",
+          "value": true
+        },
+        {
+          "name": "Spitter R",
+          "value": true
+        },
+        {
+          "name": "Spitting Zombie",
+          "value": true
+        },
+        {
+          "name": "stomper_fast",
+          "value": true
+        },
+        {
+          "name": "stomper_offset",
+          "value": true
+        },
+        {
+          "name": "Super Spitter",
+          "value": true
+        },
+        {
+          "name": "Tiny Spider",
+          "value": true
+        },
+        {
+          "name": "White Defender",
+          "value": true
+        },
+        {
+          "name": "White Palace Fly",
+          "value": true
+        },
+        {
+          "name": "Worm",
+          "value": true
+        },
+        {
+          "name": "Zap Cloud",
+          "value": true
+        },
+        {
+          "name": "Zombie Barger",
+          "value": true
+        },
+        {
+          "name": "Zombie Beam Miner",
+          "value": true
+        },
+        {
+          "name": "Zombie Beam Miner Rematch",
+          "value": true
+        },
+        {
+          "name": "Zombie Fungus A",
+          "value": true
+        },
+        {
+          "name": "Zombie Fungus B",
+          "value": true
+        },
+        {
+          "name": "Zombie Guard",
+          "value": true
+        },
+        {
+          "name": "Zombie Hive",
+          "value": true
+        },
+        {
+          "name": "Zombie Hornhead",
+          "value": true
+        },
+        {
+          "name": "Zombie Hornhead Sp",
+          "value": true
+        },
+        {
+          "name": "Zombie Leaper",
+          "value": true
+        },
+        {
+          "name": "Zombie Miner",
+          "value": true
+        },
+        {
+          "name": "Zombie Myla",
+          "value": true
+        },
+        {
+          "name": "Zombie Runner",
+          "value": true
+        },
+        {
+          "name": "Zombie Runner Sp",
+          "value": true
+        },
+        {
+          "name": "Zombie Shield",
+          "value": true
+        },
+        {
+          "name": "Zombie Spider 1",
+          "value": true
+        },
+        {
+          "name": "Zombie Spider 2",
+          "value": true
+        },
+        {
+          "name": "Zote Balloon",
+          "value": true
+        },
+        {
+          "name": "Zote Balloon Ordeal",
+          "value": true
+        },
+        {
+          "name": "Zote Boss",
+          "value": true
+        },
+        {
+          "name": "Zote Crew Fat",
+          "value": true
+        },
+        {
+          "name": "Zote Crew Normal",
+          "value": true
+        },
+        {
+          "name": "Zote Crew Tall",
+          "value": true
+        },
+        {
+          "name": "Zote Fluke",
+          "value": true
+        },
+        {
+          "name": "Zote Salubra",
+          "value": true
+        },
+        {
+          "name": "Zote Thwomp",
+          "value": true
+        },
+        {
+          "name": "Zote Turret",
+          "value": true
+        },
+        {
+          "name": "Zoteling",
+          "value": true
+        }
+      ]
+    },
+    {
+      "name": "Randomization Modes",
+      "options": [
+        {
+          "name": "__HAS_BEEN_LOADED_BEFORE__",
+          "value": true
+        },
+        {
+          "name": "Object",
+          "value": false
+        },
+        {
+          "name": "Transition",
+          "value": false
+        },
+        {
+          "name": "Room",
+          "value": false
+        },
+        {
+          "name": "Zone",
+          "value": false
+        },
+        {
+          "name": "Type",
+          "value": true
+        },
+        {
+          "name": null,
+          "value": true
+        }
+      ]
+    },
+    {
+      "name": "Enemy Size Changer",
+      "options": [
+        {
+          "name": "__HAS_BEEN_LOADED_BEFORE__",
+          "value": true
+        },
+        {
+          "name": "Match",
+          "value": false
+        },
+        {
+          "name": "Random",
+          "value": false
+        },
+        {
+          "name": "All Big",
+          "value": false
+        },
+        {
+          "name": "All Tiny",
+          "value": false
+        },
+        {
+          "name": "Match Audio to Scaling",
+          "value": true
+        },
+        {
+          "name": null,
+          "value": true
+        }
+      ]
+    }
+  ],
+  "customColoSeed": -1,
+  "UseCustomColoSeed": false,
+  "balanceReplacementHP": true,
+  "randomizeReplacementGeo": true,
+  "allowCustomEnemies": true,
+  "allowEnemyRandoExtras": true,
+  "__hasDoneAlpha92Reset": true,
+  "hasDoneAlpha92Reset": true
+}

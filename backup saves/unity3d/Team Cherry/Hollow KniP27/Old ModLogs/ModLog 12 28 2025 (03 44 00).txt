@@ -1,0 +1,244 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[DEBUG]:[API] - Loading assemblies and constructing mods
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\Benchwarp\Benchwarp.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\DeathCounter\DeathCounter.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\HkmpPouch\HkmpPouch.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\press g to dab\PressGToDab.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\QoL\QoL.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\Satchel\Satchel.dll,
+[DEBUG]:[API] - C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\Vasi\Vasi.dll
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\Benchwarp\Benchwarp.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\DeathCounter\DeathCounter.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\HkmpPouch\HkmpPouch.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\press g to dab\PressGToDab.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\QoL\QoL.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\Satchel\Satchel.dll`
+[DEBUG]:[API] - Loading assembly `C:/New folder/content/Hollow Knight/Instance1/hollow_knight_Data\Managed\Mods\Vasi\Vasi.dll`
+[DEBUG]:[API] - Loading mods in assembly `Benchwarp, Version=3.2.6.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Benchwarp.Benchwarp`
+[INFO]:[Benchwarp] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `DeathCounter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `DeathCounter.DeathCounter`
+[INFO]:[DeathCounter] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `HKMP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Hkmp.HkmpMod`
+[INFO]:[HkmpMod] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `HkmpPouch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `HkmpPouch.HkmpPouch`
+[INFO]:[HkmpPouch] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `PressGToDab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `PressGToDab.PressGToDab`
+[INFO]:[PressGToDab] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `QoL, Version=4.8.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `QoL.QoL`
+[INFO]:[QoL] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `Satchel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Satchel.Satchel`
+[INFO]:[Satchel] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `Vasi, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null`
+[INFO]:[API] - Assembly Vasi (2.0.0.0) loaded with 0 mods
+[INFO]:[API] - Creating mod preloads
+[DEBUG]:[API] - Checking preloads for mod "HkmpPouch"
+[DEBUG]:[API] - Checking preloads for mod "Benchwarp"
+[DEBUG]:[API] - Checking preloads for mod "DeathCounter"
+[DEBUG]:[API] - Checking preloads for mod "HKMP"
+[DEBUG]:[API] - Checking preloads for mod "PressGToDab"
+[DEBUG]:[API] - Checking preloads for mod "Satchel"
+[DEBUG]:[API] - Checking preloads for mod "QoL"
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 3 preload scenes from 15515 to 76 objects (0.15MB)
+[INFO]:[API] - Preloaded reflection in 3691ms
+[DEBUG]:[API] - Preload done, returning to main menu
+[DEBUG]:[API] - OnScreenDebugInfo: Already begun mod loading (state Started, Preloaded)
+[ERROR]:[API] - Finished preloading in 7.00s
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] No skins can be loaded since there are no directories in: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\Skins
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - Benchwarp : 3.2.6.0
+[INFO]:[API] - DeathCounter : 1.5.78-9
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - PressGToDab : 1.2.0
+[INFO]:[API] - QoL : 4.8.0.0-4ca9d1
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to Opening_Sequence
+[INFO]:[DeathCounter] - Deaths: 0
+[INFO]:[DeathCounter] - Damage: 0
+[DEBUG]:[Hkmp.Game.Client.Skin.SkinManager] Storing default player skin
+[DEBUG]:[Hkmp.Game.Client.Skin.SkinManager] Initialized sprites on local player
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Tutorial_01
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[INFO]:[Hkmp.Networking.Server.NetServer] Starting NetServer on port 26950
+[ERROR]:[UNITY] - SocketException: Address already in use
+[ERROR]:[UNITY] - System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) (at <3df7f9ca50404bbc8bd4e7b954e70293>:0)
+[ERROR]:[UNITY] - Hkmp.Networking.Server.NetServer.Start (System.Int32 port) (at /home/runner/work/HKMP/HKMP/HKMP/Networking/Server/NetServer.cs:129)
+[ERROR]:[UNITY] - Hkmp.Game.Server.ServerManager.Start (System.Int32 port) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Server/ServerManager.cs:193)
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnStartButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:394)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Quit_To_Menu
+[DEBUG]:[API] - OnScreenDebugInfo: Already begun mod loading (state Started, Preloaded, Loaded)
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Menu_Title
+[INFO]:[DeathCounter] - Deaths: 0
+[INFO]:[DeathCounter] - Damage: 0
+[DEBUG]:[Hkmp.Game.Client.Skin.SkinManager] Initialized sprites on local player
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to Tutorial_01
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnConnectButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:319)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[INFO]:[Hkmp.Game.Server.ServerManager] Server was running, shutting it down before starting
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Networking.Server.NetServer.Stop () (at /home/runner/work/HKMP/HKMP/HKMP/Networking/Server/NetServer.cs:402)
+[ERROR]:[UNITY] - Hkmp.Game.Server.ServerManager.Start (System.Int32 port) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Server/ServerManager.cs:189)
+[ERROR]:[UNITY] - Hkmp.Ui.ConnectInterface.OnStartButtonPressed () (at /home/runner/work/HKMP/HKMP/HKMP/Ui/ConnectInterface.cs:394)
+[ERROR]:[UNITY] - Hkmp.Ui.Component.ButtonComponent+<>c__DisplayClass11_0.<.ctor>b__3 (UnityEngine.EventSystems.BaseEventData data) (at /home/runner/work/HKMP/HKMP/HKMP/Ui/Component/ButtonComponent.cs:153)
+[ERROR]:[UNITY] - UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventTrigger.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <b4d135afa1fd407bbcc7280e400336cf>:0)
+[ERROR]:[UNITY] - UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+[ERROR]:[UNITY] - InControl.HollowKnightInputModule:Process()
+[ERROR]:[UNITY] - UnityEngine.EventSystems.EventSystem:Update()
+[ERROR]:[UNITY] - 
+[DEBUG]:[Hkmp.Ui.ConnectInterface] Connect button pressed, address: trauma:26950
+[DEBUG]:[Hkmp.Ui.ConnectInterface] Saving join address trauma in global settings
+[DEBUG]:[Hkmp.Ui.ConnectInterface] Saving join port 26950 in global settings
+[DEBUG]:[Hkmp.Ui.ConnectInterface] Saving join username trauma in global settings
+[INFO]:[Hkmp.Game.Client.ClientManager] Connecting client to server: trauma:26950 as trauma
+[ERROR]:[Hkmp.Networking.Client.UdpNetClient] Socket exception when connecting UDP socket:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): Could not resolve host 'trauma'
+[ERROR]:  at System.Net.Dns.Error_11001 (System.String hostName) [0x00015] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Dns.GetHostByName (System.String hostName) [0x00021] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Dns.GetHostEntry (System.String hostNameOrAddress) [0x00052] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Dns.GetHostAddresses (System.String hostNameOrAddress) [0x00056] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.Connect (System.String host, System.Int32 port) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Client.UdpNetClient.Connect (System.String address, System.Int32 port) [0x0000f] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/UdpNetClient.cs:54 
+[ERROR]:[Hkmp.Networking.Client.NetClient] Failed to connect due to SocketException:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): Could not resolve host 'trauma'
+[ERROR]:  at System.Net.Dns.Error_11001 (System.String hostName) [0x00015] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Dns.GetHostByName (System.String hostName) [0x00021] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Dns.GetHostEntry (System.String hostNameOrAddress) [0x00052] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Dns.GetHostAddresses (System.String hostNameOrAddress) [0x00056] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.Connect (System.String host, System.Int32 port) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Client.UdpNetClient.Connect (System.String address, System.Int32 port) [0x00041] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/UdpNetClient.cs:61 
+[ERROR]:  at Hkmp.Networking.Client.NetClient.Connect (System.String address, System.Int32 port, System.String username, System.String authKey, System.Collections.Generic.List`1[T] addonData) [0x00014] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/NetClient.cs:214 
+[DEBUG]:[Hkmp.Networking.Client.NetClient] Connection to server failed, cause: SocketException
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[DeathCounter] - Saving Global Settings
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings

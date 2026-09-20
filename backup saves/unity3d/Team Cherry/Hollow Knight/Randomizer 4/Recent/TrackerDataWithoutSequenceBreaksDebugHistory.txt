@@ -1,0 +1,1891 @@
+Setting up TrackerData...Improved Start_State state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Focus at Start
+New reachable vanilla placement: Leftslash at Start
+New reachable vanilla placement: Rightslash at Start
+New reachable vanilla placement: Upslash at Start
+New reachable vanilla placement: Downslash at Start
+New reachable randomized location: Start
+Improved Tutorial_01[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+Improved Tutorial_01 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Town[left1] at Tutorial_01[right1]
+Improved Town[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-King's_Pass_Above_Fury
+New reachable randomized location: Geo_Rock-King's_Pass_Hidden
+New reachable randomized location: Geo_Rock-King's_Pass_Collapse
+New reachable randomized location: Geo_Rock-King's_Pass_Left
+New reachable randomized location: Geo_Rock-King's_Pass_Below_Fury
+New reachable waypoint: Can_Replenish_Geo
+New reachable randomized location: Lore_Tablet-King's_Pass_Fury
+New reachable randomized location: Lifeblood_Cocoon-King's_Pass
+New reachable randomized location: Lore_Tablet-King's_Pass_Focus
+New reachable randomized location: Lore_Tablet-King's_Pass_Exit
+New reachable randomized location: Fury_of_the_Fallen
+Improved Town state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Tutorial_01[right1] at Town[left1]
+Improved Bench-Dirtmouth state to [{NOFLOWER:T}] via evaluation.
+Improved Town[bot1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Town[door_mapper] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_01[top1] at Town[bot1]
+Improved Crossroads_01[top1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Room_mapper[left1] at Town[door_mapper]
+Improved Room_mapper[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+Improved Can_Bench state to [{NOFLOWER:T}] via evaluation.
+Improved Town state to [{NOFLOWER:T}] via evaluation.
+New reachable waypoint: Can_Replenish_Geo-Crossroads
+Improved Crossroads_01[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_01[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Town[bot1] at Crossroads_01[top1]
+New reachable vanilla placement: Crossroads_07[right1] at Crossroads_01[left1]
+Improved Crossroads_07[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_02[left1] at Crossroads_01[right1]
+Improved Crossroads_02[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Well
+New reachable vanilla placement: Town[door_mapper] at Room_mapper[left1]
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+New reachable randomized location: Iselda
+Improved Start_State state to [{NOFLOWER:T}] via evaluation.
+Improved Town[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Town[door_mapper] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_01[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_01[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_01[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_07 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_01[left1] at Crossroads_07[right1]
+Improved Crossroads_02[door1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_02[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_01[right1] at Crossroads_02[left1]
+New reachable vanilla placement: Room_temple[left1] at Crossroads_02[door1]
+Improved Room_temple[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_39[left1] at Crossroads_02[right1]
+Improved Crossroads_39[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+Improved Room_mapper[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Tutorial_01[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_07[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_02[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_07[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_07[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_07[left3] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_07[right2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_07[bot1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_38[right1] at Crossroads_07[left1]
+Improved Crossroads_38[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_11_alt[right1] at Crossroads_07[left2]
+Improved Crossroads_11_alt[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_25[right1] at Crossroads_07[left3]
+Improved Crossroads_25[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_05[left1] at Crossroads_07[right2]
+Improved Crossroads_05[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_33[top1] at Crossroads_07[bot1]
+Improved Crossroads_33[top1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+Improved Crossroads_07 state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_02[door1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_02[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_02[door1] at Room_temple[left1]
+Improved Crossroads_39[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_14[left1] at Crossroads_39[right1]
+Improved Crossroads_14[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_02[right1] at Crossroads_39[left1]
+Improved Tutorial_01 state to [{NOFLOWER:T}] via evaluation.
+Improved Town[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_07[left1] at Crossroads_38[right1]
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable randomized location: Grubfather
+New reachable vanilla placement: Crossroads_07[left2] at Crossroads_11_alt[right1]
+New reachable randomized location: Lore_Tablet-Pilgrim's_Way_1
+Improved Crossroads_25[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_07[left3] at Crossroads_25[right1]
+New reachable vanilla placement: Crossroads_36[right1] at Crossroads_25[left1]
+Improved Crossroads_36[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Soul_Totem-Crossroads_Mawlek_Upper
+Improved Crossroads_05[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_07[right2] at Crossroads_05[left1]
+New reachable vanilla placement: Crossroads_40[left1] at Crossroads_05[right1]
+Improved Crossroads_40[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Center_Grub
+Improved Crossroads_33 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_07[bot1] at Crossroads_33[top1]
+Improved Crossroads_07[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_07[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_07[left3] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_07[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_07[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Room_temple[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_39[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_14 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_39[right1] at Crossroads_14[left1]
+Improved Crossroads_39[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_38[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_11_alt[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_25[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_25[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_36[right2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_25[left1] at Crossroads_36[right1]
+New reachable vanilla placement: Crossroads_09[left1] at Crossroads_36[right2]
+Improved Crossroads_09[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Soul_Totem-Crossroads_Mawlek_Lower
+New reachable randomized location: Geo_Rock-Crossroads_Above_Mawlek
+Improved Crossroads_05[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_05[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_40[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_16[left1] at Crossroads_40[right1]
+Improved Crossroads_16[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_05[right1] at Crossroads_40[left1]
+Improved Crossroads_33[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_33[right2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_12[right1] at Crossroads_33[left2]
+Improved Crossroads_12[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_08[left1] at Crossroads_33[right2]
+Improved Crossroads_08[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Crossroads_Map
+Improved Crossroads_33[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_33 state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_14[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_14[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_14[right2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_16[right1] at Crossroads_14[left2]
+Improved Crossroads_16[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_48[left1] at Crossroads_14[right1]
+Improved Crossroads_48[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_45[left1] at Crossroads_14[right2]
+Improved Crossroads_45[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+Improved Crossroads_14[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_14 state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_36[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_36[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_36[right2] at Crossroads_09[left1]
+Improved Crossroads_40[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_16[bot1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_40[right1] at Crossroads_16[left1]
+New reachable vanilla placement: Crossroads_14[left2] at Crossroads_16[right1]
+New reachable vanilla placement: Crossroads_03[top1] at Crossroads_16[bot1]
+Improved Crossroads_03[top1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Above_Lever
+Improved Crossroads_40[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_12[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_35[right1] at Crossroads_12[left1]
+Improved Crossroads_35[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_33[left2] at Crossroads_12[right1]
+New reachable randomized location: Geo_Rock-Crossroads_Before_Acid_Grub
+Improved Crossroads_08 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_33[right2] at Crossroads_08[left1]
+Improved Crossroads_33[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_33[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_14[right1] at Crossroads_48[left1]
+New reachable randomized location: Grub-Crossroads_Guarded
+Improved Crossroads_45[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Mines_01[left1] at Crossroads_45[right1]
+Improved Mines_01[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_14[right2] at Crossroads_45[left1]
+New reachable randomized location: Soul_Totem-Crossroads_Myla
+Improved Crossroads_14[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_14[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_14[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_09[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_16[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_16[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_16[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_16[bot1] at Crossroads_03[top1]
+New reachable vanilla placement: Crossroads_12[left1] at Crossroads_35[right1]
+New reachable randomized location: Grub-Crossroads_Acid
+Improved Crossroads_12[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_12[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_08[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_08[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_08[right2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_18[right1] at Crossroads_08[left2]
+Improved Crossroads_18[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_30[left1] at Crossroads_08[right1]
+Improved Crossroads_30[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_13[left1] at Crossroads_08[right2]
+Improved Crossroads_13[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Aspid_Arena_Hidden
+New reachable randomized location: Geo_Rock-Crossroads_Aspid_Arena_Dupe_1
+New reachable randomized location: Geo_Rock-Crossroads_Aspid_Arena_Dupe_2
+New reachable randomized location: Geo_Rock-Crossroads_Aspid_Arena
+Improved Crossroads_08[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_08 state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_48[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_45[right1] at Mines_01[left1]
+Improved Crossroads_45[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_45[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_03[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_35[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_08[left2] at Crossroads_18[right1]
+New reachable randomized location: Geo_Rock-Crossroads_Before_Fungal_Dupe_1
+New reachable randomized location: Geo_Rock-Crossroads_Before_Fungal
+New reachable randomized location: Geo_Rock-Crossroads_Before_Fungal_Dupe_2
+Improved Crossroads_Hot_Spring state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Bench-Crossroads_Hot_Springs state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_08[right1] at Crossroads_30[left1]
+Improved Crossroads_13[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_08[right2] at Crossroads_13[left1]
+New reachable vanilla placement: Crossroads_42[left1] at Crossroads_13[right1]
+Improved Crossroads_42[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_After_Goam_Mask_Shard
+New reachable randomized location: Geo_Rock-Crossroads_Below_Goam_Mask_Shard
+Improved Crossroads_08[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_08[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_08[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_01[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_18[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_30[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_Hot_Spring state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_13[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_13[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_42[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_13[right1] at Crossroads_42[left1]
+New reachable vanilla placement: Crossroads_19[left1] at Crossroads_42[right1]
+Improved Crossroads_19[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Goam_Damage_Boost
+New reachable randomized location: Geo_Rock-Crossroads_Goam_Alcove
+Improved Crossroads_42[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_42[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_19 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_42[right1] at Crossroads_19[left1]
+Improved Crossroads_19[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_19[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_19[top1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_19[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_04[left1] at Crossroads_19[right1]
+Improved Crossroads_04[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_03[bot1] at Crossroads_19[top1]
+Improved Crossroads_03[bot1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_43[right1] at Crossroads_19[left2]
+Improved Crossroads_43[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Before_Shops
+New reachable randomized location: Soul_Totem-Crossroads_Shops
+Improved Crossroads_19 state to [{NOFLOWER:T}] via evaluation.
+New reachable waypoint: Defeated_Gruz_Mother
+Improved Crossroads_04[top1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_04[door_Mender_House] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_04[door1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_19[right1] at Crossroads_04[left1]
+New reachable vanilla placement: Crossroads_27[bot1] at Crossroads_04[top1]
+Improved Crossroads_27[bot1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Room_Mender_House[left1] at Crossroads_04[door_Mender_House]
+Improved Room_Mender_House[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Room_ruinhouse[left1] at Crossroads_04[door1]
+Improved Room_ruinhouse[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Boss_Geo-Gruz_Mother
+Improved Crossroads_03 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_19[top1] at Crossroads_03[bot1]
+Improved Crossroads_43[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_49[right1] at Crossroads_43[left1]
+Improved Crossroads_49[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_19[left2] at Crossroads_43[right1]
+Improved Crossroads_19[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_19[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_19[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_04[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_04[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_04[door_Mender_House] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_04[door1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_27 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_04[top1] at Crossroads_27[bot1]
+New reachable vanilla placement: Crossroads_04[door_Mender_House] at Room_Mender_House[left1]
+New reachable waypoint: Rescued_Sly
+New reachable vanilla placement: Crossroads_04[door1] at Room_ruinhouse[left1]
+Improved Crossroads_03[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_03[right2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_03[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_03[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_15[left1] at Crossroads_03[right1]
+Improved Crossroads_15[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Mines_33[left1] at Crossroads_03[right2]
+Improved Mines_33[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_21[right1] at Crossroads_03[left1]
+Improved Crossroads_21[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_47[right1] at Crossroads_03[left2]
+Improved Crossroads_47[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Grub-Crossroads_Stag
+Improved Crossroads_03[bot1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_03 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_43[left1] at Crossroads_49[right1]
+Improved Crossroads_43[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_43[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_27[bot1] state to [{NOFLOWER:T}] via transmission.
+Improved Room_Mender_House[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Room_ruinhouse[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_27[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_27[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_27[left2] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_46[left1] at Crossroads_27[right1]
+Improved Crossroads_46[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_15[right1] at Crossroads_27[left1]
+Improved Crossroads_15[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_31[right1] at Crossroads_27[left2]
+Improved Crossroads_31[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Above_Tram
+Improved Crossroads_27 state to [{NOFLOWER:T}] via evaluation.
+Improved Town[door_sly] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Room_shop[left1] at Town[door_sly]
+Improved Room_shop[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Sly
+New reachable randomized location: Sly
+New reachable randomized location: Sly
+New reachable randomized location: Sly
+New reachable randomized location: Sly
+New reachable randomized location: Sly
+New reachable randomized location: Sly
+New reachable vanilla placement: Crossroads_03[right1] at Crossroads_15[left1]
+New reachable vanilla placement: Crossroads_27[left1] at Crossroads_15[right1]
+New reachable vanilla placement: Crossroads_03[right2] at Mines_33[left1]
+Improved Crossroads_21 state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_03[left1] at Crossroads_21[right1]
+Improved Can_Stag state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Bench-Crossroads_Stag state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_03[left2] at Crossroads_47[right1]
+New reachable randomized location: Crossroads_Stag
+Improved Crossroads_03[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_03[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_03[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_03[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_49[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_27[right1] at Crossroads_46[left1]
+New reachable randomized location: Geo_Rock-Crossroads_Tram
+New reachable vanilla placement: Crossroads_27[left2] at Crossroads_31[right1]
+New reachable randomized location: Grub-Crossroads_Spike
+Improved Crossroads_27[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_27[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_27[left2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Town[door_sly] at Room_shop[left1]
+Improved Crossroads_15[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_15[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_33[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_21[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_10[right1] at Crossroads_21[left1]
+Improved Crossroads_10[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crossroads_Before_Glowing_Womb
+Improved Crossroads_21[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_21 state to [{NOFLOWER:T}] via evaluation.
+New reachable randomized location: Dirtmouth_Stag
+Improved Crossroads_47[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Can_Stag state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_46[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_31[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable waypoint: Defeated_False_Knight
+Improved Crossroads_10[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_06[right1] at Crossroads_10[left1]
+Improved Crossroads_06[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_21[left1] at Crossroads_10[right1]
+New reachable randomized location: Geo_Chest-False_Knight
+New reachable randomized location: City_Crest
+Improved Crossroads_21[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable waypoint: Opened_Shaman_Pillar
+Improved Crossroads_06[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+Improved Crossroads_06[door1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via evaluation.
+New reachable vanilla placement: Crossroads_33[right1] at Crossroads_06[left1]
+Improved Crossroads_33[right1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_ShamanTemple[left1] at Crossroads_06[door1]
+Improved Crossroads_ShamanTemple[left1] state to [{NOFLOWER:T,NOPASSEDCHARMEQUIP:T}] via transmission.
+New reachable vanilla placement: Crossroads_10[left1] at Crossroads_06[right1]
+Improved Crossroads_10[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_10[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_33[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_06[left1] at Crossroads_33[right1]
+Improved Crossroads_06[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_06[door1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_06[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_ShamanTemple[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Bench-Ancestral_Mound state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_06[door1] at Crossroads_ShamanTemple[left1]
+New reachable randomized location: Lifeblood_Cocoon-Ancestral_Mound
+New reachable randomized location: Soul_Totem-Ancestral_Mound
+New reachable randomized location: Geo_Rock-Ancestral_Mound_Dupe
+New reachable randomized location: Vengeful_Spirit
+New reachable randomized location: Geo_Rock-Ancestral_Mound
+Adding randomized item obtained from Start to progression: 330_Geo
+Adding randomized item obtained from Geo_Rock-King's_Pass_Left to progression: Vessel_Fragment
+Adding randomized item obtained from Geo_Rock-King's_Pass_Below_Fury to progression: Whispering_Root-Deepnest
+Adding randomized item obtained from Lore_Tablet-King's_Pass_Focus to progression: Wayward_Compass
+Adding randomized item obtained from Geo_Rock-King's_Pass_Hidden to progression: Lore_Tablet-Spore_Shroom
+Adding randomized item obtained from Lifeblood_Cocoon-King's_Pass to progression: Charm_Notch
+Adding randomized item obtained from Geo_Rock-King's_Pass_Above_Fury to progression: Geo_Rock-GreenPath02
+Adding randomized item obtained from Lore_Tablet-King's_Pass_Fury to progression: Lore_Tablet-Howling_Cliffs
+Adding randomized item obtained from Fury_of_the_Fallen to progression: Grub
+Adding randomized item obtained from Geo_Rock-King's_Pass_Collapse to progression: Geo_Chest-Crystal_Peak
+Adding randomized item obtained from Lore_Tablet-King's_Pass_Exit to progression: Charm_Notch
+Adding randomized item obtained from Iselda to progression: Geo_Rock-Mine
+Adding randomized item obtained from Iselda to progression: Geo_Rock-Default
+Adding randomized item obtained from Iselda to progression: Geo_Rock-GreenPath01
+Adding randomized item obtained from Iselda to progression: Geo_Rock-GreenPath01
+Adding randomized item obtained from Iselda to progression: Geo_Rock-Deepnest
+Adding randomized item obtained from Geo_Rock-Crossroads_Well to progression: Grub
+Adding randomized item obtained from Crossroads_Map to progression: Shopkeeper's_Key
+New reachable randomized location: Sly_(Key)
+New reachable randomized location: Sly_(Key)
+New reachable randomized location: Sly_(Key)
+New reachable randomized location: Sly_(Key)
+New reachable randomized location: Sly_(Key)
+New reachable randomized location: Sly_(Key)
+Adding randomized item obtained from Geo_Rock-Crossroads_Before_Acid_Grub to progression: Crystal_Heart
+Improved Crossroads_04[door_charmshop] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Room_Charm_Shop[left1] at Crossroads_04[door_charmshop]
+Improved Room_Charm_Shop[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Grub-Crossroads_Center
+Improved Bench-Salubra state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_04[door_charmshop] at Room_Charm_Shop[left1]
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+New reachable randomized location: Salubra
+Adding randomized item obtained from Grub-Crossroads_Acid to progression: Defender's_Crest
+Adding randomized item obtained from Geo_Rock-Crossroads_Goam_Damage_Boost to progression: Rancid_Egg
+Adding randomized item obtained from Crossroads_Stag to progression: Geo_Rock-GreenPath01
+Adding randomized item obtained from Dirtmouth_Stag to progression: Hallownest_Seal
+Adding randomized item obtained from Grub-Crossroads_Stag to progression: Vessel_Fragment
+Adding randomized item obtained from City_Crest to progression: Vessel_Fragment
+Adding randomized item obtained from Geo_Chest-False_Knight to progression: Grub
+Adding randomized item obtained from Vengeful_Spirit to progression: Lore_Tablet-Ancient_Basin
+Adding randomized item obtained from Geo_Rock-Crossroads_Before_Fungal_Dupe_1 to progression: Arcane_Egg
+Adding randomized item obtained from Geo_Rock-Crossroads_Before_Fungal_Dupe_2 to progression: Lore_Tablet-Pleasure_House
+Adding randomized item obtained from Geo_Rock-Crossroads_Before_Fungal to progression: Geo_Rock-Fung01
+Adding randomized item obtained from Geo_Rock-Crossroads_Before_Shops to progression: Lifeblood_Cocoon_Small
+Adding randomized item obtained from Soul_Totem-Crossroads_Shops to progression: Lifeblood_Core
+Adding randomized item obtained from Boss_Geo-Gruz_Mother to progression: Soul_Totem-B
+Adding randomized item obtained from Geo_Rock-Crossroads_Above_Lever to progression: Kingdom's_Edge_Map
+Adding randomized item obtained from Geo_Rock-Crossroads_Center_Grub to progression: Pale_Ore
+Adding randomized item obtained from Grub-Crossroads_Center to progression: Hallownest_Seal
+Adding randomized item obtained from Grubfather to progression: Geo_Rock-GreenPath01
+Adding randomized item obtained from Grubfather to progression: Dashmaster
+Adding randomized item obtained from Soul_Totem-Ancestral_Mound to progression: Queen's_Gardens_Stag
+New reachable waypoint: Opened_Gardens_Stag_Exit
+Improved Bench-Gardens_Stag state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_40[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_13[left2] at Fungus3_40[right1]
+Improved Fungus3_13[left2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Queen's_Gardens_Stag
+New reachable vanilla placement: Fungus3_40[right1] at Fungus3_13[left2]
+Improved Fungus3_40 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_13 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_13[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_10[top1] at Fungus3_13[bot1]
+Improved Fungus3_10[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_13[bot1] at Fungus3_10[top1]
+New reachable randomized location: Grub-Queen's_Gardens_Stag
+New reachable randomized location: Geo_Rock-Queen's_Gardens_Below_Stag
+Adding randomized item obtained from Geo_Rock-Ancestral_Mound_Dupe to progression: Grub
+Adding randomized item obtained from Geo_Rock-Ancestral_Mound to progression: Soul_Totem-C
+Adding randomized item obtained from Lifeblood_Cocoon-Ancestral_Mound to progression: Geo_Rock-Default
+Adding randomized item obtained from Grub-Crossroads_Guarded to progression: Lore_Tablet-Mantis_Village
+Adding randomized item obtained from Soul_Totem-Crossroads_Myla to progression: Geo_Rock-Hive
+Adding randomized item obtained from Sly to progression: Crossroads_Stag
+Adding randomized item obtained from Geo_Rock-Crossroads_Above_Tram to progression: Grub
+Adding randomized item obtained from Grub-Crossroads_Spike to progression: Geo_Rock-Default
+Adding randomized item obtained from Geo_Rock-Crossroads_Tram to progression: Geo_Rock-Default
+Adding randomized item obtained from Geo_Rock-Queen's_Gardens_Below_Stag to progression: Geo_Rock-Deepnest
+Adding randomized item obtained from Grub-Queen's_Gardens_Stag to progression: Geo_Rock-Hive
+Adding randomized item obtained from Geo_Rock-Crossroads_Before_Glowing_Womb to progression: Geo_Rock-Default
+Adding randomized item obtained from Lore_Tablet-Pilgrim's_Way_1 to progression: Boss_Essence-Soul_Tyrant
+Adding randomized item obtained from Soul_Totem-Crossroads_Mawlek_Upper to progression: Mantis_Claw
+Improved Tutorial_01[top2] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_04[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Crossroads_21[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_13[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_13[left3] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_13[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_40[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Cliffs_02[bot1] at Tutorial_01[top2]
+Improved Cliffs_02[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_50[left1] at Crossroads_04[right1]
+Improved Crossroads_50[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_22[bot1] at Crossroads_21[top1]
+Improved Crossroads_22[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_04[right1] at Crossroads_50[left1]
+New reachable vanilla placement: Fungus1_23[right1] at Fungus3_13[left1]
+Improved Fungus1_23[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_49[right1] at Fungus3_13[left3]
+Improved Fungus3_49[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_04[left2] at Fungus3_13[right1]
+Improved Fungus3_04[left2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_48[bot1] at Fungus3_40[top1]
+Improved Fungus3_48[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_23[left1] at Fungus3_48[right2]
+New reachable randomized location: Grub-Queen's_Gardens_Marmu
+New reachable randomized location: Geo_Rock-Crossroads_Root
+New reachable randomized location: Mask_Shard-Crossroads_Goam
+New reachable randomized location: Glowing_Womb
+New reachable randomized location: Geo_Rock-Crossroads_Above_False_Knight
+New reachable randomized location: Geo_Rock-Queen's_Gardens_Above_Marmu
+New reachable randomized location: Hallownest_Seal-Crossroads_Well
+New reachable randomized location: Soul_Totem-Below_Marmu
+New reachable randomized location: Geo_Rock-Crossroads_Root_Dupe_2
+New reachable randomized location: Geo_Rock-Crossroads_Root_Dupe_1
+New reachable randomized location: Soul_Catcher
+New reachable randomized location: Hallownest_Seal-Queen's_Gardens
+Improved Cliffs_02 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_48[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Cliffs_02[bot2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Tutorial_01[top1] at Cliffs_02[bot2]
+Improved Tutorial_01[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Tutorial_01[top2] at Cliffs_02[bot1]
+Improved Crossroads_50[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_06[left1] at Crossroads_50[right1]
+Improved RestingGrounds_06[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Rancid_Egg-Blue_Lake
+New reachable vanilla placement: Crossroads_21[top1] at Crossroads_22[bot1]
+Improved Fungus1_23[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_48[right2] at Fungus1_23[left1]
+New reachable vanilla placement: Fungus3_13[left1] at Fungus1_23[right1]
+New reachable vanilla placement: Fungus3_13[left3] at Fungus3_49[right1]
+Improved Fungus3_04 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_04[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_21[right1] at Fungus3_04[left1]
+Improved Fungus3_21[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_13[right1] at Fungus3_04[left2]
+New reachable vanilla placement: Fungus3_40[top1] at Fungus3_48[bot1]
+Improved Cliffs_02[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Cliffs_02[door1] state to [{NOFLOWER:T}] via evaluation.
+Improved Cliffs_02[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Town[top1] at Cliffs_02[right1]
+Improved Town[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Room_nailmaster[left1] at Cliffs_02[door1]
+Improved Room_nailmaster[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Cliffs_01[right1] at Cliffs_02[left1]
+Improved Cliffs_01[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Below_Gorb
+New reachable randomized location: Geo_Rock-Below_Gorb_Dupe
+New reachable randomized location: Soul_Totem-Cliffs_Gorb
+New reachable waypoint: Opened_Resting_Grounds_Floor
+Improved RestingGrounds_06[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved RestingGrounds_06[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_50[right1] at RestingGrounds_06[left1]
+New reachable vanilla placement: Ruins2_10[left1] at RestingGrounds_06[right1]
+Improved Ruins2_10[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: RestingGrounds_02[bot1] at RestingGrounds_06[top1]
+Improved RestingGrounds_02[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Below_Xero
+Improved Fungus3_04[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_04[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_34[left1] at Fungus3_04[right1]
+Improved Fungus3_34[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_05[left1] at Fungus3_04[right2]
+Improved Fungus3_05[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_04[left1] at Fungus3_21[right1]
+Improved Bench-Mato state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Cliffs_02[door1] at Room_nailmaster[left1]
+New reachable randomized location: Cyclone_Slash
+Improved Cliffs_01 state to [{NOFLOWER:T}] via evaluation.
+Improved Cliffs_01[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Cliffs_01[right4] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Cliffs_02[left1] at Cliffs_01[right1]
+New reachable vanilla placement: Cliffs_04[left1] at Cliffs_01[right2]
+Improved Cliffs_04[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Cliffs_06[left1] at Cliffs_01[right4]
+Improved Cliffs_06[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Cliffs_Main_3
+New reachable randomized location: Lore_Tablet-Howling_Cliffs
+New reachable randomized location: Geo_Rock-Cliffs_Main_2
+New reachable randomized location: Howling_Cliffs_Map
+New reachable randomized location: Wanderer's_Journal-Cliffs
+New reachable randomized location: Geo_Rock-Cliffs_Main_1
+New reachable randomized location: Geo_Rock-Cliffs_Main_4
+New reachable vanilla placement: RestingGrounds_06[top1] at RestingGrounds_02[bot1]
+Improved Ruins2_10 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_06[right1] at Ruins2_10[left1]
+Improved RestingGrounds_02 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_34 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_04[right1] at Fungus3_34[left1]
+New reachable randomized location: Rancid_Egg-Queen's_Gardens
+Improved Fungus3_05[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_05[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_04[right2] at Fungus3_05[left1]
+New reachable vanilla placement: Fungus1_24[left1] at Fungus3_05[right1]
+Improved Fungus1_24[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_11[left1] at Fungus3_05[right2]
+Improved Fungus3_11[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Cliffs_01[right3] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_28[left1] at Cliffs_01[right3]
+Improved Fungus1_28[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Cliffs_Main
+New reachable randomized location: King's_Idol-Cliffs
+New reachable vanilla placement: Cliffs_01[right2] at Cliffs_04[left1]
+New reachable vanilla placement: Cliffs_01[right4] at Cliffs_06[left1]
+Improved RestingGrounds_02[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved RestingGrounds_02[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_04[left1] at RestingGrounds_02[right1]
+Improved RestingGrounds_04[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Crossroads_46b[right1] at RestingGrounds_02[left1]
+Improved Crossroads_46b[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus3_34[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_34[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_03[left1] at Fungus3_34[right1]
+Improved Fungus3_03[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_44[bot1] at Fungus3_34[top1]
+Improved Fungus3_44[bot1] state to [{NOFLOWER:T}] via transmission.
+Improved Bench-Gardens_Cornifer state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_05[right1] at Fungus1_24[left1]
+New reachable randomized location: Queen's_Gardens_Map
+Improved Fungus3_11 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_05[right2] at Fungus3_11[left1]
+Improved Fungus1_28[left2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Cliffs_01[right3] at Fungus1_28[left1]
+New reachable vanilla placement: Fungus1_20_v02[right1] at Fungus1_28[left2]
+Improved Fungus1_20_v02[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Baldur_Shell_Alcove
+New reachable randomized location: Grub-Howling_Cliffs
+New reachable randomized location: Geo_Rock-Baldur_Shell_Top_Left
+Improved RestingGrounds_04[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_02[right1] at RestingGrounds_04[left1]
+New reachable vanilla placement: RestingGrounds_05[left1] at RestingGrounds_04[right1]
+Improved RestingGrounds_05[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Dream_Nail
+New reachable vanilla placement: RestingGrounds_02[left1] at Crossroads_46b[right1]
+New reachable vanilla placement: Fungus3_34[right1] at Fungus3_03[left1]
+Improved Fungus3_44 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_34[top1] at Fungus3_44[bot1]
+Improved Fungus3_11[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_11[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_08[right1] at Fungus3_11[left2]
+Improved Fungus3_08[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_39[left1] at Fungus3_11[right1]
+Improved Fungus3_39[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus1_20_v02[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_20_v02[bot2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_21[top1] at Fungus1_20_v02[bot1]
+Improved Fungus1_21[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_32[top1] at Fungus1_20_v02[bot2]
+Improved Fungus1_32[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_28[left2] at Fungus1_20_v02[right1]
+New reachable randomized location: Boss_Geo-Vengefly_King
+Improved RestingGrounds_05 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_04[right1] at RestingGrounds_05[left1]
+Improved Fungus3_44[door1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_44[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Room_Fungus_Shaman[left1] at Fungus3_44[door1]
+Improved Room_Fungus_Shaman[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_24[left1] at Fungus3_44[right1]
+Improved Fungus3_24[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus3_08[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_08[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_43[right1] at Fungus3_08[left1]
+Improved Deepnest_43[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_11[left2] at Fungus3_08[right1]
+New reachable vanilla placement: Fungus3_10[bot1] at Fungus3_08[top1]
+Improved Fungus3_10[bot1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus3_39[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_01[left1] at Fungus3_39[right1]
+Improved Deepnest_01[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_11[right1] at Fungus3_39[left1]
+New reachable randomized location: Geo_Rock-Love_Key_Dupe
+New reachable randomized location: Geo_Rock-Love_Key
+Improved Fungus1_21 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_20_v02[bot1] at Fungus1_21[top1]
+Improved Fungus1_32[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_32[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_31[top1] at Fungus1_32[bot1]
+Improved Fungus1_31[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_20_v02[bot2] at Fungus1_32[top1]
+New reachable vanilla placement: Fungus1_21[right1] at Fungus1_32[left1]
+Improved Fungus1_21[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Lifeblood_Cocoon-Greenpath
+New reachable randomized location: Lore_Tablet-Greenpath_Lifeblood
+Improved RestingGrounds_05[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved RestingGrounds_05[left3] state to [{NOFLOWER:T}] via evaluation.
+Improved RestingGrounds_05[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_07[right1] at RestingGrounds_05[left2]
+Improved RestingGrounds_07[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: RestingGrounds_17[right1] at RestingGrounds_05[left3]
+Improved RestingGrounds_17[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: RestingGrounds_09[left1] at RestingGrounds_05[right2]
+Improved RestingGrounds_09[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Resting_Grounds
+New reachable vanilla placement: Fungus3_44[door1] at Room_Fungus_Shaman[left1]
+New reachable randomized location: Howling_Wraiths
+New reachable randomized location: Geo_Rock-Overgrown_Mound
+Improved Fungus3_24[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_24[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_01[left1] at Fungus3_24[right1]
+Improved Fungus3_01[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_44[right1] at Fungus3_24[left1]
+New reachable vanilla placement: Fungus3_30[bot1] at Fungus3_24[top1]
+Improved Fungus3_30[bot1] state to [{NOFLOWER:T}] via transmission.
+Improved Deepnest_43[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_43[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_42[top1] at Deepnest_43[bot1]
+Improved Deepnest_42[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_50[right1] at Deepnest_43[left1]
+Improved Fungus3_50[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_08[left1] at Deepnest_43[right1]
+New reachable randomized location: Geo_Rock-Above_Mask_Maker_1
+New reachable randomized location: Geo_Rock-Above_Mask_Maker_2
+New reachable vanilla placement: Fungus3_08[top1] at Fungus3_10[bot1]
+Improved Deepnest_01 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_39[right1] at Deepnest_01[left1]
+Improved Fungus1_21[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_21[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_22[top1] at Fungus1_21[bot1]
+Improved Fungus1_22[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_04[right1] at Fungus1_21[left1]
+Improved Fungus1_04[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_32[left1] at Fungus1_21[right1]
+New reachable randomized location: Geo_Rock-Greenpath_Moss_Knights
+New reachable randomized location: Geo_Rock-Greenpath_Moss_Knights_Dupe_2
+New reachable randomized location: Grub-Greenpath_Stag
+New reachable randomized location: Geo_Rock-Greenpath_Moss_Knights_Dupe_1
+New reachable randomized location: Lore_Tablet-Greenpath_Stag
+Improved Bench-Greenpath_Toll state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_31[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_31[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_32[bot1] at Fungus1_31[top1]
+New reachable vanilla placement: Fungus1_30[top3] at Fungus1_31[bot1]
+Improved Fungus1_30[top3] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_03[left1] at Fungus1_31[right1]
+Improved Fungus1_03[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Toll_Hidden
+New reachable randomized location: Geo_Rock-Greenpath_Below_Toll
+New reachable randomized location: Geo_Rock-Greenpath_Toll_Hidden_Dupe
+New reachable vanilla placement: RestingGrounds_05[left2] at RestingGrounds_07[right1]
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable randomized location: Seer
+New reachable vanilla placement: RestingGrounds_05[left3] at RestingGrounds_17[right1]
+New reachable randomized location: Dreamshield
+Improved Bench-Grounds_Stag state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_05[right2] at RestingGrounds_09[left1]
+New reachable randomized location: Resting_Grounds_Stag
+New reachable randomized location: Resting_Grounds_Map
+Improved Fungus3_01 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_24[right1] at Fungus3_01[left1]
+New reachable vanilla placement: Fungus3_24[top1] at Fungus3_30[bot1]
+New reachable randomized location: Hallownest_Seal-Fog_Canyon_West
+New reachable randomized location: Lifeblood_Cocoon-Fog_Canyon_West
+New reachable vanilla placement: Deepnest_43[bot1] at Deepnest_42[top1]
+Improved Bench-Gardens_Toll state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_43[left1] at Fungus3_50[right1]
+Improved Deepnest_01[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_01[bot2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_20[left1] at Deepnest_01[right1]
+Improved Fungus2_20[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_01b[top2] at Deepnest_01[bot2]
+Improved Deepnest_01b[top2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Moss_Prophet
+New reachable randomized location: Geo_Rock-Moss_Prophet_Dupe
+Improved Fungus1_22[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_22[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_30[top1] at Fungus1_22[bot1]
+Improved Fungus1_30[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_21[bot1] at Fungus1_22[top1]
+New reachable vanilla placement: Fungus1_16_alt[right1] at Fungus1_22[left1]
+Improved Fungus1_16_alt[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Below_Stag_Fool_Eater
+New reachable randomized location: Geo_Rock-Greenpath_Below_Stag
+New reachable randomized location: Wanderer's_Journal-Greenpath_Stag
+New reachable waypoint: Defeated_Hornet_1
+Improved Fungus1_04[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_25[right1] at Fungus1_04[left1]
+Improved Fungus1_25[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_21[left1] at Fungus1_04[right1]
+New reachable randomized location: Geo_Rock-Greenpath_Below_Hornet
+New reachable randomized location: Mothwing_Cloak
+Improved Fungus1_30 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_31[bot1] at Fungus1_30[top3]
+Improved Fungus1_03[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_03[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_31[right1] at Fungus1_03[left1]
+New reachable vanilla placement: Fungus1_17[left1] at Fungus1_03[right1]
+Improved Fungus1_17[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_05[top1] at Fungus1_03[bot1]
+Improved Fungus1_05[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Second_Skip_Lower
+New reachable randomized location: Geo_Rock-Greenpath_Second_Skip_Fool_Eater
+New reachable randomized location: Geo_Rock-Greenpath_Second_Skip_Fool_Eater_Dupe
+Improved Fungus3_01[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_01[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_01[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_11[bot1] at Fungus3_01[top1]
+Improved Fungus1_11[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_25[left1] at Fungus3_01[right1]
+Improved Fungus3_25[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_02[left1] at Fungus3_01[right2]
+Improved Fungus3_02[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus2_20 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_01[right1] at Fungus2_20[left1]
+New reachable randomized location: Grub-Fungal_Spore_Shroom
+New reachable randomized location: Spore_Shroom
+Improved Deepnest_01b state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_01b[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_02[left2] at Deepnest_01b[right2]
+Improved Deepnest_02[left2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_22[bot1] at Fungus1_30[top1]
+Improved Bench-Greenpath_Stag state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_22[left1] at Fungus1_16_alt[right1]
+New reachable randomized location: Greenpath_Stag
+Improved Fungus1_25[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_04[left1] at Fungus1_25[right1]
+New reachable vanilla placement: Fungus1_26[right1] at Fungus1_25[left1]
+Improved Fungus1_26[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus1_30[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_30[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_09[right1] at Fungus1_30[left1]
+Improved Fungus1_09[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_10[left1] at Fungus1_30[right1]
+Improved Fungus1_10[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Greenpath_Below_Toll
+New reachable randomized location: Lore_Tablet-Greenpath_Below_Toll
+Improved Fungus1_17[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_03[right1] at Fungus1_17[left1]
+New reachable vanilla placement: Fungus1_02[left1] at Fungus1_17[right1]
+Improved Fungus1_02[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Lore_Tablet-Greenpath_Upper_Hidden
+Improved Fungus1_05[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_05[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_14[left1] at Fungus1_05[right1]
+Improved Fungus1_14[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_10[top1] at Fungus1_05[bot1]
+Improved Fungus1_10[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_03[bot1] at Fungus1_05[top1]
+New reachable randomized location: Geo_Rock-Greenpath_Above_Thorns
+Improved Fungus1_11 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_01[top1] at Fungus1_11[bot1]
+New reachable vanilla placement: Fungus3_01[right1] at Fungus3_25[left1]
+Improved Fungus3_02 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_01[right2] at Fungus3_02[left1]
+Improved Fungus2_20[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_19[left1] at Fungus2_20[right1]
+Improved Fungus2_19[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Deepnest_01b[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_17[top1] at Deepnest_01b[bot1]
+Improved Deepnest_17[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Deepnest_Map-Upper
+Improved Deepnest_02 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_01b[right2] at Deepnest_02[left2]
+Improved Fungus1_26[door_SlugShrine] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_25[left1] at Fungus1_26[right1]
+New reachable vanilla placement: Room_Slug_Shrine[left1] at Fungus1_26[door_SlugShrine]
+Improved Room_Slug_Shrine[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_30[left1] at Fungus1_09[right1]
+Improved Fungus1_10[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_30[right1] at Fungus1_10[left1]
+New reachable vanilla placement: Fungus1_19[left1] at Fungus1_10[right1]
+Improved Fungus1_19[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_05[bot1] at Fungus1_10[top1]
+New reachable randomized location: Geo_Rock-Greenpath_Acid_Bridge
+New reachable randomized location: Hallownest_Seal-Greenpath
+Improved Fungus1_02[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_02[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_17[right1] at Fungus1_02[left1]
+New reachable vanilla placement: Fungus1_01b[left1] at Fungus1_02[right1]
+Improved Fungus1_01b[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_06[left1] at Fungus1_02[right2]
+Improved Fungus1_06[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Below_Skip_Squit
+New reachable randomized location: Geo_Rock-Greenpath_Skip_Squit
+New reachable vanilla placement: Fungus1_05[right1] at Fungus1_14[left1]
+New reachable randomized location: Thorns_of_Agony
+Improved Fungus1_11[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_11[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_11[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_11[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_19[bot1] at Fungus1_11[top1]
+Improved Fungus1_19[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_34[left1] at Fungus1_11[right1]
+Improved Fungus1_34[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_37[left1] at Fungus1_11[right2]
+Improved Fungus1_37[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_29[right1] at Fungus1_11[left1]
+Improved Fungus1_29[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Wanderer's_Journal-Greenpath_Lower
+Improved Fungus3_02[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_02[left3] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus3_02[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_03[right1] at Fungus3_02[left2]
+Improved Fungus3_03[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus3_35[right1] at Fungus3_02[left3]
+Improved Fungus3_35[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_01[left1] at Fungus3_02[right2]
+Improved Fungus2_01[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus2_19[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_18[bot1] at Fungus2_19[top1]
+Improved Fungus2_18[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_20[right1] at Fungus2_19[left1]
+Improved Deepnest_17 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_01b[bot1] at Deepnest_17[top1]
+Improved Deepnest_02[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_02[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_01b[right1] at Deepnest_02[left1]
+Improved Deepnest_01b[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_36[left1] at Deepnest_02[right1]
+Improved Deepnest_36[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Deepnest_Below_Mimics
+New reachable randomized location: Geo_Rock-Deepnest_Below_Mimics_Dupe
+Improved Bench-Lake_of_Unn state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_26[door_SlugShrine] at Room_Slug_Shrine[left1]
+Improved Fungus1_19[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_10[right1] at Fungus1_19[left1]
+New reachable vanilla placement: Fungus1_07[left1] at Fungus1_19[right1]
+Improved Fungus1_07[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_11[top1] at Fungus1_19[bot1]
+New reachable randomized location: Geo_Rock-Greenpath_Obbles_Fool_Eater
+New reachable randomized location: Lore_Tablet-Greenpath_Lower_Hidden
+Improved Bench-Waterfall state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_01b[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_02[right1] at Fungus1_01b[left1]
+New reachable vanilla placement: Fungus1_01[left1] at Fungus1_01b[right1]
+Improved Fungus1_01[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Waterfall
+Improved Fungus1_06[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_02[right2] at Fungus1_06[left1]
+New reachable vanilla placement: Fungus1_07[top1] at Fungus1_06[bot1]
+Improved Fungus1_07[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Grub-Greenpath_Cornifer
+New reachable randomized location: Greenpath_Map
+Improved Fungus1_34[door1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_35[left1] at Fungus1_34[door1]
+Improved Fungus1_35[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_11[right1] at Fungus1_34[left1]
+Improved Bench-Stone_Sanctuary state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_11[right2] at Fungus1_37[left1]
+Improved Fungus1_29[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_12[right1] at Fungus1_29[left1]
+Improved Fungus1_12[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_11[left1] at Fungus1_29[right1]
+New reachable randomized location: Soul_Totem-Greenpath_MMC
+New reachable randomized location: Boss_Geo-Massive_Moss_Charger
+New reachable randomized location: Geo_Rock-Greenpath_MMC
+New reachable vanilla placement: Fungus3_02[left2] at Fungus3_03[right1]
+New reachable randomized location: Geo_Rock-Queen's_Gardens_Acid_Entrance
+New reachable vanilla placement: Fungus3_02[left3] at Fungus3_35[right1]
+Improved Fungus2_01 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus3_02[right2] at Fungus2_01[left1]
+Improved Fungus2_18 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_19[top1] at Fungus2_18[bot1]
+Improved Deepnest_17[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_17[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_17[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_14[right1] at Deepnest_17[left1]
+Improved Deepnest_14[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_16[left1] at Deepnest_17[right1]
+Improved Deepnest_16[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_30[top1] at Deepnest_17[bot1]
+Improved Deepnest_30[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Deepnest_01b[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_01[bot1] at Deepnest_01b[top1]
+Improved Deepnest_01[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_02[left1] at Deepnest_01b[right1]
+New reachable vanilla placement: Deepnest_02[right1] at Deepnest_36[left1]
+New reachable vanilla placement: Mimic_Grub at Mimic_Grub-Deepnest_1
+New reachable vanilla placement: Mimic_Grub at Mimic_Grub-Deepnest_2
+New reachable vanilla placement: Mimic_Grub at Mimic_Grub-Deepnest_3
+New reachable randomized location: Grub-Deepnest_Mimic
+Improved Fungus1_07[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_06[bot1] at Fungus1_07[top1]
+New reachable vanilla placement: Fungus1_19[right1] at Fungus1_07[left1]
+New reachable vanilla placement: Fungus1_08[left1] at Fungus1_07[right1]
+Improved Fungus1_08[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Hunter's_Journal
+New reachable randomized location: Grub-Greenpath_Journal
+New reachable randomized location: Soul_Totem-Greenpath_Hunter's_Journal
+Improved Fungus1_01[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_01b[right1] at Fungus1_01[left1]
+New reachable vanilla placement: Crossroads_11_alt[left1] at Fungus1_01[right1]
+Improved Crossroads_11_alt[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Greenpath_Entrance
+New reachable vanilla placement: Fungus1_34[door1] at Fungus1_35[left1]
+Improved Fungus1_12[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_13[right1] at Fungus1_12[left1]
+Improved Fungus1_13[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_29[left1] at Fungus1_12[right1]
+New reachable randomized location: Geo_Rock-Greenpath_After_MMC_Dupe
+New reachable randomized location: Geo_Rock-Greenpath_After_MMC_Hidden
+New reachable randomized location: Geo_Rock-Greenpath_After_MMC
+Improved Fungus2_01[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_01[left3] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_01[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_02[right1] at Fungus2_01[left2]
+Improved Fungus2_02[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_34[right1] at Fungus2_01[left3]
+Improved Fungus2_34[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_03[left1] at Fungus2_01[right1]
+Improved Fungus2_03[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Mask_Shard-Queen's_Station
+Improved Fungus2_18[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_03[bot1] at Fungus2_18[top1]
+Improved Fungus2_03[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Fungal_After_Cornifer
+New reachable randomized location: Fungal_Wastes_Map
+New reachable vanilla placement: Deepnest_17[left1] at Deepnest_14[right1]
+New reachable vanilla placement: Deepnest_17[right1] at Deepnest_16[left1]
+Improved Deepnest_30[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_30[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_03[right1] at Deepnest_30[left1]
+Improved Deepnest_03[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_17[bot1] at Deepnest_30[top1]
+New reachable vanilla placement: Deepnest_37[left1] at Deepnest_30[right1]
+Improved Deepnest_37[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_01b[top1] at Deepnest_01[bot1]
+New reachable vanilla placement: Fungus1_07[right1] at Fungus1_08[left1]
+New reachable randomized location: Hunter's_Journal
+New reachable vanilla placement: Fungus1_01[right1] at Crossroads_11_alt[left1]
+New reachable vanilla placement: Fungus1_12[left1] at Fungus1_13[right1]
+New reachable randomized location: Grub-Greenpath_MMC
+New reachable randomized location: Geo_Chest-Greenpath
+New reachable randomized location: Vessel_Fragment-Greenpath
+New reachable randomized location: Lore_Tablet-Greenpath_QG
+Improved Bench-Queen's_Station state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_01[left2] at Fungus2_02[right1]
+New reachable randomized location: Queen's_Station_Stag
+New reachable vanilla placement: Fungus2_01[left3] at Fungus2_34[right1]
+Improved Fungus2_03 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_01[right1] at Fungus2_03[left1]
+New reachable vanilla placement: Fungus2_18[top1] at Fungus2_03[bot1]
+Improved Deepnest_Hot_Spring state to [{NOFLOWER:T}] via evaluation.
+Improved Bench-Deepnest_Hot_Springs state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_03 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_30[left1] at Deepnest_03[right1]
+New reachable randomized location: Geo_Rock-Deepnest_Spike_Grub_Right
+Improved Deepnest_37 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_30[right1] at Deepnest_37[left1]
+Improved Fungus2_03[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_04[left1] at Fungus2_03[right1]
+Improved Fungus2_04[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Hallownest_Seal-Fungal_Wastes_Sporgs
+Improved Deepnest_03[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_03[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_03[left2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_34[right1] at Deepnest_03[left1]
+Improved Deepnest_34[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_33[bot1] at Deepnest_03[top1]
+Improved Deepnest_33[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_31[right1] at Deepnest_03[left2]
+Improved Deepnest_31[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Grub-Deepnest_Spike
+New reachable randomized location: Geo_Rock-Deepnest_Below_Spike_Grub
+New reachable randomized location: Geo_Rock-Deepnest_Below_Spike_Grub_Dupe
+Improved Deepnest_37[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_37[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_37[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_03_b[left1] at Deepnest_37[right1]
+Improved Abyss_03_b[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_38[bot1] at Deepnest_37[top1]
+Improved Deepnest_38[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_44[top1] at Deepnest_37[bot1]
+Improved Deepnest_44[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Deepnest_Garpede_2
+New reachable randomized location: Geo_Rock-Deepnest_Garpede_1
+Improved Fungus2_04 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_03[right1] at Fungus2_04[left1]
+New reachable vanilla placement: Deepnest_03[left1] at Deepnest_34[right1]
+Improved Deepnest_33[top2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_14[bot2] at Deepnest_33[top2]
+Improved Deepnest_14[bot2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_03[top1] at Deepnest_33[bot1]
+Improved Deepnest_31[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_03[left2] at Deepnest_31[right1]
+New reachable vanilla placement: Deepnest_32[left1] at Deepnest_31[right2]
+Improved Deepnest_32[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Grub-Deepnest_Nosk
+New reachable randomized location: Geo_Rock-Deepnest_Nosk_2
+New reachable randomized location: Geo_Rock-Deepnest_Nosk_1
+New reachable randomized location: Geo_Rock-Deepnest_Nosk_3
+Improved Abyss_03_b state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_37[right1] at Abyss_03_b[left1]
+New reachable vanilla placement: Deepnest_37[top1] at Deepnest_38[bot1]
+New reachable randomized location: Soul_Totem-Deepnest_Vessel
+New reachable randomized location: Vessel_Fragment-Deepnest
+New reachable vanilla placement: Deepnest_37[bot1] at Deepnest_44[top1]
+New reachable randomized location: Journal_Entry-Garpede
+Improved Fungus2_04[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_28[left2] at Fungus2_04[right2]
+Improved Fungus2_28[left2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Wanderer's_Journal-Fungal_Wastes_Thorns_Gauntlet
+New reachable randomized location: Geo_Rock-Fungal_Below_Shrumal_Ogres
+Improved Deepnest_14 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_33[top2] at Deepnest_14[bot2]
+New reachable vanilla placement: Deepnest_31[right2] at Deepnest_32[left1]
+Improved Fungus2_28[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_04[right1] at Fungus2_28[left1]
+Improved Fungus2_04[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_04[right2] at Fungus2_28[left2]
+Improved Deepnest_14[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_14[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_26[right1] at Deepnest_14[left1]
+Improved Deepnest_26[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_33[top1] at Deepnest_14[bot1]
+Improved Deepnest_33[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus2_04[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_05[bot1] at Fungus2_04[top1]
+Improved Fungus2_05[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_28[left1] at Fungus2_04[right1]
+Improved Bench-Failed_Tramway state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_26 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_14[left1] at Deepnest_26[right1]
+New reachable waypoint: Rescued_Deepnest_Zote
+New reachable vanilla placement: Deepnest_14[bot1] at Deepnest_33[top1]
+New reachable randomized location: King's_Idol-Deepnest
+New reachable waypoint: Defeated_Shrumal_Ogre_Arena
+Improved Fungus2_05[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_04[top1] at Fungus2_05[bot1]
+New reachable vanilla placement: Fungus2_06[left1] at Fungus2_05[right1]
+Improved Fungus2_06[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Charm_Notch-Shrumal_Ogres
+Improved Deepnest_26[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_26[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_26b[right2] at Deepnest_26[left2]
+Improved Deepnest_26b[right2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Deepnest_35[top1] at Deepnest_26[bot1]
+Improved Deepnest_35[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Lifeblood_Cocoon-Failed_Tramway
+Improved Fungus2_06 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_05[right1] at Fungus2_06[left1]
+New reachable vanilla placement: Deepnest_26[left2] at Deepnest_26b[right2]
+New reachable randomized location: Tram_Pass
+New reachable vanilla placement: Deepnest_26[bot1] at Deepnest_35[top1]
+Improved Fungus2_06[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_06[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_26[left1] at Fungus2_06[right1]
+Improved Fungus2_26[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_07[left1] at Fungus2_06[right2]
+Improved Fungus2_07[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus2_06[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_18[bot1] at Fungus2_06[top1]
+Improved Crossroads_18[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable waypoint: Can_Repair_Fragile_Charms
+Improved Bench-Leg_Eater state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_06[right1] at Fungus2_26[left1]
+New reachable randomized location: Leg_Eater
+New reachable randomized location: Leg_Eater
+New reachable randomized location: Leg_Eater
+New reachable randomized location: Leg_Eater
+New reachable randomized location: Leg_Eater
+New reachable randomized location: Leg_Eater
+Improved Fungus2_07[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_06[right2] at Fungus2_07[left1]
+New reachable vanilla placement: Fungus2_08[left1] at Fungus2_07[right1]
+Improved Fungus2_08[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Crossroads_18 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_06[top1] at Crossroads_18[bot1]
+Improved Fungus2_08[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_08[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_07[right1] at Fungus2_08[left1]
+New reachable vanilla placement: Fungus2_09[right1] at Fungus2_08[left2]
+Improved Fungus2_09[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_32[left1] at Fungus2_08[right1]
+Improved Fungus2_32[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Fungal_Above_Cloth
+Improved Crossroads_18[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_52[left1] at Crossroads_18[right2]
+Improved Crossroads_52[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Crossroads_Goam_Journal
+Improved Fungus2_09[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_10[right1] at Fungus2_09[left1]
+Improved Fungus2_10[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_08[left2] at Fungus2_09[right1]
+New reachable vanilla placement: Fungus2_08[right1] at Fungus2_32[left1]
+New reachable vanilla placement: Crossroads_18[right2] at Crossroads_52[left1]
+Improved Fungus2_10[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_10[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_09[left1] at Fungus2_10[right1]
+New reachable vanilla placement: Fungus2_21[left1] at Fungus2_10[right2]
+Improved Fungus2_21[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_11[top1] at Fungus2_10[bot1]
+Improved Fungus2_11[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Before_Pilgrim's_Way
+New reachable randomized location: Geo_Rock-Fungal_After_Cloth
+Improved Fungus2_21 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_10[right2] at Fungus2_21[left1]
+New reachable randomized location: Lore_Tablet-Pilgrim's_Way_2
+New reachable randomized location: Soul_Totem-Pilgrim's_Way
+Improved Fungus2_11 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_10[bot1] at Fungus2_11[top1]
+New reachable randomized location: Geo_Rock-Fungal_Below_Pilgrim's_Way_Dupe
+New reachable randomized location: Geo_Rock-Fungal_Below_Pilgrim's_Way
+Improved Fungus2_11[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_11[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_11[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_18[right1] at Fungus2_11[left1]
+Improved Fungus2_18[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_17[right1] at Fungus2_11[left2]
+Improved Fungus2_17[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_12[left1] at Fungus2_11[right1]
+Improved Fungus2_12[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_11[left1] at Fungus2_18[right1]
+New reachable randomized location: Grub-Fungal_Bouncy
+New reachable randomized location: Geo_Rock-Fungal_After_Bouncy_Grub_Dupe
+New reachable randomized location: Geo_Rock-Fungal_Bouncy_Grub_Lever
+New reachable randomized location: Geo_Rock-Fungal_After_Bouncy_Grub
+Improved Fungus2_17 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_29[right1] at Fungus2_17[left1]
+New reachable vanilla placement: Fungus2_11[left2] at Fungus2_17[right1]
+Improved Fungus2_12[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_11[right1] at Fungus2_12[left1]
+New reachable vanilla placement: Fungus2_13[top1] at Fungus2_12[bot1]
+Improved Fungus2_13[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Lore_Tablet-Mantis_Outskirts
+Improved Fungus2_17[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_17[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_14[top1] at Fungus2_17[bot1]
+Improved Fungus2_14[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Wanderer's_Journal-Above_Mantis_Village
+New reachable vanilla placement: Fungus2_17[left1] at Fungus2_29[right1]
+Improved Fungus2_29[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus2_13 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_12[bot1] at Fungus2_13[top1]
+Improved Fungus2_14 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_14[bot3] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_17[bot1] at Fungus2_14[top1]
+New reachable vanilla placement: Fungus2_15[top3] at Fungus2_14[bot3]
+Improved Fungus2_15[top3] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Mantis_Village_Above_Lever
+New reachable randomized location: Geo_Rock-Mantis_Village_Below_Lore
+New reachable randomized location: Lore_Tablet-Mantis_Village
+Improved Bench-Bretta state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_13[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_13[left3] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_14[right1] at Fungus2_13[left2]
+Improved Fungus2_14[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_23[right1] at Fungus2_13[left3]
+Improved Fungus2_23[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Mantis_Outskirts_Alcove
+New reachable randomized location: Geo_Rock-Mantis_Outskirts_Guarded
+New reachable randomized location: Geo_Rock-Mantis_Outskirts_Guarded_Dupe
+New reachable vanilla placement: Fungus2_13[left2] at Fungus2_14[right1]
+New reachable randomized location: Mantis_Claw
+New reachable randomized location: Geo_Rock-Mantis_Village_After_Lever
+New reachable randomized location: Geo_Rock-Mantis_Village_Above_Claw
+New reachable randomized location: Geo_Rock-Mantis_Village_Above_Claw_Dupe
+New reachable waypoint: Defeated_Mantis_Lords
+Improved Fungus2_15 state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus2_15[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_14[bot3] at Fungus2_15[top3]
+New reachable vanilla placement: Fungus2_25[right1] at Fungus2_15[left1]
+Improved Fungus2_25[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Lifeblood_Cocoon-Mantis_Village
+Improved Fungus2_23 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_13[left3] at Fungus2_23[right1]
+New reachable vanilla placement: Fungus2_15[left1] at Fungus2_25[right1]
+Improved Fungus2_15[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_31[left1] at Fungus2_15[right1]
+Improved Fungus2_31[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Above_Mantis_Lords_1
+New reachable randomized location: Geo_Rock-Above_Mantis_Lords_2
+Improved Fungus2_25[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_16[bot1] at Fungus2_25[top1]
+Improved Deepnest_16[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_2
+New reachable randomized location: Geo_Rock-Deepnest_Lower_Cornifer
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_1
+New reachable randomized location: Deepnest_Map-Right
+New reachable waypoint: Rescued_Bretta
+New reachable randomized location: Dashmaster
+Improved Bench-Mantis_Village state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_15[right1] at Fungus2_31[left1]
+New reachable randomized location: Hallownest_Seal-Mantis_Lords
+New reachable randomized location: Mark_of_Pride
+New reachable randomized location: Geo_Chest-Mantis_Lords
+New reachable vanilla placement: Fungus2_25[top1] at Deepnest_16[bot1]
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo_Dupe
+New reachable randomized location: Hallownest_Seal-Deepnest_By_Mantis_Lords
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_3
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_2
+New reachable randomized location: Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1
+Improved Town[door_bretta] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Room_Bretta[right1] at Town[door_bretta]
+Improved Room_Bretta[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Town[door_bretta] at Room_Bretta[right1]
+New reachable randomized location: Mask_Shard-Bretta
+Adding randomized item obtained from Soul_Totem-Crossroads_Mawlek_Lower to progression: Rancid_Egg
+Adding randomized item obtained from Geo_Rock-Crossroads_Above_Mawlek to progression: Rancid_Egg
+Adding randomized item obtained from Glowing_Womb to progression: Geo_Rock-Default
+Adding randomized item obtained from Hallownest_Seal-Crossroads_Well to progression: Rancid_Egg
+Adding randomized item obtained from Rancid_Egg-Blue_Lake to progression: Grub
+Adding randomized item obtained from Dream_Nail to progression: Geo_Rock-Outskirts420
+Adding randomized item obtained from Seer to progression: Soul_Totem-Palace
+Adding randomized item obtained from Seer to progression: Crystal_Heart
+Adding randomized item obtained from Dreamshield to progression: Crystal_Peak_Map
+Adding randomized item obtained from Soul_Totem-Resting_Grounds to progression: Geo_Rock-Deepnest
+Adding randomized item obtained from Resting_Grounds_Stag to progression: Hallownest_Seal
+Adding randomized item obtained from Grubfather to progression: Greenpath_Map
+Adding randomized item obtained from Iselda to progression: Boss_Essence-Grey_Prince_Zote
+New reachable waypoint: Opened_Glade_Door
+Improved RestingGrounds_05[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: RestingGrounds_08[left1] at RestingGrounds_05[right1]
+Improved RestingGrounds_08[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: RestingGrounds_05[right1] at RestingGrounds_08[left1]
+New reachable randomized location: King's_Idol-Glade_of_Hope
+Adding randomized item obtained from Sly to progression: Grub
+Adding randomized item obtained from Sly_(Key) to progression: Geo_Rock-Deepnest
+Adding randomized item obtained from Sly to progression: Geo_Rock-Default
+Adding randomized item obtained from Sly_(Key) to progression: Geo_Rock-GreenPath01
+Adding randomized item obtained from Sly_(Key) to progression: Geo_Rock-Default
+Adding randomized item obtained from Sly_(Key) to progression: Geo_Rock-Deepnest
+Adding randomized item obtained from Howling_Cliffs_Map to progression: Monarch_Wings
+New reachable waypoint: Opened_Tramway_Exit_Gate
+Improved Fungus2_29 state to [{NOFLOWER:T}] via evaluation.
+Improved Town[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_09[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_26[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Deepnest_26b[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_10[left1] at Town[right1]
+Improved Mines_10[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus1_15[right1] at Fungus1_09[left1]
+Improved Fungus1_15[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Room_nailmaster_02[left1] at Fungus1_15[door1]
+New reachable vanilla placement: Deepnest_26b[right1] at Deepnest_26[left1]
+New reachable vanilla placement: Deepnest_26[left1] at Deepnest_26b[right1]
+New reachable vanilla placement: Town[right1] at Mines_10[left1]
+New reachable vanilla placement: Mines_16[top1] at Mines_10[bot1]
+New reachable randomized location: Geo_Rock-Ancestral_Mound_Tree_Dupe
+New reachable randomized location: Geo_Rock-Crystal_Peak_Mimic_Grub
+New reachable randomized location: Soul_Totem-Top_Left_Queen's_Gardens
+New reachable randomized location: Geo_Rock-Ancestral_Mound_Tree
+New reachable randomized location: Grub-Crystal_Peak_Mimic
+New reachable randomized location: Hallownest_Seal-Queen's_Station
+Improved Fungus2_29[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_30[top1] at Fungus2_29[bot1]
+Improved Fungus2_30[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Fungal_Core_Entrance
+New reachable randomized location: Rancid_Egg-Fungal_Core
+New reachable randomized location: Soul_Totem-Fungal_Core
+Improved Mines_10 state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_10[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Fungus1_15[door1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus1_09[left1] at Fungus1_15[right1]
+New reachable randomized location: Rancid_Egg-Sheo
+New reachable vanilla placement: Fungus1_15[door1] at Room_nailmaster_02[left1]
+New reachable randomized location: Great_Slash
+Improved Bench-Sheo state to [{NOFLOWER:T}] via evaluation.
+Improved Room_nailmaster_02[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_10[bot1] at Mines_16[top1]
+New reachable vanilla placement: Mimic_Grub at Mimic_Grub-Crystal_Peak
+Improved Mines_10[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_30[left1] at Mines_10[right1]
+Improved Mines_30[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Mines_16[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Fungus2_30[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_25[top2] at Fungus2_30[bot1]
+Improved Fungus2_25[top2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Fungus2_29[bot1] at Fungus2_30[top1]
+New reachable randomized location: Geo_Rock-Fungal_Core_Hidden
+New reachable randomized location: Geo_Rock-Fungal_Core_Above_Elder
+Improved Mines_30[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_10[right1] at Mines_30[left1]
+New reachable vanilla placement: Mines_05[left1] at Mines_30[right1]
+Improved Mines_05[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Crystal_Peak_Map
+New reachable randomized location: King's_Idol-Crystal_Peak
+New reachable randomized location: Mask_Shard-Deepnest
+Improved Mines_05 state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_05[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_05[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_19[left1] at Mines_05[right1]
+Improved Mines_19[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_11[bot1] at Mines_05[top1]
+Improved Mines_11[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_30[right1] at Mines_05[left1]
+Improved Mines_05[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_05[left2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_03[top1] at Mines_05[bot1]
+Improved Mines_03[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_06[right1] at Mines_05[left2]
+Improved Mines_06[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crystal_Peak_Above_Spike_Grub
+Improved Mines_19[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_05[right1] at Mines_19[left1]
+New reachable vanilla placement: Mines_20[left3] at Mines_19[right1]
+Improved Mines_20[left3] state to [{NOFLOWER:T}] via transmission.
+Improved Mines_11 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_05[top1] at Mines_11[bot1]
+Improved Mines_03 state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_03[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_17[left1] at Mines_03[right1]
+Improved Mines_17[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_05[bot1] at Mines_03[top1]
+Improved Mines_06[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_05[left2] at Mines_06[right1]
+New reachable vanilla placement: Mines_36[right1] at Mines_06[left1]
+Improved Mines_36[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Mines_20[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_19[right1] at Mines_20[left3]
+New reachable vanilla placement: Mines_37[top1] at Mines_20[bot1]
+Improved Mines_37[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Soul_Totem-Upper_Crystal_Peak
+Improved Mines_11[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_11[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_18[left1] at Mines_11[right1]
+Improved Mines_18[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_13[bot1] at Mines_11[top1]
+Improved Mines_13[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Shopkeeper's_Key
+Improved Mines_03[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_02[top2] at Mines_03[bot1]
+Improved Mines_02[top2] state to [{NOFLOWER:T}] via transmission.
+Improved Mines_17[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_04[left1] at Mines_17[right1]
+Improved Mines_04[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_03[right1] at Mines_17[left1]
+New reachable vanilla placement: Mines_06[left1] at Mines_36[right1]
+New reachable randomized location: Deep_Focus
+New reachable vanilla placement: Mines_20[bot1] at Mines_37[top1]
+New reachable randomized location: Geo_Rock-Crystal_Peak_Above_Crushers_Higher
+New reachable randomized location: Geo_Rock-Crystal_Peak_Above_Crushers_Lower
+New reachable waypoint: Defeated_Crystal_Guardian
+Improved Bench-Crystal_Guardian state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_18 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_11[right1] at Mines_18[left1]
+New reachable randomized location: Boss_Geo-Crystal_Guardian
+Improved Mines_13[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_20[left1] at Mines_13[right1]
+Improved Mines_20[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_11[top1] at Mines_13[bot1]
+Improved Mines_02 state to [{NOFLOWER:T}] via evaluation.
+New reachable randomized location: Geo_Rock-Crystal_Peak_Lower_Middle
+Improved Mines_04 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_17[right1] at Mines_04[left1]
+Improved Mines_18[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_18[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_32[bot1] at Mines_18[top1]
+Improved Mines_32[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_20[left2] at Mines_18[right1]
+Improved Mines_20[left2] state to [{NOFLOWER:T}] via transmission.
+Improved Mines_20 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_13[right1] at Mines_20[left1]
+Improved Mines_02[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_02[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_02[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_01[bot1] at Mines_02[top1]
+Improved Mines_01[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_03[bot1] at Mines_02[top2]
+New reachable vanilla placement: Mines_33[right1] at Mines_02[left1]
+Improved Mines_33[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_29[left1] at Mines_02[right1]
+Improved Mines_29[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crystal_Peak_Lower_Conveyer_2
+New reachable randomized location: Geo_Rock-Crystal_Peak_Lower_Conveyer_1
+Improved Mines_04[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_04[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_04[left3] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_07[left1] at Mines_04[right1]
+Improved Mines_07[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_29[right1] at Mines_04[left2]
+Improved Mines_29[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_29[right2] at Mines_04[left3]
+Improved Mines_29[right2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Crystal_Peak_Before_Dark_Room_Dupe
+New reachable randomized location: Geo_Rock-Crystal_Peak_Before_Dark_Room
+New reachable vanilla placement: Mines_18[top1] at Mines_32[bot1]
+New reachable vanilla placement: Mines_18[right1] at Mines_20[left2]
+Improved Mines_20[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_20[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_23[left1] at Mines_20[right1]
+Improved Mines_23[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_31[left1] at Mines_20[right2]
+Improved Mines_31[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Wanderer's_Journal-Crystal_Peak_Crawlers
+New reachable randomized location: Geo_Rock-Crystal_Peak_Conga_Line
+New reachable vanilla placement: Mines_02[top1] at Mines_01[bot1]
+New reachable randomized location: Rancid_Egg-Crystal_Peak_Dive_Entrance
+New reachable vanilla placement: Mines_02[left1] at Mines_33[right1]
+Improved Bench-Peak_Dark_Room state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_02[right1] at Mines_29[left1]
+New reachable vanilla placement: Mines_04[left2] at Mines_29[right1]
+New reachable vanilla placement: Mines_04[left3] at Mines_29[right2]
+New reachable randomized location: Rancid_Egg-Crystal_Peak_Dark_Room
+New reachable vanilla placement: Mines_04[right1] at Mines_07[left1]
+Improved Mines_23 state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_23[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_23[right2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_20[right1] at Mines_23[left1]
+New reachable vanilla placement: Mines_25[left1] at Mines_23[right1]
+Improved Mines_25[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_24[left1] at Mines_23[right2]
+Improved Mines_24[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Mines_31 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_20[right2] at Mines_31[left1]
+New reachable randomized location: Crystal_Heart
+New reachable randomized location: Geo_Rock-Crystal_Peak_Before_Crystal_Heart
+New reachable randomized location: Soul_Totem-Crystal_Heart_2
+New reachable randomized location: Grub-Crystal_Heart
+Improved Mines_25[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_23[right1] at Mines_25[left1]
+New reachable vanilla placement: Mines_34[bot1] at Mines_25[top1]
+Improved Mines_34[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Hallownest_Crown_Hidden
+New reachable randomized location: Geo_Rock-Hallownest_Crown_Hidden_Dupe_1
+New reachable randomized location: Geo_Rock-Hallownest_Crown_Hidden_Dupe_2
+New reachable vanilla placement: Mines_23[right2] at Mines_24[left1]
+New reachable randomized location: Grub-Hallownest_Crown
+New reachable randomized location: Soul_Totem-Crystal_Heart_1
+Improved Mines_34[bot2] state to [{NOFLOWER:T}] via evaluation.
+Improved Mines_34[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Mines_25[top1] at Mines_34[bot1]
+New reachable vanilla placement: Mines_23[top1] at Mines_34[bot2]
+Improved Mines_23[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Mines_13[top1] at Mines_34[left1]
+Improved Mines_13[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Pale_Ore-Crystal_Peak
+Adding randomized item obtained from Geo_Rock-Cliffs_Main_3 to progression: Soul_Totem-C
+Adding randomized item obtained from Lore_Tablet-Howling_Cliffs to progression: Deep_Focus
+Adding randomized item obtained from Geo_Rock-Cliffs_Main_4 to progression: Charm_Notch
+Adding randomized item obtained from King's_Idol-Cliffs to progression: Geo_Rock-Default
+Adding randomized item obtained from Geo_Rock-Crossroads_Aspid_Arena_Dupe_2 to progression: Grimmkin_Flame
+Adding randomized item obtained from Geo_Rock-Crossroads_Aspid_Arena_Dupe_1 to progression: Grub
+Adding randomized item obtained from Geo_Rock-Crossroads_Aspid_Arena to progression: Geo_Rock-Default
+Adding randomized item obtained from Leg_Eater to progression: Geo_Rock-City
+Adding randomized item obtained from Leg_Eater to progression: Geo_Rock-Default
+Adding randomized item obtained from Leg_Eater to progression: Geo_Rock-Default
+Adding randomized item obtained from Leg_Eater to progression: Geo_Rock-Default
+Adding randomized item obtained from Geo_Rock-Fungal_Above_Cloth to progression: Geo_Rock-GreenPath02
+Adding randomized item obtained from Geo_Rock-Fungal_After_Cloth to progression: King's_Station_Stag
+Improved Ruins2_08[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_06[right1] at Ruins2_08[left1]
+Improved Ruins2_06[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: King's_Station_Stag
+Improved Bench-King's_Station state to [{NOFLOWER:T}] via evaluation.
+New reachable randomized location: Hallownest_Seal-King's_Station
+Improved Ruins2_06[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_06[left2] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_06[right2] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_06[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_04[right1] at Ruins2_06[left1]
+Improved Ruins2_04[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_04[right2] at Ruins2_06[left2]
+Improved Ruins2_04[right2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_08[left1] at Ruins2_06[right1]
+New reachable vanilla placement: Ruins2_07[left1] at Ruins2_06[right2]
+Improved Ruins2_07[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_05[bot1] at Ruins2_06[top1]
+Improved Ruins2_05[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-King's_Station
+Improved Ruins2_04 state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_04[door_Ruin_House_01] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_04[door_Ruin_House_02] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_06[left1] at Ruins2_04[right1]
+New reachable vanilla placement: Ruins_House_01[left1] at Ruins2_04[door_Ruin_House_01]
+Improved Ruins_House_01[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins_House_02[left1] at Ruins2_04[door_Ruin_House_02]
+Improved Ruins_House_02[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_06[left2] at Ruins2_04[right2]
+New reachable vanilla placement: Ruins2_06[right2] at Ruins2_07[left1]
+Improved Ruins2_05[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_05[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_10b[right2] at Ruins2_05[left1]
+Improved Ruins2_10b[right2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_09[bot1] at Ruins2_05[top1]
+Improved Ruins2_09[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_06[top1] at Ruins2_05[bot1]
+New reachable randomized location: Wanderer's_Journal-King's_Station
+New reachable randomized location: Geo_Rock-Above_King's_Station
+Improved Ruins2_04[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_04[left2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_01_b[right1] at Ruins2_04[left1]
+Improved Ruins2_01_b[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Abyss_01[right1] at Ruins2_04[left2]
+Improved Abyss_01[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_04[door_Ruin_House_01] at Ruins_House_01[left1]
+New reachable randomized location: Grub-City_of_Tears_Guarded
+New reachable vanilla placement: Ruins2_04[door_Ruin_House_02] at Ruins_House_02[left1]
+New reachable randomized location: Boss_Geo-Gorgeous_Husk
+Improved Ruins2_10b[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Deepnest_East_09[left1] at Ruins2_10b[right1]
+Improved Deepnest_East_09[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_05[left1] at Ruins2_10b[right2]
+New reachable vanilla placement: Ruins2_05[top1] at Ruins2_09[bot1]
+Improved Ruins2_01_b state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_04[left1] at Ruins2_01_b[right1]
+Improved Abyss_01 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_04[left2] at Abyss_01[right1]
+New reachable randomized location: Geo_Rock-Broken_Elevator_3
+New reachable randomized location: Geo_Rock-Broken_Elevator_2
+New reachable randomized location: Geo_Rock-Broken_Elevator_1
+New reachable vanilla placement: Ruins2_10b[right1] at Deepnest_East_09[left1]
+Improved Ruins2_01_b[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_01_b[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_01[bot1] at Ruins2_01_b[top1]
+Improved Ruins2_01[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_27[right1] at Ruins2_01_b[left1]
+Improved Ruins1_27[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Abyss_01[left3] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_02[right1] at Abyss_01[left3]
+Improved Abyss_02[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins2_01 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_01_b[top1] at Ruins2_01[bot1]
+New reachable randomized location: Geo_Rock-Watcher's_Spire
+New reachable waypoint: Lever-City_Fountain
+Improved Ruins1_27[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05b[right1] at Ruins1_27[left1]
+Improved Ruins1_05b[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_01_b[left1] at Ruins1_27[right1]
+Improved Abyss_02[bot1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_01[left3] at Abyss_02[right1]
+New reachable vanilla placement: Abyss_03[top1] at Abyss_02[bot1]
+Improved Abyss_03[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Wanderer's_Journal-Ancient_Basin
+New reachable randomized location: Geo_Rock-Broken_Bridge_Lower
+New reachable randomized location: Geo_Rock-Broken_Bridge_Lower_Dupe
+New reachable randomized location: Geo_Rock-Broken_Bridge_Upper
+Improved Ruins2_01[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_01[left2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_03b[bot1] at Ruins2_01[top1]
+Improved Ruins2_03b[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_18[right2] at Ruins2_01[left2]
+Improved Ruins1_18[right2] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins1_05b state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_27[left1] at Ruins1_05b[right1]
+Improved Abyss_03 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_02[bot1] at Abyss_03[top1]
+Improved Ruins2_03b state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_01[top1] at Ruins2_03b[bot1]
+Improved Bench-Watcher's_Spire state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_01[left2] at Ruins1_18[right2]
+Improved Ruins1_05b[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_03[right2] at Ruins1_05b[left1]
+Improved Ruins1_03[right2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-City_of_Tears_Lemm
+Improved Abyss_03[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Abyss_03[bot2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_17[top1] at Abyss_03[bot1]
+Improved Abyss_17[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Abyss_04[top1] at Abyss_03[bot2]
+Improved Abyss_04[top1] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins2_03b[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_03b[top2] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins2_03b[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins2_03[bot1] at Ruins2_03b[top1]
+Improved Ruins2_03[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_03[bot2] at Ruins2_03b[top2]
+Improved Ruins2_03[bot2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_18[right1] at Ruins2_03b[left1]
+Improved Ruins1_18[right1] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins1_03 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05b[left1] at Ruins1_03[right2]
+New reachable vanilla placement: Abyss_03[bot1] at Abyss_17[top1]
+New reachable randomized location: Pale_Ore-Basin
+Improved Abyss_04 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_03[bot2] at Abyss_04[top1]
+New reachable randomized location: Ancient_Basin_Map
+New reachable randomized location: Soul_Totem-Basin
+New reachable vanilla placement: Ruins2_03b[top1] at Ruins2_03[bot1]
+New reachable vanilla placement: Ruins2_03b[top2] at Ruins2_03[bot2]
+New reachable randomized location: Grub-Watcher's_Spire
+Improved Ruins1_18[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05[right2] at Ruins1_18[left1]
+Improved Ruins1_05[right2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins2_03b[left1] at Ruins1_18[right1]
+Improved Ruins1_03[top1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_03[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_03[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_02[bot1] at Ruins1_03[top1]
+Improved Ruins1_02[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_04[right1] at Ruins1_03[left1]
+Improved Ruins1_04[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_05c[left2] at Ruins1_03[right1]
+Improved Ruins1_05c[left2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-City_of_Tears_Quirrel
+New reachable randomized location: Hallownest_Seal-City_Rafters
+Improved Abyss_04[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Abyss_04[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Abyss_04[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_18[right1] at Abyss_04[left1]
+Improved Abyss_18[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Abyss_06_Core[top1] at Abyss_04[bot1]
+Improved Abyss_06_Core[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Abyss_05[left1] at Abyss_04[right1]
+Improved Abyss_05[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins1_05 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_18[left1] at Ruins1_05[right2]
+Improved Bench-Quirrel state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_02[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_01[bot1] at Ruins1_02[top1]
+Improved Ruins1_01[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_03[top1] at Ruins1_02[bot1]
+New reachable randomized location: Lore_Tablet-City_Entrance
+Improved Ruins1_04[door1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_03[left1] at Ruins1_04[right1]
+New reachable vanilla placement: Room_nailsmith[left1] at Ruins1_04[door1]
+Improved Room_nailsmith[left1] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins1_05c state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_03[right1] at Ruins1_05c[left2]
+Improved Bench-Basin_Toll state to [{NOFLOWER:T}] via evaluation.
+Improved Abyss_18[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_19[right1] at Abyss_18[left1]
+Improved Abyss_19[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Abyss_04[left1] at Abyss_18[right1]
+New reachable randomized location: Geo_Rock-Basin_Tunnel
+New reachable vanilla placement: Abyss_04[bot1] at Abyss_06_Core[top1]
+New reachable randomized location: Lore_Tablet-Ancient_Basin
+Improved Abyss_05 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_04[right1] at Abyss_05[left1]
+Improved Ruins1_05[bot3] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_05[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_05[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05c[top3] at Ruins1_05[bot3]
+Improved Ruins1_05c[top3] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_09[left1] at Ruins1_05[right1]
+Improved Ruins1_09[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_31[bot1] at Ruins1_05[top1]
+Improved Ruins1_31[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Grub-City_of_Tears_Left
+Improved Ruins1_01[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_01[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Fungus2_21[right1] at Ruins1_01[left1]
+Improved Fungus2_21[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_17[bot1] at Ruins1_01[top1]
+Improved Ruins1_17[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_02[top1] at Ruins1_01[bot1]
+New reachable vanilla placement: Ruins1_04[door1] at Room_nailsmith[left1]
+Improved Ruins1_05c[bot1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_05c[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05b[top1] at Ruins1_05c[bot1]
+Improved Ruins1_05b[top1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_05[bot1] at Ruins1_05c[top1]
+Improved Ruins1_05[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-City_of_Tears_Above_Lemm
+New reachable randomized location: Rancid_Egg-City_of_Tears_Left
+Improved Abyss_19 state to [{NOFLOWER:T}] via evaluation.
+Improved Abyss_19[bot2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_18[left1] at Abyss_19[right1]
+New reachable vanilla placement: Abyss_20[top2] at Abyss_19[bot2]
+Improved Abyss_20[top2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Geo_Rock-Basin_Before_Broken_Vessel
+Improved Abyss_05[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_22[left1] at Abyss_05[right1]
+Improved Abyss_22[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_05[bot3] at Ruins1_05c[top3]
+Improved Ruins1_09[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_23[bot1] at Ruins1_09[top1]
+Improved Ruins1_23[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_05[right1] at Ruins1_09[left1]
+Improved Ruins1_31[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05[top1] at Ruins1_31[bot1]
+New reachable vanilla placement: Ruins1_06[right1] at Ruins1_31[left1]
+Improved Ruins1_06[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: City_of_Tears_Map
+New reachable vanilla placement: Ruins1_01[left1] at Fungus2_21[right1]
+New reachable randomized location: Geo_Rock-Fungal_Above_City_Entrance
+New reachable vanilla placement: Ruins1_01[top1] at Ruins1_17[bot1]
+New reachable waypoint: Can_Visit_Lemm
+New reachable vanilla placement: Ruins1_05c[bot1] at Ruins1_05b[top1]
+Improved Ruins1_05[bot2] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_05c[top1] at Ruins1_05[bot1]
+New reachable vanilla placement: Ruins1_05c[top2] at Ruins1_05[bot2]
+Improved Ruins1_05c[top2] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Grub-Basin_Requires_Wings
+New reachable randomized location: Geo_Rock-Basin_Grub
+Improved Abyss_20[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_19[bot1] at Abyss_20[top1]
+Improved Abyss_19[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Abyss_19[bot2] at Abyss_20[top2]
+New reachable randomized location: Simple_Key-Basin
+Improved Bench-Hidden_Station state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Abyss_05[right1] at Abyss_22[left1]
+New reachable randomized location: Hidden_Station_Stag
+Improved Ruins1_23 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_09[top1] at Ruins1_23[bot1]
+Improved Bench-City_Toll state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_06[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_17[right1] at Ruins1_06[left1]
+Improved Ruins1_17[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_31[left1] at Ruins1_06[right1]
+New reachable vanilla placement: Ruins1_05[bot2] at Ruins1_05c[top2]
+New reachable vanilla placement: Abyss_20[top1] at Abyss_19[bot1]
+New reachable waypoint: Defeated_Sanctum_Warrior
+Improved Ruins1_23[right1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_23[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_25[left2] at Ruins1_23[right1]
+Improved Ruins1_25[left2] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_31[right1] at Ruins1_23[left1]
+Improved Ruins1_31[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Lore_Tablet-Sanctum_Entrance
+New reachable randomized location: Boss_Geo-Sanctum_Soul_Warrior
+Improved Ruins1_17[top1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_28[bot1] at Ruins1_17[top1]
+Improved Ruins1_28[bot1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_06[left1] at Ruins1_17[right1]
+New reachable randomized location: Simple_Key-City
+Improved Ruins1_25[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_25[left3] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_30[right1] at Ruins1_25[left1]
+Improved Ruins1_30[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_23[right1] at Ruins1_25[left2]
+New reachable vanilla placement: Ruins1_23[right2] at Ruins1_25[left3]
+Improved Ruins1_23[right2] state to [{NOFLOWER:T}] via transmission.
+Improved Ruins1_31 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_23[left1] at Ruins1_31[right1]
+Improved Ruins1_28 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_17[top1] at Ruins1_28[bot1]
+Improved Ruins1_30 state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_25[left1] at Ruins1_30[right1]
+New reachable vanilla placement: Ruins1_25[left3] at Ruins1_23[right2]
+Improved Ruins1_28[left1] state to [{NOFLOWER:T}] via evaluation.
+Improved Ruins1_28[right1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Crossroads_49b[right1] at Ruins1_28[left1]
+Improved Crossroads_49b[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_29[left1] at Ruins1_28[right1]
+Improved Ruins1_29[left1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Wanderer's_Journal-City_Storerooms
+Improved Ruins1_30[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_24[right1] at Ruins1_30[left1]
+Improved Ruins1_24[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable randomized location: Spell_Twister
+New reachable vanilla placement: Ruins1_28[left1] at Crossroads_49b[right1]
+New reachable randomized location: Elevator_Pass
+Improved Bench-City_Storerooms state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_28[right1] at Ruins1_29[left1]
+New reachable randomized location: City_Storerooms_Stag
+New reachable waypoint: Defeated_Soul_Master
+Improved Ruins1_24[left1] state to [{NOFLOWER:T}] via evaluation.
+New reachable vanilla placement: Ruins1_32[right1] at Ruins1_24[left1]
+Improved Ruins1_32[right1] state to [{NOFLOWER:T}] via transmission.
+New reachable vanilla placement: Ruins1_30[left1] at Ruins1_24[right1]
+New reachable randomized location: Desolate_Dive
+New reachable vanilla placement: Ruins1_24[left1] at Ruins1_32[right1]
+New reachable randomized location: Geo_Chest-Soul_Master
+New reachable randomized location: Soul_Totem-Sanctum_Below_Chest
+Adding randomized item obtained from Lore_Tablet-Pilgrim's_Way_2 to progression: Mask_Shard
+Adding randomized item obtained from Grub-Fungal_Bouncy to progression: Soul_Totem-B
+Adding randomized item obtained from Geo_Rock-Fungal_After_Bouncy_Grub_Dupe to progression: Rancid_Egg
+Adding randomized item obtained from Geo_Rock-Fungal_After_Bouncy_Grub to progression: Simple_Key
+Adding randomized item obtained from Wanderer's_Journal-Above_Mantis_Village to progression: Quick_Slash
+Adding randomized item obtained from Geo_Rock-Mantis_Village_Above_Claw to progression: Geo_Rock-City
+Adding randomized item obtained from Mantis_Claw to progression: Lore_Tablet-Kingdom's_Edge
+Adding randomized item obtained from Geo_Rock-Mantis_Village_Above_Claw_Dupe to progression: Hallownest_Seal
+Adding randomized item obtained from Geo_Rock-Mantis_Village_Below_Lore to progression: Rancid_Egg
+Adding randomized item obtained from Lore_Tablet-Mantis_Village to progression: King's_Idol
+Adding randomized item obtained from Geo_Rock-Mantis_Village_Above_Lever to progression: Wanderer's_Journal
+Adding randomized item obtained from Geo_Rock-Mantis_Outskirts_Guarded_Dupe to progression: Geo_Rock-GreenPath01
+Adding randomized item obtained from Geo_Rock-Mantis_Outskirts_Guarded to progression: Mask_Shard
+Adding randomized item obtained from Geo_Rock-Mantis_Outskirts_Alcove to progression: Mark_of_Pride
+Adding randomized item obtained from Dashmaster to progression: Wanderer's_Journal
+Adding randomized item obtained from Geo_Rock-Above_Mantis_Lords_2 to progression: Dream_Wielder
+Adding randomized item obtained from Mark_of_Pride to progression: Whispering_Root-City
+Adding randomized item obtained from Hallownest_Seal-Mantis_Lords to progression: King's_Idol
+Adding randomized item obtained from Geo_Chest-Mantis_Lords to progression: Mask_Shard
+Adding randomized item obtained from Soul_Totem-Fungal_Core to progression: Lore_Tablet-Mantis_Outskirts
+Adding randomized item obtained from Rancid_Egg-Fungal_Core to progression: Geo_Rock-City
+Adding randomized item obtained from Geo_Rock-Deepnest_Lower_Cornifer to progression: Geo_Rock-Default
+Adding randomized item obtained from Geo_Rock-Deepnest_By_Mantis_Lords_1 to progression: Lifeblood_Cocoon_Small
+Adding randomized item obtained from Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1 to progression: Quick_Focus
+Adding randomized item obtained from Geo_Rock-Deepnest_Garpede_1 to progression: Rancid_Egg
+Adding randomized item obtained from Geo_Rock-Deepnest_Garpede_2 to progression: Geo_Rock-Default
+Adding randomized item obtained from Soul_Totem-Deepnest_Vessel to progression: Geo_Rock-Default
+Adding randomized item obtained from Vessel_Fragment-Deepnest to progression: Geo_Rock-Deepnest
+Adding randomized item obtained from Grub-Deepnest_Nosk to progression: Journal_Entry-Void_Tendrils
+Adding randomized item obtained from Geo_Rock-Deepnest_Nosk_1 to progression: Geo_Rock-Mine
+Adding randomized item obtained from Geo_Rock-Deepnest_Nosk_2 to progression: Lore_Tablet-Sanctum_Past_Soul_Master

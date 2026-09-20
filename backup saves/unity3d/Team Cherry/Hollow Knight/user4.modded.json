@@ -1,0 +1,123 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "GG_Atrium",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "GG_Workshop",
+          "RespawnMarkerName": "RestBench (1)"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "CustomKnight": {
+      "DefaultSkin": null
+    },
+    "DebugMod": {},
+    "ItemChangerMod": {
+      "value": null
+    },
+    "MenuChanger": {
+      "resumeKey": null
+    },
+    "Randomizer 4": {
+      "GenerationSettings": null,
+      "ProfileID": -1,
+      "TrackerData": null,
+      "TrackerDataWithoutSequenceBreaks": null
+    },
+    "DeathCounter": {
+      "Deaths": 148,
+      "TotalDamage": 2744
+    },
+    "ArcadeKnight": {
+      "RecordData": [
+        {
+          "CourseName": "Cliffhanger",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 0
+        },
+        {
+          "CourseName": "Ascend!",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 0
+        },
+        {
+          "CourseName": "Elevator",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 0
+        },
+        {
+          "CourseName": "Trust",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 1
+        },
+        {
+          "CourseName": "Never saw that coming",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 1
+        },
+        {
+          "CourseName": "Mawlek buffet",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 1
+        },
+        {
+          "CourseName": "Ghost Gallery",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 2
+        },
+        {
+          "CourseName": "Slugs Tub",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 2
+        },
+        {
+          "CourseName": "Zenith of Art",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 2
+        }
+      ]
+    },
+    "Any Radiance": {
+      "Completion": {
+        "hasBeenSeen": true,
+        "isUnlocked": true,
+        "completedTier1": false,
+        "completedTier2": false,
+        "completedTier3": false,
+        "seenTier3Unlock": false,
+        "usingAltVersion": false
+      },
+      "UsingAltVersion": false,
+      "InBossDoor": false
+    }
+  }
+}

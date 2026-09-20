@@ -1,0 +1,39 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "Town",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_30",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_47",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_ShamanTemple",
+          "RespawnMarkerName": "BoneBench"
+        },
+        {
+          "SceneName": "Fungus1_01b",
+          "RespawnMarkerName": "RestBench"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "DeathCounter": {
+      "Deaths": 13,
+      "TotalDamage": 110
+    }
+  }
+}

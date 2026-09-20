@@ -1,0 +1,31 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="CurArm" type="int">0</pref>
+	<pref name="CurSlo" type="int">2</pref>
+	<pref name="CurVar" type="int">0</pref>
+	<pref name="FirVar" type="int">0</pref>
+	<pref name="FullIntro" type="int">0</pref>
+	<pref name="LasSlo" type="int">1</pref>
+	<pref name="LasVar" type="int">0</pref>
+	<pref name="LevStaOpe" type="int">0</pref>
+	<pref name="LevStaTut" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">2</pref>
+	<pref name="Screenmanager Resolution Height" type="int">600</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">0</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1024</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="Screenmanager Window Position X" type="int">0</pref>
+	<pref name="Screenmanager Window Position Y" type="int">0</pref>
+	<pref name="Slot0Var" type="int">0</pref>
+	<pref name="Slot1Var" type="int">0</pref>
+	<pref name="Slot2Var" type="int">0</pref>
+	<pref name="Slot3Var" type="int">0</pref>
+	<pref name="Slot4Var" type="int">0</pref>
+	<pref name="Slot5Var" type="int">3</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">OTkxZTAzNThkYjg4ZGUyN2U5MzU4ZDhhNDQxNWU5YzM=</pref>
+	<pref name="unity.player_session_count" type="string">MTU=</pref>
+	<pref name="unity.player_sessionid" type="string">MjQwMzU3NjkzNTgzNTE3NTcwMw==</pref>
+</unity_prefs>

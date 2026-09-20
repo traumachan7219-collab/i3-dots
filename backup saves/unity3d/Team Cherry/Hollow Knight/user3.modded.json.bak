@@ -1,0 +1,147 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "DebugMod": {},
+    "CustomKnight": {
+      "DefaultSkin": "Default"
+    },
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "Fungus2_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_26",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_13",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_31",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_29",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_04",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "RestingGrounds_09",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_30",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Town",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_nailmaster",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Crossroads_47",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Mines_29",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Deepnest_East_13",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins2_08",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Waterways_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Colosseum_02",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Tram",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Abyss_22",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus3_archive",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Ruins1_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Tram_RG",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Mines_18",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Deepnest_30",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Room_Final_Boss_Atrium",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_16_alt",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus1_37",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Abyss_18",
+          "RespawnMarkerName": "RestBench"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "ItemChangerMod": {
+      "value": null
+    },
+    "MenuChanger": {
+      "resumeKey": null
+    },
+    "Randomizer 4": {
+      "GenerationSettings": null,
+      "ProfileID": -1,
+      "TrackerData": null,
+      "TrackerDataWithoutSequenceBreaks": null
+    },
+    "DeathCounter": {
+      "Deaths": 193,
+      "TotalDamage": 2062
+    }
+  }
+}

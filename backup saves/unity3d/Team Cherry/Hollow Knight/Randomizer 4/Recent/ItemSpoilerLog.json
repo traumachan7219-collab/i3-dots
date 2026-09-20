@@ -1,0 +1,2880 @@
+[
+  {
+    "item": "330_Geo",
+    "location": "Start"
+  },
+  {
+    "item": "Queen's_Gardens_Stag",
+    "location": "Soul_Totem-Ancestral_Mound"
+  },
+  {
+    "item": "Shopkeeper's_Key",
+    "location": "Crossroads_Map",
+    "costs": [
+      "LogicGeoCost {30 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {335 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Fury_of_the_Fallen"
+  },
+  {
+    "item": "Grub",
+    "location": "Queen's_Gardens_Stag",
+    "costs": [
+      "LogicGeoCost {200 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Crossroads_Goam_Alcove"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Crossroads_Aspid_Arena_Dupe_1"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Crossroads_Well"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Ancestral_Mound_Dupe"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Chest-False_Knight"
+  },
+  {
+    "item": "Mantis_Claw",
+    "location": "Soul_Totem-Crossroads_Mawlek_Upper"
+  },
+  {
+    "item": "Defender's_Crest",
+    "location": "Grub-Crossroads_Acid"
+  },
+  {
+    "item": "Lifeblood_Core",
+    "location": "Soul_Totem-Crossroads_Shops"
+  },
+  {
+    "item": "Wayward_Compass",
+    "location": "Lore_Tablet-King's_Pass_Focus"
+  },
+  {
+    "item": "Stalwart_Shell",
+    "location": "Grub-Greenpath_Cornifer"
+  },
+  {
+    "item": "Sharp_Shadow",
+    "location": "Geo_Rock-Greenpath_Toll_Hidden_Dupe"
+  },
+  {
+    "item": "Dream_Nail",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {410 Geo}",
+      "{CHARMS >= 3}"
+    ]
+  },
+  {
+    "item": "Shade_Cloak",
+    "location": "Geo_Rock-Greenpath_Above_Thorns"
+  },
+  {
+    "item": "City_Crest",
+    "location": "Thorns_of_Agony"
+  },
+  {
+    "item": "Abyss_Shriek",
+    "location": "Rancid_Egg-City_of_Tears_Left"
+  },
+  {
+    "item": "Stag_Nest_Stag",
+    "location": "Boss_Essence-Elder_Hu"
+  },
+  {
+    "item": "Elevator_Pass",
+    "location": "Vessel_Fragment-Stag_Nest"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-City_of_Tears_Above_Lemm"
+  },
+  {
+    "item": "Grub",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {465 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Above_Mask_Maker_2"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-City_of_Tears_Lemm"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-City_of_Tears_Left"
+  },
+  {
+    "item": "Grub",
+    "location": "City_of_Tears_Map",
+    "costs": [
+      "LogicGeoCost {90 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Chest-Soul_Master"
+  },
+  {
+    "item": "Grub",
+    "location": "Whispering_Root-Crossroads"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Greenpath_Skip_Squit"
+  },
+  {
+    "item": "Dreamshield",
+    "location": "Geo_Rock-Crossroads_Vessel_Fragment"
+  },
+  {
+    "item": "Steady_Body",
+    "location": "Wanderer's_Journal-City_Storerooms"
+  },
+  {
+    "item": "Mark_of_Pride",
+    "location": "Geo_Rock-Mantis_Outskirts_Alcove"
+  },
+  {
+    "item": "Grubsong",
+    "location": "Geo_Rock-Crossroads_Above_False_Knight"
+  },
+  {
+    "item": "Deep_Focus",
+    "location": "Lore_Tablet-Howling_Cliffs"
+  },
+  {
+    "item": "Quick_Focus",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1"
+  },
+  {
+    "item": "Shaman_Stone",
+    "location": "Geo_Rock-Fungal_Below_Shrumal_Ogres"
+  },
+  {
+    "item": "Dream_Wielder",
+    "location": "Geo_Rock-Above_Mantis_Lords_2"
+  },
+  {
+    "item": "Heavy_Blow",
+    "location": "Lifeblood_Cocoon-Greenpath"
+  },
+  {
+    "item": "Sprintmaster",
+    "location": "Grub-Fungal_Spore_Shroom"
+  },
+  {
+    "item": "Grubberfly's_Elegy",
+    "location": "Whispering_Root-City"
+  },
+  {
+    "item": "Spore_Shroom",
+    "location": "Baldur_Shell"
+  },
+  {
+    "item": "Unbreakable_Heart",
+    "location": "Lore_Tablet-Fungal_Wastes_Hidden",
+    "costs": [
+      "{Spore_Shroom >= 1}"
+    ]
+  },
+  {
+    "item": "Lumafly_Lantern",
+    "location": "Greenpath_Stag",
+    "costs": [
+      "LogicGeoCost {140 Geo}"
+    ]
+  },
+  {
+    "item": "Boss_Essence-No_Eyes",
+    "location": "Geo_Rock-Crossroads_Root_Dupe_2"
+  },
+  {
+    "item": "Whispering_Root-Deepnest",
+    "location": "Geo_Rock-King's_Pass_Below_Fury"
+  },
+  {
+    "item": "Boss_Essence-Lost_Kin",
+    "location": "Simple_Key-City"
+  },
+  {
+    "item": "Whispering_Root-City",
+    "location": "Mark_of_Pride"
+  },
+  {
+    "item": "Boss_Essence-Elder_Hu",
+    "location": "Geo_Rock-Crossroads_Root_Dupe_1"
+  },
+  {
+    "item": "Boss_Essence-Markoth",
+    "location": "Geo_Rock-Beast's_Den_Bottom_Dupe"
+  },
+  {
+    "item": "Whispering_Root-Crossroads",
+    "location": "Boss_Essence-Marmu"
+  },
+  {
+    "item": "Grub",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 884}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Rancid_Egg-Beast's_Den"
+  },
+  {
+    "item": "Unbreakable_Greed",
+    "location": "Geo_Rock-Crystal_Peak_Above_Crushers_Lower"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Rock-Crystal_Peak_Lower_Middle"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Mask_Shard-Stone_Sanctuary"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Spore_Shroom"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Rock-Greenpath_Below_Stag_Fool_Eater"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Hallownest_Seal-Crossroads_Well"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Lore_Tablet-Greenpath_Below_Toll"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Fungal_After_Bouncy_Grub_Dupe"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Crossroads_Mawlek_Lower"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Lore_Tablet-Greenpath_QG"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Chest-Greenpath"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Mantis_Village_Below_Lore"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Waterways_Tuk"
+  },
+  {
+    "item": "Grub",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 2}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Soul_Totem-Top_Left_Waterways"
+  },
+  {
+    "item": "Grub",
+    "location": "Hallownest_Seal-Beast's_Den"
+  },
+  {
+    "item": "Grub",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 598}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Beast's_Den_Bottom"
+  },
+  {
+    "item": "Longnail",
+    "location": "Shopkeeper's_Key"
+  },
+  {
+    "item": "Fury_of_the_Fallen",
+    "location": "Geo_Rock-Crystal_Peak_Before_Dark_Room_Dupe"
+  },
+  {
+    "item": "Glowing_Womb",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 609}"
+    ]
+  },
+  {
+    "item": "Crystal_Heart",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 341}"
+    ]
+  },
+  {
+    "item": "Descending_Dark",
+    "location": "Whispering_Root-Waterways"
+  },
+  {
+    "item": "Herrah",
+    "location": "Geo_Chest-Junk_Pit_1"
+  },
+  {
+    "item": "Monomon",
+    "location": "Hallownest_Seal-Soul_Sanctum"
+  },
+  {
+    "item": "Lurien",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 23}"
+    ]
+  },
+  {
+    "item": "Howling_Wraiths",
+    "location": "Geo_Chest-Junk_Pit_2"
+  },
+  {
+    "item": "Elegant_Key",
+    "location": "Geo_Rock-Basin_Tunnel"
+  },
+  {
+    "item": "Monarch_Wings",
+    "location": "Shade_Soul"
+  },
+  {
+    "item": "Grimmchild1",
+    "location": "Mask_Shard-Deepnest"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "King's_Station_Stag",
+    "costs": [
+      "LogicGeoCost {300 Geo}"
+    ]
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Soul_Totem-Waterways_Entrance"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Geo_Rock-Greenpath_Second_Skip_Fool_Eater"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Geo_Rock-Hallownest_Crown_Hidden_Dupe_1"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Descending_Dark"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Wanderer's_Journal-Ancient_Basin"
+  },
+  {
+    "item": "Swim",
+    "location": "Grimmkin_Flame-Fungal_Core"
+  },
+  {
+    "item": "Love_Key",
+    "location": "Boss_Essence-Lost_Kin"
+  },
+  {
+    "item": "King's_Brand",
+    "location": "Grub-Collector_1"
+  },
+  {
+    "item": "Void_Heart",
+    "location": "Grimmkin_Flame-Resting_Grounds"
+  },
+  {
+    "item": "Queen_Fragment",
+    "location": "Great_Slash"
+  },
+  {
+    "item": "Fragile_Strength",
+    "location": "Soul_Totem-420_Geo_Rock"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Whispering_Root-Kingdoms_Edge"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Lore_Tablet-World_Sense"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Broken_Bridge_Upper"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Lore_Tablet-Dung_Defender"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Boss_Geo-Crystal_Guardian"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Mask_Maker"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Crystal_Heart_2"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Boss_Essence-Galien"
+  },
+  {
+    "item": "Isma's_Tear",
+    "location": "Rancid_Egg-Upper_Kingdom's_Edge"
+  },
+  {
+    "item": "Vengeful_Spirit",
+    "location": "Soul_Totem-Oro_Dive_1"
+  },
+  {
+    "item": "Mothwing_Cloak",
+    "location": "Charm_Notch-Fog_Canyon"
+  },
+  {
+    "item": "Tram_Pass",
+    "location": "Void_Heart",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Great_Slash",
+    "location": "Geo_Rock-Lower_Kingdom's_Edge_Dive"
+  },
+  {
+    "item": "Dash_Slash",
+    "location": "Sharp_Shadow"
+  },
+  {
+    "item": "Cyclone_Slash",
+    "location": "Joni's_Blessing"
+  },
+  {
+    "item": "Dream_Gate",
+    "location": "Geo_Rock-Hive_After_Root"
+  },
+  {
+    "item": "Awoken_Dream_Nail",
+    "location": "Geo_Rock-Hallownest_Crown_Dive"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Crossroads_Stag",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {100 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-Pleasure_House",
+    "location": "Geo_Rock-Crossroads_Before_Fungal_Dupe_2"
+  },
+  {
+    "item": "Lore_Tablet-Spore_Shroom",
+    "location": "Geo_Rock-King's_Pass_Hidden"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Geo_Rock-King's_Pass_Left"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Lifeblood_Cocoon-King's_Pass"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Geo_Rock-Crossroads_Before_Fungal"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {185 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Boss_Geo-Gruz_Mother"
+  },
+  {
+    "item": "Geo_Rock-GreenPath02",
+    "location": "Geo_Rock-King's_Pass_Above_Fury"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-Howling_Cliffs",
+    "location": "Lore_Tablet-King's_Pass_Fury"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "City_Crest"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-Ancient_Basin",
+    "location": "Vengeful_Spirit"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Geo_Rock-Ancestral_Mound"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Geo_Rock-Crossroads_Before_Fungal_Dupe_1"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Grub-Crossroads_Stag"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 3}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lifeblood_Cocoon-Ancestral_Mound"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Crossroads_Stag",
+    "costs": [
+      "LogicGeoCost {50 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Dirtmouth_Stag"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {1010 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Chest-Crystal_Peak",
+    "location": "Geo_Rock-King's_Pass_Collapse"
+  },
+  {
+    "item": "Kingdom's_Edge_Map",
+    "location": "Geo_Rock-Crossroads_Above_Lever"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Crossroads_Aspid_Arena"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Crossroads_Below_Goam_Mask_Shard"
+  },
+  {
+    "item": "Greenpath_Map",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 6}"
+    ]
+  },
+  {
+    "item": "City_of_Tears_Map",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {210 Geo}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Fungal_Wastes_Map",
+    "costs": [
+      "LogicGeoCost {75 Geo}"
+    ]
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_1"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {555 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Geo_Rock-Cliffs_Main_3"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Dashmaster"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {445 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lore_Tablet-Mantis_Outskirts"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Large",
+    "location": "Geo_Rock-Deepnest_Spike_Grub_Right"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_3",
+    "location": "Charm_Notch-Shrumal_Ogres"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Hallownest_Seal-Fog_Canyon_West"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Geo_Rock-Greenpath_Second_Skip_Lower"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_3"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Boss_Geo-Vengefly_King"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grub-Greenpath_Stag"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Queen's_Station_Stag",
+    "costs": [
+      "LogicGeoCost {120 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Journal_Entry-Garpede",
+    "location": "Geo_Rock-Greenpath_Hunter's_Journal"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Geo_Rock-Fungal_After_Cornifer"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Deepnest_Map-Upper",
+    "costs": [
+      "LogicGeoCost {38 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Greenpath_Obbles_Fool_Eater"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Rock-Deepnest_Below_Spike_Grub_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Abyss",
+    "location": "Geo_Rock-Fungal_Bouncy_Grub_Lever"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Mantis_Outskirts_Guarded"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Whispering_Root-Mantis_Village"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Lore_Tablet-Greenpath_Lifeblood"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Cliffs_Main_2"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Large",
+    "location": "Grub-Greenpath_Journal"
+  },
+  {
+    "item": "Deepnest_Map",
+    "location": "Geo_Rock-Love_Key"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Soul_Totem-Top_Left_Queen's_Gardens"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Large",
+    "location": "Geo_Rock-Above_Mask_Maker_1"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Geo_Rock-Fungal_Above_City_Entrance"
+  },
+  {
+    "item": "Geo_Rock-Abyss",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {1 Geo}",
+      "{CHARMS >= 1}"
+    ]
+  },
+  {
+    "item": "Resting_Grounds_Map",
+    "location": "Geo_Rock-Deepnest_Below_Mimics_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Hunter's_Journal"
+  },
+  {
+    "item": "Crossroads_Map",
+    "location": "City_Storerooms_Stag",
+    "costs": [
+      "LogicGeoCost {200 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-E",
+    "location": "Geo_Rock-Greenpath_MMC"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Hallownest_Seal-Mantis_Lords"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Greenpath_After_MMC"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Lore_Tablet-Mantis_Village"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Queen's_Gardens_Map",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Godtuner",
+    "location": "Geo_Rock-City_of_Tears_Quirrel"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-Pilgrim's_Way_1",
+    "location": "Whispering_Root-Greenpath"
+  },
+  {
+    "item": "Lore_Tablet-Palace_Workshop",
+    "location": "Vessel_Fragment-Greenpath"
+  },
+  {
+    "item": "Geo_Rock-GreenPath02",
+    "location": "Geo_Rock-Fungal_Above_Cloth"
+  },
+  {
+    "item": "Geo_Rock-GreenPath02",
+    "location": "Hallownest_Seal-City_Rafters"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "King's_Idol-Cliffs"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Mask_Shard-Queen's_Station"
+  },
+  {
+    "item": "Geo_Rock-Fung02",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_2"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Deepnest_Map-Right",
+    "costs": [
+      "LogicGeoCost {38 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-Deepnest_Vessel"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Geo_Rock-Greenpath_Below_Stag"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Geo_Rock-Greenpath_After_MMC_Dupe"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {1310 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Deepnest_Lower_Cornifer"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Soul_Totem-Below_Marmu"
+  },
+  {
+    "item": "Soul_Totem-G",
+    "location": "Soul_Totem-Crossroads_Goam_Journal"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Geo_Rock-Fungal_Below_Pilgrim's_Way"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Mask_Shard-Crossroads_Goam"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Geo_Rock-Baldur_Shell_Alcove"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 15}"
+    ]
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Greenpath_Second_Skip_Fool_Eater_Dupe"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Lore_Tablet-Pilgrim's_Way_2"
+  },
+  {
+    "item": "Lore_Tablet-City_Entrance",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo_Dupe"
+  },
+  {
+    "item": "Lore_Tablet-King's_Pass_Fury",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {1 Geo}",
+      "{CHARMS >= 13}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Deepnest_Below_Mimics"
+  },
+  {
+    "item": "Monarch_Wings",
+    "location": "Howling_Cliffs_Map",
+    "costs": [
+      "LogicGeoCost {75 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Rock-Mantis_Village_Above_Claw_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Fung02",
+    "location": "Elevator_Pass",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Geo_Rock-Cliffs_Main_4"
+  },
+  {
+    "item": "Geo_Rock-Abyss",
+    "location": "Geo_Rock-Greenpath_Below_Toll"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Grub-Crossroads_Center"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Soul_Totem-Greenpath_MMC"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Lore_Tablet-Spore_Shroom",
+    "costs": [
+      "{Spore_Shroom >= 1}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Lore_Tablet-Fungal_Wastes_Below_Shrumal_Ogres",
+    "costs": [
+      "{Spore_Shroom >= 1}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Geo_Rock-Greenpath_Below_Hornet"
+  },
+  {
+    "item": "Journal_Entry-Charged_Lumafly",
+    "location": "Geo_Rock-Greenpath_Waterfall"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Lore_Tablet-City_Entrance"
+  },
+  {
+    "item": "Journal_Entry-Seal_of_Binding",
+    "location": "Geo_Rock-Queen's_Gardens_Above_Marmu"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Rancid_Egg-Queen's_Gardens"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "King's_Idol-Deepnest"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Whispering_Root-Howling_Cliffs"
+  },
+  {
+    "item": "Fog_Canyon_Map",
+    "location": "Lifeblood_Cocoon-Fog_Canyon_West"
+  },
+  {
+    "item": "Lore_Tablet-Palace_Throne",
+    "location": "Wanderer's_Journal-Greenpath_Lower"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Cliffs_Main"
+  },
+  {
+    "item": "Geo_Chest-False_Knight",
+    "location": "Geo_Rock-Moss_Prophet"
+  },
+  {
+    "item": "Geo_Chest-Mantis_Lords",
+    "location": "Geo_Rock-Greenpath_Toll_Hidden"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Before_Pilgrim's_Way"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Boss_Geo-Massive_Moss_Charger"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Desolate_Dive"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Hallownest_Seal-Greenpath"
+  },
+  {
+    "item": "Isma's_Tear",
+    "location": "Boss_Essence-Gorb"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Journal_Entry-Garpede"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Vessel_Fragment-Crossroads"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Geo_Rock-Love_Key_Dupe"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Hallownest_Seal-Queen's_Gardens"
+  },
+  {
+    "item": "Whispering_Root-Resting_Grounds",
+    "location": "Geo_Rock-Queen's_Gardens_Acid_Entrance"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Soul_Totem-Greenpath_Below_Toll"
+  },
+  {
+    "item": "Lore_Tablet-Dung_Defender",
+    "location": "Unbreakable_Heart",
+    "costs": [
+      "LogicGeoCost {600 Geo}"
+    ]
+  },
+  {
+    "item": "Whispering_Root-Kingdoms_Edge",
+    "location": "Mothwing_Cloak"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Mantis_Village_After_Lever"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Geo_Rock-Below_Gorb"
+  },
+  {
+    "item": "Lore_Tablet-Greenpath_QG",
+    "location": "Crystal_Heart"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Crystal_Peak_Entrance_Dupe_1"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Beast's_Den_Below_Herrah"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Soul_Totem-Cliffs_Joni's"
+  },
+  {
+    "item": "Queen's_Gardens_Map",
+    "location": "Soul_Totem-Distant_Village"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Dark_Deepnest_Bottom_Left"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Crystal_Peak_Lower_Conveyer_1"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Dark_Deepnest_Above_Grub_1"
+  },
+  {
+    "item": "Crystal_Peak_Map",
+    "location": "Dreamshield"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Geo_Rock-Crystal_Peak_Entrance"
+  },
+  {
+    "item": "Geo_Rock-Grave02",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 404}"
+    ]
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 453}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-GreenPath02",
+    "location": "Geo_Rock-Dark_Deepnest_Above_Grub_2"
+  },
+  {
+    "item": "Collector's_Map",
+    "location": "Geo_Rock-Beast's_Den_Below_Egg_Dupe"
+  },
+  {
+    "item": "Boss_Geo-Enraged_Guardian",
+    "location": "Geo_Rock-Beast's_Den_After_Herrah"
+  },
+  {
+    "item": "World_Sense",
+    "location": "Geo_Rock-Beast's_Den_Above_Trilobite"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Rancid_Egg-Crystal_Peak_Dark_Room"
+  },
+  {
+    "item": "Boss_Geo-Vengefly_King",
+    "location": "Geo_Rock-Crystal_Peak_Before_Crystal_Heart"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 612}"
+    ]
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Crystal_Peak_Conga_Line"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Wanderer's_Journal-Crystal_Peak_Crawlers"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Chest-Crystal_Peak"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Whispering_Root-Deepnest"
+  },
+  {
+    "item": "Lore_Tablet-Fungal_Wastes_Below_Shrumal_Ogres",
+    "location": "Rancid_Egg-Dark_Deepnest"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Grub-Crystal_Peak_Below_Chest"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Grub-Crystal_Peak_Crushers"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Boss_Essence-Xero"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Geo_Rock-Deepnest_Above_Galien"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Beast's_Den_Above_Trilobite_Dupe"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 87}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-World_Sense",
+    "location": "Distant_Village_Stag",
+    "costs": [
+      "LogicGeoCost {250 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 17}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Unbreakable_Greed",
+    "costs": [
+      "LogicGeoCost {450 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-D",
+    "location": "Soul_Totem-Crystal_Heart_1"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Grub-Beast's_Den"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Crystal_Peak_Above_Crushers_Higher"
+  },
+  {
+    "item": "Lore_Tablet-King's_Pass_Focus",
+    "location": "Grub-Dark_Deepnest"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Rancid_Egg-Tuk_Defender's_Crest"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Rancid_Egg-Waterways_Main"
+  },
+  {
+    "item": "Royal_Waterways_Map",
+    "location": "Rancid_Egg-Waterways_West_Pickup"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 5}"
+    ]
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 2}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Waterways_Tuk_Alcove"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Mask_Shard-Waterways"
+  },
+  {
+    "item": "Whispering_Root-Queens_Gardens",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 21}"
+    ]
+  },
+  {
+    "item": "Whispering_Root-Hive",
+    "location": "Grub-Waterways_Main"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Waterways_Left"
+  },
+  {
+    "item": "Lore_Tablet-Archives_Left",
+    "location": "Herrah",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-Beast's_Den"
+  },
+  {
+    "item": "Howling_Cliffs_Map",
+    "location": "Geo_Rock-Crystal_Peak_Above_Spike_Grub"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Whispering_Root-Resting_Grounds"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Soul_Totem-Resting_Grounds"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Royal_Waterways_Map",
+    "costs": [
+      "LogicGeoCost {75 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Rock-Crystal_Peak_Before_Dark_Room"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Deepnest_Galien_Spike"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Resting_Grounds_Map",
+    "costs": [
+      "LogicGeoCost {56 Geo}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Upper_Crystal_Peak"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grub-Crystal_Peak_Spike"
+  },
+  {
+    "item": "Geo_Rock-Abyss",
+    "location": "Geo_Rock-Beast's_Den_Below_Egg"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Resting_Grounds_Stag"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Crystal_Peak_Map",
+    "costs": [
+      "LogicGeoCost {112 Geo}"
+    ]
+  },
+  {
+    "item": "Whispering_Root-Mantis_Village",
+    "location": "Rancid_Egg-Weaver's_Den"
+  },
+  {
+    "item": "Soul_Totem-F",
+    "location": "Boss_Essence-No_Eyes"
+  },
+  {
+    "item": "Journal_Entry-Goam",
+    "location": "Lifeblood_Cocoon-Galien"
+  },
+  {
+    "item": "Resting_Grounds_Stag",
+    "location": "Geo_Rock-Crystal_Peak_Lower_Conveyer_2"
+  },
+  {
+    "item": "Mantis_Claw",
+    "location": "Geo_Rock-Crystal_Peak_Entrance_Dupe_2"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Weaversong"
+  },
+  {
+    "item": "Geo_Rock-Outskirts420",
+    "location": "Dream_Nail"
+  },
+  {
+    "item": "Lore_Tablet-Greenpath_Lower_Hidden",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 23}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Tram_Pass"
+  },
+  {
+    "item": "Vengeful_Spirit",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {205 Geo}",
+      "{CHARMS >= 18}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {1 Geo}",
+      "{CHARMS >= 20}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Geo_Rock-Above_Mantis_Lords_1"
+  },
+  {
+    "item": "Soul_Totem-G",
+    "location": "Mask_Shard-Bretta"
+  },
+  {
+    "item": "Grub",
+    "location": "Soul_Totem-Pilgrim's_Way"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grub-Queen's_Gardens_Top"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Broken_Elevator_2"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Rancid_Egg-City_of_Tears_Pleasure_House"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lore_Tablet-Pleasure_House"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Basin_Requires_Dive"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Lumafly_Escape-Junk_Pit_Chest_4"
+  },
+  {
+    "item": "Whispering_Root-Crystal_Peak",
+    "location": "Boss_Essence-Soul_Tyrant"
+  },
+  {
+    "item": "Geo_Rock-Abyss",
+    "location": "Hallownest_Seal-King's_Station"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Soul_Totem-Waterways_East"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Defender's_Crest"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Pale_Ore-Nosk"
+  },
+  {
+    "item": "Lore_Tablet-Pilgrim's_Way_2",
+    "location": "Boss_Essence-Failed_Champion"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Grub-Crystallized_Mound"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "King's_Idol-Glade_of_Hope"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Isma's_Tear"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Hallownest_Seal-Resting_Grounds_Catacombs"
+  },
+  {
+    "item": "Lore_Tablet-Sanctum_Past_Soul_Master",
+    "location": "Geo_Rock-Deepnest_Nosk_2"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Deep_Focus"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Geo_Rock-Pleasure_House"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Crystal_Peak_Dive_Egg"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Soul_Totem-Crystallized_Mound"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Pale_Ore-Basin"
+  },
+  {
+    "item": "Fragile_Greed",
+    "location": "Geo_Chest-Weavers_Den"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Godhome_Pipeway"
+  },
+  {
+    "item": "Geo_Rock-Grave02",
+    "location": "Grub-City_of_Tears_Guarded"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Rancid_Egg-Waterways_East"
+  },
+  {
+    "item": "Lore_Tablet-Archives_Right",
+    "location": "Geo_Rock-Resting_Grounds_Catacombs_Left"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Chest-Resting_Grounds"
+  },
+  {
+    "item": "Thorns_of_Agony",
+    "location": "Geo_Rock-Basin_Before_Broken_Vessel"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Deepnest_Nosk_1"
+  },
+  {
+    "item": "Salubra's_Blessing",
+    "location": "Geo_Rock-Crossroads_Goam_Journal_Dupe"
+  },
+  {
+    "item": "Lumafly_Escape",
+    "location": "Geo_Rock-Waterways_East"
+  },
+  {
+    "item": "Boss_Geo-Elegant_Soul_Warrior",
+    "location": "Geo_Rock-Broken_Bridge_Lower_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Rancid_Egg-Crystal_Peak_Dive_Entrance"
+  },
+  {
+    "item": "Boss_Geo-Crystal_Guardian",
+    "location": "Soul_Totem-Outside_Crystallized_Mound"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Boss_Geo-Elegant_Soul_Warrior"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Chest-Junk_Pit_3"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-Hallownest_Crown"
+  },
+  {
+    "item": "Boss_Essence-Galien",
+    "location": "Geo_Rock-Hallownest_Crown_Hidden"
+  },
+  {
+    "item": "Lore_Tablet-Watcher's_Spire",
+    "location": "Lore_Tablet-Watcher's_Spire"
+  },
+  {
+    "item": "Lore_Tablet-Greenpath_Upper_Hidden",
+    "location": "Geo_Rock-Basin_Grub"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Geo_Rock-Fungal_Core_Hidden"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Grub-Hallownest_Crown"
+  },
+  {
+    "item": "Grub",
+    "location": "Hallownest_Seal-Queen's_Station"
+  },
+  {
+    "item": "Lore_Tablet-Greenpath_Below_Toll",
+    "location": "Grub-Basin_Requires_Wings"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Fluke_Hermit"
+  },
+  {
+    "item": "Geo_Rock-GreenPath02",
+    "location": "Lore_Tablet-Fungal_Core",
+    "costs": [
+      "{Spore_Shroom >= 1}"
+    ]
+  },
+  {
+    "item": "Whispering_Root-Spirits_Glade",
+    "location": "Whispering_Root-Crystal_Peak"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Pale_Ore-Crystal_Peak"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Whispering_Root-Ancestral_Mound"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Geo_Chest-Watcher_Knights"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Lurien",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Mask_Shard-Grey_Mourner"
+  },
+  {
+    "item": "Distant_Village_Stag",
+    "location": "Monarch_Wings"
+  },
+  {
+    "item": "Void_Heart",
+    "location": "Geo_Rock-Soul_Sanctum"
+  },
+  {
+    "item": "Grub",
+    "location": "Rancid_Egg-Crystal_Peak_Tall_Room"
+  },
+  {
+    "item": "Flukenest",
+    "location": "Soul_Totem-Sanctum_Above_Grub"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Lifeblood_Cocoon-Mantis_Village"
+  },
+  {
+    "item": "Whispering_Root-Leg_Eater",
+    "location": "Lore_Tablet-Sanctum_Past_Soul_Master"
+  },
+  {
+    "item": "Grub",
+    "location": "Rancid_Egg-Blue_Lake"
+  },
+  {
+    "item": "Geo_Rock-GreenPath02",
+    "location": "Flukenest"
+  },
+  {
+    "item": "Lore_Tablet-Greenpath_Lifeblood",
+    "location": "Mask_Shard-Enraged_Guardian"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Ancestral_Mound_Tree"
+  },
+  {
+    "item": "Lore_Tablet-Mantis_Outskirts",
+    "location": "Soul_Totem-Fungal_Core"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Wanderer's_Journal-King's_Station"
+  },
+  {
+    "item": "Boss_Geo-Gorgeous_Husk",
+    "location": "Geo_Chest-Junk_Pit_5"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Fluke_Hermit_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Crossroads_Goam_Journal"
+  },
+  {
+    "item": "Grub",
+    "location": "Grimmkin_Flame-Crystal_Peak"
+  },
+  {
+    "item": "Whispering_Root-Howling_Cliffs",
+    "location": "Grimmkin_Flame-Greenpath"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Whispering_Root-Spirits_Glade"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Vessel_Fragment-City"
+  },
+  {
+    "item": "Desolate_Dive",
+    "location": "Hallownest_Seal-Watcher_Knight"
+  },
+  {
+    "item": "Mothwing_Cloak",
+    "location": "Grub-Watcher's_Spire"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_1",
+    "location": "Geo_Rock-Above_King's_Station"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Boss_Essence-White_Defender"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Ancestral_Mound_Tree_Dupe"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Geo_Rock-Broken_Bridge_Lower"
+  },
+  {
+    "item": "Lore_Tablet-Archives_Upper",
+    "location": "King's_Idol-Crystal_Peak"
+  },
+  {
+    "item": "Ancient_Basin_Map",
+    "location": "Geo_Rock-Waterways_Flukemarm"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Hidden_Station_Stag",
+    "costs": [
+      "LogicGeoCost {300 Geo}"
+    ]
+  },
+  {
+    "item": "Journal_Entry-Void_Tendrils",
+    "location": "Grub-Deepnest_Nosk"
+  },
+  {
+    "item": "Joni's_Blessing",
+    "location": "Charm_Notch-Grimm"
+  },
+  {
+    "item": "Baldur_Shell",
+    "location": "Grimmkin_Flame-Ancient_Basin"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grimmkin_Flame-Brumm"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Boss_Geo-Enraged_Guardian"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Simple_Key-Basin"
+  },
+  {
+    "item": "Hiveblood",
+    "location": "Grimmkin_Flame-City_Storerooms"
+  },
+  {
+    "item": "Soul_Totem-E",
+    "location": "Soul_Totem-Sanctum_Below_Soul_Master"
+  },
+  {
+    "item": "Grub",
+    "location": "Godtuner",
+    "costs": [
+      "{SIMPLE >= 1}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Hallownest_Crown_Dive_Dupe"
+  },
+  {
+    "item": "Soul_Eater",
+    "location": "Grub-Resting_Grounds"
+  },
+  {
+    "item": "Geo_Chest-Resting_Grounds",
+    "location": "Soul_Totem-Waterways_Flukemarm"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Resting_Grounds_Catacombs_Left_Dupe"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Geo_Rock-Kingdom's_Edge_Below_Bardoon"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Simple_Key-Lurker"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Grub-Kingdom's_Edge_Camp"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "King's_Idol-Great_Hopper"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Soul_Totem-Kingdom's_Edge_Camp"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Quick_Slash"
+  },
+  {
+    "item": "Whispering_Root-Ancestral_Mound",
+    "location": "Soul_Totem-Oro"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Kingdom's_Edge_420_Geo_Rock"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Grub-Collector_3"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Wanderer's_Journal-Kingdom's_Edge_Requires_Dive"
+  },
+  {
+    "item": "Nailmaster's_Glory",
+    "location": "Grub-King's_Station"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Grub-Kingdom's_Edge_Oro"
+  },
+  {
+    "item": "Geo_Chest-Soul_Master",
+    "location": "Geo_Rock-Kingdom's_Edge_Below_Colosseum"
+  },
+  {
+    "item": "Boss_Essence-Gorb",
+    "location": "Charm_Notch-Colosseum"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Boss_Essence-Grey_Prince_Zote"
+  },
+  {
+    "item": "Grub",
+    "location": "Rancid_Egg-Near_Quick_Slash"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "King's_Idol-Pale_Lurker"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Vessel_Fragment-Basin",
+    "costs": [
+      "LogicGeoCost {3000 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-Pale_Lurker"
+  },
+  {
+    "item": "Boss_Essence-Failed_Champion",
+    "location": "Geo_Rock-Kingdom's_Edge_Above_Tower"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grimmkin_Flame-Kingdom's_Edge"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Kingdom's_Edge_Above_Root"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Wanderer's_Journal-Kingdom's_Edge_Entrance"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Kingdom's_Edge_Above_420_Geo_Rock"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Collector's_Map"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lore_Tablet-Kingdom's_Edge",
+    "costs": [
+      "{Spore_Shroom >= 1}"
+    ]
+  },
+  {
+    "item": "Quill",
+    "location": "King's_Brand"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Soul_Totem-Oro_Dive_2"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Kingdom's_Edge_Oro_Middle_Left"
+  },
+  {
+    "item": "Lore_Tablet-Sanctum_Entrance",
+    "location": "Wanderer's_Journal-Kingdom's_Edge_Camp"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Kingdom's_Edge_Map",
+    "costs": [
+      "LogicGeoCost {112 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Fung02",
+    "location": "Geo_Rock-Kingdom's_Edge_Oro_Far_Left"
+  },
+  {
+    "item": "Geo_Chest-Weavers_Den",
+    "location": "Lifeblood_Cocoon-Kingdom's_Edge"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_5",
+    "location": "Pale_Ore-Colosseum"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Soul_Totem-Upper_Kingdom's_Edge"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Collector_2"
+  },
+  {
+    "item": "Grub",
+    "location": "Dash_Slash",
+    "costs": [
+      "LogicGeoCost {800 Geo}"
+    ]
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Pale_Lurker"
+  },
+  {
+    "item": "Grub",
+    "location": "Rancid_Egg-Waterways_West_Bluggsac"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Geo_Rock-Fungal_Core_Above_Elder"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Abyss_3"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Abyss_1"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lifeblood_Core"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Geo_Rock-Abyss_2"
+  },
+  {
+    "item": "Hunter's_Journal",
+    "location": "Abyss_Shriek",
+    "costs": [
+      "{SCREAM >= 1}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Arcane_Egg-Lifeblood_Core"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Shade_Cloak"
+  },
+  {
+    "item": "Grub",
+    "location": "Lore_Tablet-World_Sense"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Rock-Watcher's_Spire"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Grub-Crystal_Heart"
+  },
+  {
+    "item": "Howling_Wraiths",
+    "location": "Soul_Eater"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Grub-Crystal_Peak_Mimic"
+  },
+  {
+    "item": "Lore_Tablet-Greenpath_Stag",
+    "location": "Arcane_Egg-Birthplace"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grimmkin_Flame-King's_Pass"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Geo_Rock-Broken_Elevator_3"
+  },
+  {
+    "item": "Boss_Essence-Xero",
+    "location": "Geo_Rock-Resting_Grounds_Catacombs_Grub"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Fungal_Core_Entrance"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Rancid_Egg-Sheo"
+  },
+  {
+    "item": "Soul_Catcher",
+    "location": "Geo_Rock-King's_Station"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Rancid_Egg-Fungal_Core"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Geo_Rock-Hallownest_Crown_Hidden_Dupe_2"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Crystal_Peak_Mimic_Grub"
+  },
+  {
+    "item": "Shade_Cloak",
+    "location": "Unbreakable_Strength",
+    "costs": [
+      "LogicGeoCost {750 Geo}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-Fungal_Core",
+    "location": "Soul_Totem-Below_Xero"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Wanderer's_Journal-Pleasure_House"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Wanderer's_Journal-Resting_Grounds_Catacombs"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_2",
+    "location": "Grub-Soul_Sanctum"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Glowing_Womb"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Shape_of_Unn"
+  },
+  {
+    "item": "Grub",
+    "location": "Fog_Canyon_Map",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Whispering_Root-Greenpath",
+    "location": "Lore_Tablet-Archives_Right"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lore_Tablet-Archives_Upper"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Love_Key"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 13}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Hallownest_Seal-Fog_Canyon_East"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Journal_Entry-Charged_Lumafly"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Grub-Isma's_Grove"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Lore_Tablet-Archives_Left"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Crossroads_Acid"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Grub-Fog_Canyon"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Monomon",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Whispering_Root-Leg_Eater"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Journal_Entry-Goam"
+  },
+  {
+    "item": "Swim",
+    "location": "Lore_Tablet-Ancient_Basin"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Deepnest_Nosk_3"
+  },
+  {
+    "item": "Dirtmouth_Stag",
+    "location": "Ancient_Basin_Map",
+    "costs": [
+      "LogicGeoCost {112 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Crystal_Peak_Dive_Egg_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Broken_Elevator_1"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "King's_Idol-Dung_Defender"
+  },
+  {
+    "item": "Weaversong",
+    "location": "Geo_Rock-Fog_Canyon_East"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Soul_Totem-Basin"
+  },
+  {
+    "item": "Lore_Tablet-King's_Pass_Exit",
+    "location": "Boss_Geo-Gorgeous_Husk"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Grub-Greenpath_MMC"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Rock-Lower_Kingdom's_Edge_1"
+  },
+  {
+    "item": "Geo_Rock-Fung01",
+    "location": "Arcane_Egg-Shade_Cloak"
+  },
+  {
+    "item": "Grub",
+    "location": "Soul_Totem-Lower_Kingdom's_Edge_2"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Lower_Kingdom's_Edge_3"
+  },
+  {
+    "item": "Boss_Geo-Sanctum_Soul_Warrior",
+    "location": "Soul_Totem-Lower_Kingdom's_Edge_1"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Rock-Hive_Above_Mask"
+  },
+  {
+    "item": "Shape_of_Unn",
+    "location": "Journal_Entry-Void_Tendrils"
+  },
+  {
+    "item": "Unbreakable_Strength",
+    "location": "Queen_Fragment"
+  },
+  {
+    "item": "Boss_Geo-Massive_Moss_Charger",
+    "location": "Hiveblood"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Mask_Shard-Hive"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Hive_Below_Stash"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Geo_Rock-Hive_Below_Root"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Whispering_Root-Hive"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Hive_Entrance"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Grub-Waterways_Requires_Tram"
+  },
+  {
+    "item": "Whispering_Root-Waterways",
+    "location": "Grub-Hive_External"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Hive_Stash"
+  },
+  {
+    "item": "Boss_Essence-Marmu",
+    "location": "Grimmkin_Flame-Hive"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Hive_Stash_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Boss_Essence-Markoth"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Grub-Hive_Internal"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Geo_Rock-Hive_Outside_Bench"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Hive_Below_Grub"
+  },
+  {
+    "item": "Geo_Rock-Fung02",
+    "location": "Nailmaster's_Glory"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Geo_Rock-Lower_Kingdom's_Edge_2"
+  },
+  {
+    "item": "Boss_Geo-Gruz_Mother",
+    "location": "Lore_Tablet-Sanctum_Entrance"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-Cliffs_Gorb"
+  },
+  {
+    "item": "King's_Station_Stag",
+    "location": "Geo_Rock-Fungal_After_Cloth"
+  },
+  {
+    "item": "Dreamer",
+    "location": "Geo_Rock-Cliffs_Main_1"
+  },
+  {
+    "item": "Lifeblood_Heart",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {330 Geo}"
+    ]
+  },
+  {
+    "item": "Lore_Tablet-Kingdom's_Edge",
+    "location": "Mantis_Claw"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Cyclone_Slash"
+  },
+  {
+    "item": "Fragile_Heart",
+    "location": "Soul_Catcher"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Moss_Prophet_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Boss_Geo-Sanctum_Soul_Warrior"
+  },
+  {
+    "item": "Soul_Totem-E",
+    "location": "Geo_Rock-Baldur_Shell_Top_Left"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Geo_Chest-Mantis_Lords"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Mask_Shard-Brooding_Mawlek"
+  },
+  {
+    "item": "Quick_Slash",
+    "location": "Wanderer's_Journal-Above_Mantis_Village"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Geo_Rock-Mantis_Village_Above_Lever"
+  },
+  {
+    "item": "Hidden_Station_Stag",
+    "location": "Stag_Nest_Stag",
+    "costs": [
+      "LogicGeoCost {300 Geo}"
+    ]
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Lore_Tablet-Greenpath_Upper_Hidden"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Geo_Rock-Mantis_Village_Above_Claw"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Geo_Rock-Fungal_Below_Pilgrim's_Way_Dupe"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Grub-Deepnest_Spike"
+  },
+  {
+    "item": "Gathering_Swarm",
+    "location": "Geo_Rock-Crossroads_Aspid_Arena_Hidden"
+  },
+  {
+    "item": "Geo_Rock-Abyss",
+    "location": "Grub-Howling_Cliffs"
+  },
+  {
+    "item": "Soul_Totem-D",
+    "location": "Wanderer's_Journal-Fungal_Wastes_Thorns_Gauntlet"
+  },
+  {
+    "item": "City_Storerooms_Stag",
+    "location": "Grub-Queen's_Gardens_Marmu"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Wanderer's_Journal-Cliffs"
+  },
+  {
+    "item": "Geo_Rock-Fung02",
+    "location": "Lore_Tablet-Greenpath_Stag"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Geo_Rock-Crossroads_Aspid_Arena_Dupe_2"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Crossroads_Above_Tram"
+  },
+  {
+    "item": "Crystal_Heart",
+    "location": "Geo_Rock-Crossroads_Before_Acid_Grub"
+  },
+  {
+    "item": "Grub",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {360 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Soul_Totem-Path_of_Pain_Second"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Path_of_Pain_Final"
+  },
+  {
+    "item": "Boss_Essence-White_Defender",
+    "location": "Soul_Totem-White_Palace_Final"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-White_Palace_Hub"
+  },
+  {
+    "item": "Shade_Soul",
+    "location": "Journal_Entry-Seal_of_Binding"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Lore_Tablet-Path_of_Pain_Entrance"
+  },
+  {
+    "item": "Vessel_Fragment",
+    "location": "Soul_Totem-White_Palace_Right"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Soul_Totem-Path_of_Pain_Entrance"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Lore_Tablet-Palace_Workshop"
+  },
+  {
+    "item": "Grimmkin_Flame",
+    "location": "Soul_Totem-Path_of_Pain_Below_Thornskip"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Soul_Totem-Path_of_Pain_Below_Lever"
+  },
+  {
+    "item": "Geo_Rock-Grave01",
+    "location": "Soul_Totem-White_Palace_Left"
+  },
+  {
+    "item": "Queen's_Station_Stag",
+    "location": "Lore_Tablet-Palace_Throne"
+  },
+  {
+    "item": "Mask_Shard",
+    "location": "Soul_Totem-Path_of_Pain_Left_of_Lever"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-White_Palace_Entrance"
+  },
+  {
+    "item": "Lore_Tablet-Fungal_Wastes_Hidden",
+    "location": "Soul_Totem-Path_of_Pain_Hidden"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "King_Fragment"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Soul_Totem-Sanctum_Below_Chest"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Lore_Tablet-King's_Pass_Exit"
+  },
+  {
+    "item": "Desolate_Dive",
+    "location": "Geo_Rock-Below_Gorb_Dupe"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Greenpath_Map",
+    "costs": [
+      "LogicGeoCost {60 Geo}"
+    ]
+  },
+  {
+    "item": "King_Fragment",
+    "location": "Whispering_Root-Queens_Gardens"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Hallownest_Seal-Deepnest_By_Mantis_Lords"
+  },
+  {
+    "item": "Geo_Chest-Watcher_Knights",
+    "location": "Geo_Rock-Greenpath_After_MMC_Hidden"
+  },
+  {
+    "item": "Geo_Rock-Outskirts",
+    "location": "Spell_Twister"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Greenpath_Moss_Knights"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Grub-Deepnest_Mimic"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Rock-Fungal_After_Bouncy_Grub"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Deepnest_Garpede_1"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Grub-Fungal_Bouncy"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo"
+  },
+  {
+    "item": "Lore_Tablet-Path_of_Pain_Entrance",
+    "location": "Geo_Rock-Deepnest_By_Mantis_Lords_2"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Grimmchild"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Geo_Rock-Mantis_Outskirts_Guarded_Dupe"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Geo_Rock-Greenpath_Acid_Bridge"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {630 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Deepnest_Garpede_2"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Geo_Rock-Greenpath_Moss_Knights_Dupe_1"
+  },
+  {
+    "item": "Grub",
+    "location": "Geo_Rock-Greenpath_Entrance"
+  },
+  {
+    "item": "Dream_Nail",
+    "location": "Howling_Wraiths"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Rock-Greenpath_Moss_Knights_Dupe_2"
+  },
+  {
+    "item": "Geo_Rock-City",
+    "location": "Lore_Tablet-Greenpath_Lower_Hidden"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Wanderer's_Journal-Greenpath_Stag"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Geo_Rock-Crossroads_Before_Shops"
+  },
+  {
+    "item": "Geo_Rock-GreenPath01",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Greenpath_Stag",
+    "location": "Geo_Rock-Greenpath_Below_Skip_Squit"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Hallownest_Seal-Fungal_Wastes_Sporgs"
+  },
+  {
+    "item": "Boss_Essence-Soul_Tyrant",
+    "location": "Lore_Tablet-Pilgrim's_Way_1"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Vessel_Fragment-Deepnest"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Lifeblood_Cocoon-Failed_Tramway"
+  },
+  {
+    "item": "Fungal_Wastes_Map",
+    "location": "Geo_Rock-Overgrown_Mound"
+  },
+  {
+    "item": "Lore_Tablet-Mantis_Village",
+    "location": "Grub-Crossroads_Guarded"
+  },
+  {
+    "item": "Geo_Chest-Greenpath",
+    "location": "Geo_Rock-Deepnest_Below_Spike_Grub"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Geo_Rock-Crossroads_Root"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Soul_Totem-Greenpath_Hunter's_Journal"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Crossroads_Goam_Damage_Boost"
+  },
+  {
+    "item": "Dashmaster",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 3}"
+    ]
+  },
+  {
+    "item": "Spell_Twister",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {320 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Crossroads_Before_Glowing_Womb"
+  },
+  {
+    "item": "Geo_Rock-Mine",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {1 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Grub-Queen's_Gardens_Stag"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Queen's_Gardens_Below_Stag"
+  },
+  {
+    "item": "Geo_Rock-Hive",
+    "location": "Soul_Totem-Crossroads_Myla"
+  },
+  {
+    "item": "Geo_Rock-Deepnest",
+    "location": "Geo_Rock-Crossroads_After_Goam_Mask_Shard"
+  },
+  {
+    "item": "Boss_Essence-Grey_Prince_Zote",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {190 Geo}"
+    ]
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Geo_Rock-Crossroads_Center_Grub"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Geo_Rock-Crossroads_Above_Mawlek"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Grub-Crossroads_Spike"
+  },
+  {
+    "item": "Geo_Rock-Default",
+    "location": "Geo_Rock-Crossroads_Tram"
+  }
+]

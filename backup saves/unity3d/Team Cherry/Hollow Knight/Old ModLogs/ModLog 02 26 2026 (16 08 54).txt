@@ -1,0 +1,105 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[AnyRadiance] - Initializing
+[INFO]:[Benchwarp] - Initializing
+[INFO]:[Benchwarp] - Loading Global Settings
+[INFO]:[DebugMod] - Initializing
+[INFO]:[DebugMod] - Loading Global Settings
+[INFO]:[API] - Preloaded reflection in 4729ms
+[INFO]:[HKMirrorMod] - Initializing
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HkmpPouch] - Initializing
+[INFO]:[ItemChangerMod] - Initializing
+[INFO]:[ItemChangerMod] - Loading Global Settings
+[INFO]:[KorzUtils] - Initializing
+[INFO]:[MenuChangerMod] - Initializing
+[INFO]:[MoreSaves] - Initializing
+[INFO]:[MoreSaves] - Loading Global Settings
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[Satchel] - Initializing
+[INFO]:[API] - Assembly Vasi (2.0.0.0) loaded with 0 mods
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 21 preload scenes from 133916 to 1092 objects (1.66MB)
+[ERROR]:[API] - Finished preloading in 8.00s
+[INFO]:[DebugMod] - Initializing
+[INFO]:[DebugMod] - Building MethodInfo dict...
+[INFO]:[DebugMod] - Done! Time taken: 0.004888535s. Found 122 methods
+[INFO]:[HKMirrorMod] - Loading HKMirror Mod
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\Skins\Croissant, given ID: 1
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah, given ID: 3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] Tried to load texture at: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah (League of legends)\Knight.png, but it didn't exist
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] Tried to load texture at: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah (League of legends)\Sprint.png, but it didn't exist
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah (League of legends), given ID: 2
+[INFO]:[MoreSaves] - Initializing MoreSaves
+[INFO]:[MoreSaves] - MoreSaves.Properties.Resources.resources
+[INFO]:[MoreSaves] - MoreSaves.Resources.Input_BG.png
+[INFO]:[MoreSaves] - Loaded image: Input_BG
+[INFO]:[MoreSaves] - Initialized MoreSaves
+[INFO]:[MenuChangerMod] - Mode menu was not requested, skipping construction...
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - Any Radiance : 1.0.0.0
+[INFO]:[API] - Benchwarp : 3.2.6.0
+[INFO]:[API] - DebugMod : 1.4.10.2-e60df7
+[INFO]:[API] - HKMirrorMod : v2.1.0.0
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - ItemChangerMod : 2.1.5+512
+[INFO]:[API] - KorzUtils : 0.10.0.0
+[INFO]:[API] - MenuChanger : 1.1.0+132
+[INFO]:[API] - MoreSaves : 0.7.10
+[INFO]:[API] - QoL : 4.8.0.0-4ca9d1
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: C:\games\Hollow-Knight-Steamrip.com\Hollow Knight v1.5.78.11833\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[DebugMod] - [DREAM GATE] File dreamgate.dat not found!
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Radiance to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Radiance to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Radiance to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Radiance to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Radiance to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Radiance to GG_Workshop
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from GG_Workshop to GG_Radiance
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[DebugMod] - Saving Global Settings
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[ItemChangerMod] - Saving Global Settings
+[INFO]:[MoreSaves] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[DebugMod] - Saving Global Settings
+[INFO]:[DebugMod] - Saved
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - AnyRadiance.Radiance.Radiance.OnDestroy () (at <ad7ea702d29a4bfb9440d3b4a70222a8>:0)
+[ERROR]:[UNITY] - 

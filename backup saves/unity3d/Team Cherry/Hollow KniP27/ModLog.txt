@@ -1,0 +1,474 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[Benchwarp] - Initializing
+[INFO]:[Benchwarp] - Loading Global Settings
+[INFO]:[DeathCounter] - Initializing
+[INFO]:[DeathCounter] - Loading Global Settings
+[INFO]:[API] - Preloaded reflection in 4510ms
+[INFO]:[HKMirrorMod] - Initializing
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HkmpPouch] - Initializing
+[INFO]:[MoreSaves] - Initializing
+[INFO]:[MoreSaves] - Loading Global Settings
+[INFO]:[PressGToDab] - Initializing
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[Satchel] - Initializing
+[INFO]:[API] - Assembly Vasi (2.0.0.0) loaded with 0 mods
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 3 preload scenes from 15515 to 76 objects (0.15MB)
+[ERROR]:[API] - Finished preloading in 5.00s
+[INFO]:[HKMirrorMod] - Loading HKMirror Mod
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\Skins\Croissant, given ID: 1
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah, given ID: 3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] Tried to load texture at: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah (League of legends)\Knight.png, but it didn't exist
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] Tried to load texture at: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah (League of legends)\Sprint.png, but it didn't exist
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\Skins\Xayah (League of legends), given ID: 2
+[INFO]:[MoreSaves] - Initializing MoreSaves
+[INFO]:[MoreSaves] - MoreSaves.Properties.Resources.resources
+[INFO]:[MoreSaves] - MoreSaves.Resources.Input_BG.png
+[INFO]:[MoreSaves] - Loaded image: Input_BG
+[INFO]:[MoreSaves] - Initialized MoreSaves
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - Benchwarp : 3.2.6.0
+[INFO]:[API] - DeathCounter : 1.5.78-9
+[INFO]:[API] - HKMirrorMod : v2.1.0.0
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - MoreSaves : 0.7.10
+[INFO]:[API] - PressGToDab : 1.2.0
+[INFO]:[API] - QoL : 4.8.0.0-4ca9d1
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: C:\New folder\content\Hollow Knight\Instance1\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[ERROR]:[UNITY] - NullReferenceException
+[ERROR]:[UNITY] - UnityEngine.MonoBehaviour.StartCoroutine (System.Collections.IEnumerator routine) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - (wrapper dynamic-method) UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68.DMD<UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68::MoveNext>(UnityEngine.UI.SaveSlotButton/<AnimateToSlotState>d__68)
+[ERROR]:[UNITY] - UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException
+[ERROR]:[UNITY] - UnityEngine.Animator.ResetTrigger (System.String name) (at <d9588575c4ff4e818531b9dd12300bcd>:0)
+[ERROR]:[UNITY] - (wrapper dynamic-method) UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68.DMD<UnityEngine.UI.SaveSlotButton+<AnimateToSlotState>d__68::MoveNext>(UnityEngine.UI.SaveSlotButton/<AnimateToSlotState>d__68)
+[ERROR]:[UNITY] - UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <047294ce45cf4b9a9441e48d2b8435e4>:0)
+[ERROR]:[UNITY] - UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+[ERROR]:[UNITY] - CoroutineQueue:Enqueue(IEnumerator)
+[ERROR]:[UNITY] - UnityEngine.UI.SaveSlotButton:HideSaveSlot()
+[ERROR]:[UNITY] - <HideSaveProfileMenu>d__216:DMD<UIManager+<HideSaveProfileMenu>d__216::MoveNext>(<HideSaveProfileMenu>d__216)
+[ERROR]:[UNITY] - UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+[ERROR]:[UNITY] - 
+[INFO]:[DeathCounter] - Deaths: 0
+[INFO]:[DeathCounter] - Damage: 0
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to Tutorial_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Connecting client to server: 127.0.0.1:26950 as nigger
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Client is connected, sending Hello packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Sending Hello packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Received HelloClient from server
+[INFO]:[HkmpPouch.Networking.Client] sending get packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Tutorial_01 to Town
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Town to Crossroads_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_01 to Crossroads_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_07 to Crossroads_33
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_33 to Crossroads_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_08 to Town
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Town to Crossroads_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_01 to Crossroads_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_07 to Crossroads_33
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_33 to Crossroads_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_08 to Crossroads_30
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_30 to Crossroads_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_08 to Crossroads_30
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_30 to Crossroads_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_08 to Crossroads_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_13 to Crossroads_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_42 to Crossroads_19
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_19 to Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_47
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_47 to Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_47
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_47 to Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_21 to Crossroads_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10 to Crossroads_10_boss
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10_boss to Crossroads_47
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_47 to Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_21 to Crossroads_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10 to Crossroads_10_boss
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10_boss to Crossroads_47
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_47 to Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_21 to Crossroads_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10 to Crossroads_10_boss
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10_boss to Crossroads_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_06 to Crossroads_ShamanTemple
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.TryGetMapLocation (UnityEngine.Vector3& mapLocation) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:187)
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.HeroControllerOnUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:82)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?-927227008(HeroController)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<HeroController::Update>?-1993203712(HeroController)
+[ERROR]:[UNITY] - Hkmp.Game.Client.ClientManager.OnPlayerUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/ClientManager.cs:918)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?554030720(HeroController)
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.TryGetMapLocation (UnityEngine.Vector3& mapLocation) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:187)
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.HeroControllerOnUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:82)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?-927227008(HeroController)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<HeroController::Update>?-1993203712(HeroController)
+[ERROR]:[UNITY] - Hkmp.Game.Client.ClientManager.OnPlayerUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/ClientManager.cs:918)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?554030720(HeroController)
+[ERROR]:[UNITY] - 
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.TryGetMapLocation (UnityEngine.Vector3& mapLocation) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:187)
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.HeroControllerOnUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:82)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?-927227008(HeroController)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<HeroController::Update>?-1993203712(HeroController)
+[ERROR]:[UNITY] - Hkmp.Game.Client.ClientManager.OnPlayerUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/ClientManager.cs:918)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?554030720(HeroController)
+[ERROR]:[UNITY] - 
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_ShamanTemple to Crossroads_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_06 to Crossroads_33
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_33 to Crossroads_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_07 to Crossroads_11_alt
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_11_alt to Fungus1_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01 to Crossroads_ShamanTemple
+[ERROR]:[UNITY] - NullReferenceException: Object reference not set to an instance of an object
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.TryGetMapLocation (UnityEngine.Vector3& mapLocation) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:187)
+[ERROR]:[UNITY] - Hkmp.Game.Client.MapManager.HeroControllerOnUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/MapManager.cs:82)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?-927227008(HeroController)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<HeroController::Update>?-1993203712(HeroController)
+[ERROR]:[UNITY] - Hkmp.Game.Client.ClientManager.OnPlayerUpdate (On.HeroController+orig_Update orig, HeroController self) (at /home/runner/work/HKMP/HKMP/HKMP/Game/Client/ClientManager.cs:918)
+[ERROR]:[UNITY] - (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<HeroController::Update>?554030720(HeroController)
+[ERROR]:[UNITY] - 
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_ShamanTemple to Crossroads_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_06 to Crossroads_33
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_33 to Crossroads_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_07 to Crossroads_11_alt
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_11_alt to Fungus1_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_06 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_06 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_01b to Fungus1_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_02 to Fungus1_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_06 to Fungus1_01b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 0 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Quit_To_Menu
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Menu_Title
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[DeathCounter] - Saving Global Settings
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[MoreSaves] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings
+[ERROR]:[Hkmp.Networking.Client.UdpNetClient] UDP Socket exception:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): mono-io-layer-error (10004)
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x0003e] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Client.UdpNetClient.ReceiveData (System.Threading.CancellationToken token) [0x00019] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/UdpNetClient.cs:82 

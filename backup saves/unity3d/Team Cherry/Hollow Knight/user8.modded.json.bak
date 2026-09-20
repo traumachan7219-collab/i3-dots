@@ -1,0 +1,96 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "ArcadeKnight": {
+      "RecordData": [
+        {
+          "CourseName": "Cliffhanger",
+          "EasyHighscore": "8",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 0
+        },
+        {
+          "CourseName": "Ascend!",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 0
+        },
+        {
+          "CourseName": "Elevator",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 0
+        },
+        {
+          "CourseName": "Trust",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 1
+        },
+        {
+          "CourseName": "Never saw that coming",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 1
+        },
+        {
+          "CourseName": "Mawlek buffet",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 1
+        },
+        {
+          "CourseName": "Ghost Gallery",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 2
+        },
+        {
+          "CourseName": "Slugs Tub",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 2
+        },
+        {
+          "CourseName": "Zenith of Art",
+          "EasyHighscore": "",
+          "NormalHighscore": "",
+          "HardHighscore": "",
+          "Minigame": 2
+        }
+      ]
+    },
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "Town",
+          "RespawnMarkerName": "RestBench"
+        },
+        {
+          "SceneName": "Fungus2_02",
+          "RespawnMarkerName": "RestBench"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "ItemChangerMod": {
+      "value": null
+    },
+    "MenuChanger": {
+      "resumeKey": null
+    }
+  }
+}
